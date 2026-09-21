@@ -1,0 +1,2 @@
+fixture_external_id,player_external_id,league_id,minutes,goals,assists,clean_sheet,yellow_cards,red_cards,penalty_saved,penalty_missed,own_goals,saves,bonus
+pl_fix_2026_01,pl_arsenal_p1,premier-league,90,0,1,true,0,0,0,0,0,3,2

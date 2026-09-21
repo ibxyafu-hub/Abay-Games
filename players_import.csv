@@ -1,0 +1,421 @@
+league_slug,team_name,player_name,first_name,last_name,position,nationality,age,photo_url,price,external_player_id
+premier-league,"Arsenal","David Keeper (Arsenal)","David","Keeper (Arsenal)",GK,"Spain",28,"",6.5,pl_1_p1
+premier-league,"Arsenal","Marco Defender (Arsenal)","Marco","Defender (Arsenal)",DEF,"Brazil",25,"",7.9,pl_1_p2
+premier-league,"Arsenal","Lucas Back (Arsenal)","Lucas","Back (Arsenal)",DEF,"France",26,"",7.1,pl_1_p3
+premier-league,"Arsenal","Matteo Midfielder (Arsenal)","Matteo","Midfielder (Arsenal)",MID,"Italy",24,"",8.3,pl_1_p4
+premier-league,"Arsenal","Gabriel Playmaker (Arsenal)","Gabriel","Playmaker (Arsenal)",MID,"Argentina",27,"",7.5,pl_1_p5
+premier-league,"Arsenal","Alex Striker (Arsenal)","Alex","Striker (Arsenal)",FWD,"England",22,"",8.7,pl_1_p6
+premier-league,"Arsenal","Carlos Goal (Arsenal)","Carlos","Goal (Arsenal)",FWD,"Spain",29,"",7.9,pl_1_p7
+premier-league,"Aston Villa","David Keeper (Aston Villa)","David","Keeper (Aston Villa)",GK,"Spain",28,"",5.8,pl_2_p1
+premier-league,"Aston Villa","Marco Defender (Aston Villa)","Marco","Defender (Aston Villa)",DEF,"Brazil",25,"",5.5,pl_2_p2
+premier-league,"Aston Villa","Lucas Back (Aston Villa)","Lucas","Back (Aston Villa)",DEF,"France",26,"",6.2,pl_2_p3
+premier-league,"Aston Villa","Matteo Midfielder (Aston Villa)","Matteo","Midfielder (Aston Villa)",MID,"Italy",24,"",5.9,pl_2_p4
+premier-league,"Aston Villa","Gabriel Playmaker (Aston Villa)","Gabriel","Playmaker (Aston Villa)",MID,"Argentina",27,"",6.6,pl_2_p5
+premier-league,"Aston Villa","Alex Striker (Aston Villa)","Alex","Striker (Aston Villa)",FWD,"England",22,"",6.3,pl_2_p6
+premier-league,"Aston Villa","Carlos Goal (Aston Villa)","Carlos","Goal (Aston Villa)",FWD,"Spain",29,"",7.0,pl_2_p7
+premier-league,"Bournemouth","David Keeper (Bournemouth)","David","Keeper (Bournemouth)",GK,"Spain",28,"",3.5,pl_3_p1
+premier-league,"Bournemouth","Marco Defender (Bournemouth)","Marco","Defender (Bournemouth)",DEF,"Brazil",25,"",4.7,pl_3_p2
+premier-league,"Bournemouth","Lucas Back (Bournemouth)","Lucas","Back (Bournemouth)",DEF,"France",26,"",5.4,pl_3_p3
+premier-league,"Bournemouth","Matteo Midfielder (Bournemouth)","Matteo","Midfielder (Bournemouth)",MID,"Italy",24,"",5.1,pl_3_p4
+premier-league,"Bournemouth","Gabriel Playmaker (Bournemouth)","Gabriel","Playmaker (Bournemouth)",MID,"Argentina",27,"",5.8,pl_3_p5
+premier-league,"Bournemouth","Alex Striker (Bournemouth)","Alex","Striker (Bournemouth)",FWD,"England",22,"",5.5,pl_3_p6
+premier-league,"Bournemouth","Carlos Goal (Bournemouth)","Carlos","Goal (Bournemouth)",FWD,"Spain",29,"",6.2,pl_3_p7
+premier-league,"Brentford","David Keeper (Brentford)","David","Keeper (Brentford)",GK,"Spain",28,"",3.9,pl_4_p1
+premier-league,"Brentford","Marco Defender (Brentford)","Marco","Defender (Brentford)",DEF,"Brazil",25,"",5.1,pl_4_p2
+premier-league,"Brentford","Lucas Back (Brentford)","Lucas","Back (Brentford)",DEF,"France",26,"",4.3,pl_4_p3
+premier-league,"Brentford","Matteo Midfielder (Brentford)","Matteo","Midfielder (Brentford)",MID,"Italy",24,"",5.5,pl_4_p4
+premier-league,"Brentford","Gabriel Playmaker (Brentford)","Gabriel","Playmaker (Brentford)",MID,"Argentina",27,"",4.7,pl_4_p5
+premier-league,"Brentford","Alex Striker (Brentford)","Alex","Striker (Brentford)",FWD,"England",22,"",5.9,pl_4_p6
+premier-league,"Brentford","Carlos Goal (Brentford)","Carlos","Goal (Brentford)",FWD,"Spain",29,"",5.1,pl_4_p7
+premier-league,"Brighton & Hove Albion","David Keeper (Brighton & Hove Albion)","David","Keeper (Brighton & Hove Albion)",GK,"Spain",28,"",4.3,pl_5_p1
+premier-league,"Brighton & Hove Albion","Marco Defender (Brighton & Hove Albion)","Marco","Defender (Brighton & Hove Albion)",DEF,"Brazil",25,"",4.0,pl_5_p2
+premier-league,"Brighton & Hove Albion","Lucas Back (Brighton & Hove Albion)","Lucas","Back (Brighton & Hove Albion)",DEF,"France",26,"",4.7,pl_5_p3
+premier-league,"Brighton & Hove Albion","Matteo Midfielder (Brighton & Hove Albion)","Matteo","Midfielder (Brighton & Hove Albion)",MID,"Italy",24,"",5.9,pl_5_p4
+premier-league,"Brighton & Hove Albion","Gabriel Playmaker (Brighton & Hove Albion)","Gabriel","Playmaker (Brighton & Hove Albion)",MID,"Argentina",27,"",5.1,pl_5_p5
+premier-league,"Brighton & Hove Albion","Alex Striker (Brighton & Hove Albion)","Alex","Striker (Brighton & Hove Albion)",FWD,"England",22,"",6.3,pl_5_p6
+premier-league,"Brighton & Hove Albion","Carlos Goal (Brighton & Hove Albion)","Carlos","Goal (Brighton & Hove Albion)",FWD,"Spain",29,"",5.5,pl_5_p7
+premier-league,"Chelsea","David Keeper (Chelsea)","David","Keeper (Chelsea)",GK,"Spain",28,"",5.9,pl_6_p1
+premier-league,"Chelsea","Marco Defender (Chelsea)","Marco","Defender (Chelsea)",DEF,"Brazil",25,"",5.6,pl_6_p2
+premier-league,"Chelsea","Lucas Back (Chelsea)","Lucas","Back (Chelsea)",DEF,"France",26,"",6.3,pl_6_p3
+premier-league,"Chelsea","Matteo Midfielder (Chelsea)","Matteo","Midfielder (Chelsea)",MID,"Italy",24,"",6.0,pl_6_p4
+premier-league,"Chelsea","Gabriel Playmaker (Chelsea)","Gabriel","Playmaker (Chelsea)",MID,"Argentina",27,"",6.7,pl_6_p5
+premier-league,"Chelsea","Alex Striker (Chelsea)","Alex","Striker (Chelsea)",FWD,"England",22,"",6.4,pl_6_p6
+premier-league,"Chelsea","Carlos Goal (Chelsea)","Carlos","Goal (Chelsea)",FWD,"Spain",29,"",7.1,pl_6_p7
+premier-league,"Crystal Palace","David Keeper (Crystal Palace)","David","Keeper (Crystal Palace)",GK,"Spain",28,"",3.6,pl_7_p1
+premier-league,"Crystal Palace","Marco Defender (Crystal Palace)","Marco","Defender (Crystal Palace)",DEF,"Brazil",25,"",4.8,pl_7_p2
+premier-league,"Crystal Palace","Lucas Back (Crystal Palace)","Lucas","Back (Crystal Palace)",DEF,"France",26,"",4.0,pl_7_p3
+premier-league,"Crystal Palace","Matteo Midfielder (Crystal Palace)","Matteo","Midfielder (Crystal Palace)",MID,"Italy",24,"",5.2,pl_7_p4
+premier-league,"Crystal Palace","Gabriel Playmaker (Crystal Palace)","Gabriel","Playmaker (Crystal Palace)",MID,"Argentina",27,"",5.9,pl_7_p5
+premier-league,"Crystal Palace","Alex Striker (Crystal Palace)","Alex","Striker (Crystal Palace)",FWD,"England",22,"",5.6,pl_7_p6
+premier-league,"Crystal Palace","Carlos Goal (Crystal Palace)","Carlos","Goal (Crystal Palace)",FWD,"Spain",29,"",6.3,pl_7_p7
+premier-league,"Everton","David Keeper (Everton)","David","Keeper (Everton)",GK,"Spain",28,"",4.0,pl_8_p1
+premier-league,"Everton","Marco Defender (Everton)","Marco","Defender (Everton)",DEF,"Brazil",25,"",5.2,pl_8_p2
+premier-league,"Everton","Lucas Back (Everton)","Lucas","Back (Everton)",DEF,"France",26,"",4.4,pl_8_p3
+premier-league,"Everton","Matteo Midfielder (Everton)","Matteo","Midfielder (Everton)",MID,"Italy",24,"",5.6,pl_8_p4
+premier-league,"Everton","Gabriel Playmaker (Everton)","Gabriel","Playmaker (Everton)",MID,"Argentina",27,"",4.8,pl_8_p5
+premier-league,"Everton","Alex Striker (Everton)","Alex","Striker (Everton)",FWD,"England",22,"",6.0,pl_8_p6
+premier-league,"Everton","Carlos Goal (Everton)","Carlos","Goal (Everton)",FWD,"Spain",29,"",5.2,pl_8_p7
+premier-league,"Fulham","David Keeper (Fulham)","David","Keeper (Fulham)",GK,"Spain",28,"",4.4,pl_9_p1
+premier-league,"Fulham","Marco Defender (Fulham)","Marco","Defender (Fulham)",DEF,"Brazil",25,"",4.1,pl_9_p2
+premier-league,"Fulham","Lucas Back (Fulham)","Lucas","Back (Fulham)",DEF,"France",26,"",4.8,pl_9_p3
+premier-league,"Fulham","Matteo Midfielder (Fulham)","Matteo","Midfielder (Fulham)",MID,"Italy",24,"",4.5,pl_9_p4
+premier-league,"Fulham","Gabriel Playmaker (Fulham)","Gabriel","Playmaker (Fulham)",MID,"Argentina",27,"",5.2,pl_9_p5
+premier-league,"Fulham","Alex Striker (Fulham)","Alex","Striker (Fulham)",FWD,"England",22,"",6.4,pl_9_p6
+premier-league,"Fulham","Carlos Goal (Fulham)","Carlos","Goal (Fulham)",FWD,"Spain",29,"",5.6,pl_9_p7
+premier-league,"Ipswich Town","David Keeper (Ipswich Town)","David","Keeper (Ipswich Town)",GK,"Spain",28,"",4.8,pl_10_p1
+premier-league,"Ipswich Town","Marco Defender (Ipswich Town)","Marco","Defender (Ipswich Town)",DEF,"Brazil",25,"",4.5,pl_10_p2
+premier-league,"Ipswich Town","Lucas Back (Ipswich Town)","Lucas","Back (Ipswich Town)",DEF,"France",26,"",5.2,pl_10_p3
+premier-league,"Ipswich Town","Matteo Midfielder (Ipswich Town)","Matteo","Midfielder (Ipswich Town)",MID,"Italy",24,"",4.9,pl_10_p4
+premier-league,"Ipswich Town","Gabriel Playmaker (Ipswich Town)","Gabriel","Playmaker (Ipswich Town)",MID,"Argentina",27,"",5.6,pl_10_p5
+premier-league,"Ipswich Town","Alex Striker (Ipswich Town)","Alex","Striker (Ipswich Town)",FWD,"England",22,"",5.3,pl_10_p6
+premier-league,"Ipswich Town","Carlos Goal (Ipswich Town)","Carlos","Goal (Ipswich Town)",FWD,"Spain",29,"",6.0,pl_10_p7
+premier-league,"Leicester City","David Keeper (Leicester City)","David","Keeper (Leicester City)",GK,"Spain",28,"",3.7,pl_11_p1
+premier-league,"Leicester City","Marco Defender (Leicester City)","Marco","Defender (Leicester City)",DEF,"Brazil",25,"",4.9,pl_11_p2
+premier-league,"Leicester City","Lucas Back (Leicester City)","Lucas","Back (Leicester City)",DEF,"France",26,"",4.1,pl_11_p3
+premier-league,"Leicester City","Matteo Midfielder (Leicester City)","Matteo","Midfielder (Leicester City)",MID,"Italy",24,"",5.3,pl_11_p4
+premier-league,"Leicester City","Gabriel Playmaker (Leicester City)","Gabriel","Playmaker (Leicester City)",MID,"Argentina",27,"",4.5,pl_11_p5
+premier-league,"Leicester City","Alex Striker (Leicester City)","Alex","Striker (Leicester City)",FWD,"England",22,"",5.7,pl_11_p6
+premier-league,"Leicester City","Carlos Goal (Leicester City)","Carlos","Goal (Leicester City)",FWD,"Spain",29,"",6.4,pl_11_p7
+premier-league,"Liverpool","David Keeper (Liverpool)","David","Keeper (Liverpool)",GK,"Spain",28,"",6.5,pl_12_p1
+premier-league,"Liverpool","Marco Defender (Liverpool)","Marco","Defender (Liverpool)",DEF,"Brazil",25,"",7.8,pl_12_p2
+premier-league,"Liverpool","Lucas Back (Liverpool)","Lucas","Back (Liverpool)",DEF,"France",26,"",7.0,pl_12_p3
+premier-league,"Liverpool","Matteo Midfielder (Liverpool)","Matteo","Midfielder (Liverpool)",MID,"Italy",24,"",8.2,pl_12_p4
+premier-league,"Liverpool","Gabriel Playmaker (Liverpool)","Gabriel","Playmaker (Liverpool)",MID,"Argentina",27,"",7.4,pl_12_p5
+premier-league,"Liverpool","Alex Striker (Liverpool)","Alex","Striker (Liverpool)",FWD,"England",22,"",8.6,pl_12_p6
+premier-league,"Liverpool","Carlos Goal (Liverpool)","Carlos","Goal (Liverpool)",FWD,"Spain",29,"",7.8,pl_12_p7
+premier-league,"Manchester City","David Keeper (Manchester City)","David","Keeper (Manchester City)",GK,"Spain",28,"",6.5,pl_13_p1
+premier-league,"Manchester City","Marco Defender (Manchester City)","Marco","Defender (Manchester City)",DEF,"Brazil",25,"",6.7,pl_13_p2
+premier-league,"Manchester City","Lucas Back (Manchester City)","Lucas","Back (Manchester City)",DEF,"France",26,"",7.4,pl_13_p3
+premier-league,"Manchester City","Matteo Midfielder (Manchester City)","Matteo","Midfielder (Manchester City)",MID,"Italy",24,"",7.1,pl_13_p4
+premier-league,"Manchester City","Gabriel Playmaker (Manchester City)","Gabriel","Playmaker (Manchester City)",MID,"Argentina",27,"",7.8,pl_13_p5
+premier-league,"Manchester City","Alex Striker (Manchester City)","Alex","Striker (Manchester City)",FWD,"England",22,"",7.5,pl_13_p6
+premier-league,"Manchester City","Carlos Goal (Manchester City)","Carlos","Goal (Manchester City)",FWD,"Spain",29,"",8.2,pl_13_p7
+premier-league,"Manchester United","David Keeper (Manchester United)","David","Keeper (Manchester United)",GK,"Spain",28,"",6.1,pl_14_p1
+premier-league,"Manchester United","Marco Defender (Manchester United)","Marco","Defender (Manchester United)",DEF,"Brazil",25,"",5.8,pl_14_p2
+premier-league,"Manchester United","Lucas Back (Manchester United)","Lucas","Back (Manchester United)",DEF,"France",26,"",6.5,pl_14_p3
+premier-league,"Manchester United","Matteo Midfielder (Manchester United)","Matteo","Midfielder (Manchester United)",MID,"Italy",24,"",6.2,pl_14_p4
+premier-league,"Manchester United","Gabriel Playmaker (Manchester United)","Gabriel","Playmaker (Manchester United)",MID,"Argentina",27,"",6.9,pl_14_p5
+premier-league,"Manchester United","Alex Striker (Manchester United)","Alex","Striker (Manchester United)",FWD,"England",22,"",6.6,pl_14_p6
+premier-league,"Manchester United","Carlos Goal (Manchester United)","Carlos","Goal (Manchester United)",FWD,"Spain",29,"",7.3,pl_14_p7
+premier-league,"Newcastle United","David Keeper (Newcastle United)","David","Keeper (Newcastle United)",GK,"Spain",28,"",5.0,pl_15_p1
+premier-league,"Newcastle United","Marco Defender (Newcastle United)","Marco","Defender (Newcastle United)",DEF,"Brazil",25,"",6.2,pl_15_p2
+premier-league,"Newcastle United","Lucas Back (Newcastle United)","Lucas","Back (Newcastle United)",DEF,"France",26,"",5.4,pl_15_p3
+premier-league,"Newcastle United","Matteo Midfielder (Newcastle United)","Matteo","Midfielder (Newcastle United)",MID,"Italy",24,"",6.6,pl_15_p4
+premier-league,"Newcastle United","Gabriel Playmaker (Newcastle United)","Gabriel","Playmaker (Newcastle United)",MID,"Argentina",27,"",5.8,pl_15_p5
+premier-league,"Newcastle United","Alex Striker (Newcastle United)","Alex","Striker (Newcastle United)",FWD,"England",22,"",7.0,pl_15_p6
+premier-league,"Newcastle United","Carlos Goal (Newcastle United)","Carlos","Goal (Newcastle United)",FWD,"Spain",29,"",6.2,pl_15_p7
+premier-league,"Nottingham Forest","David Keeper (Nottingham Forest)","David","Keeper (Nottingham Forest)",GK,"Spain",28,"",4.2,pl_16_p1
+premier-league,"Nottingham Forest","Marco Defender (Nottingham Forest)","Marco","Defender (Nottingham Forest)",DEF,"Brazil",25,"",5.4,pl_16_p2
+premier-league,"Nottingham Forest","Lucas Back (Nottingham Forest)","Lucas","Back (Nottingham Forest)",DEF,"France",26,"",4.6,pl_16_p3
+premier-league,"Nottingham Forest","Matteo Midfielder (Nottingham Forest)","Matteo","Midfielder (Nottingham Forest)",MID,"Italy",24,"",5.8,pl_16_p4
+premier-league,"Nottingham Forest","Gabriel Playmaker (Nottingham Forest)","Gabriel","Playmaker (Nottingham Forest)",MID,"Argentina",27,"",5.0,pl_16_p5
+premier-league,"Nottingham Forest","Alex Striker (Nottingham Forest)","Alex","Striker (Nottingham Forest)",FWD,"England",22,"",6.2,pl_16_p6
+premier-league,"Nottingham Forest","Carlos Goal (Nottingham Forest)","Carlos","Goal (Nottingham Forest)",FWD,"Spain",29,"",5.4,pl_16_p7
+premier-league,"Southampton","David Keeper (Southampton)","David","Keeper (Southampton)",GK,"Spain",28,"",4.6,pl_17_p1
+premier-league,"Southampton","Marco Defender (Southampton)","Marco","Defender (Southampton)",DEF,"Brazil",25,"",4.3,pl_17_p2
+premier-league,"Southampton","Lucas Back (Southampton)","Lucas","Back (Southampton)",DEF,"France",26,"",5.0,pl_17_p3
+premier-league,"Southampton","Matteo Midfielder (Southampton)","Matteo","Midfielder (Southampton)",MID,"Italy",24,"",4.7,pl_17_p4
+premier-league,"Southampton","Gabriel Playmaker (Southampton)","Gabriel","Playmaker (Southampton)",MID,"Argentina",27,"",5.4,pl_17_p5
+premier-league,"Southampton","Alex Striker (Southampton)","Alex","Striker (Southampton)",FWD,"England",22,"",5.1,pl_17_p6
+premier-league,"Southampton","Carlos Goal (Southampton)","Carlos","Goal (Southampton)",FWD,"Spain",29,"",5.8,pl_17_p7
+premier-league,"Tottenham Hotspur","David Keeper (Tottenham Hotspur)","David","Keeper (Tottenham Hotspur)",GK,"Spain",28,"",4.7,pl_18_p1
+premier-league,"Tottenham Hotspur","Marco Defender (Tottenham Hotspur)","Marco","Defender (Tottenham Hotspur)",DEF,"Brazil",25,"",5.9,pl_18_p2
+premier-league,"Tottenham Hotspur","Lucas Back (Tottenham Hotspur)","Lucas","Back (Tottenham Hotspur)",DEF,"France",26,"",6.6,pl_18_p3
+premier-league,"Tottenham Hotspur","Matteo Midfielder (Tottenham Hotspur)","Matteo","Midfielder (Tottenham Hotspur)",MID,"Italy",24,"",6.3,pl_18_p4
+premier-league,"Tottenham Hotspur","Gabriel Playmaker (Tottenham Hotspur)","Gabriel","Playmaker (Tottenham Hotspur)",MID,"Argentina",27,"",7.0,pl_18_p5
+premier-league,"Tottenham Hotspur","Alex Striker (Tottenham Hotspur)","Alex","Striker (Tottenham Hotspur)",FWD,"England",22,"",6.7,pl_18_p6
+premier-league,"Tottenham Hotspur","Carlos Goal (Tottenham Hotspur)","Carlos","Goal (Tottenham Hotspur)",FWD,"Spain",29,"",7.4,pl_18_p7
+premier-league,"West Ham United","David Keeper (West Ham United)","David","Keeper (West Ham United)",GK,"Spain",28,"",3.9,pl_19_p1
+premier-league,"West Ham United","Marco Defender (West Ham United)","Marco","Defender (West Ham United)",DEF,"Brazil",25,"",5.1,pl_19_p2
+premier-league,"West Ham United","Lucas Back (West Ham United)","Lucas","Back (West Ham United)",DEF,"France",26,"",4.3,pl_19_p3
+premier-league,"West Ham United","Matteo Midfielder (West Ham United)","Matteo","Midfielder (West Ham United)",MID,"Italy",24,"",5.5,pl_19_p4
+premier-league,"West Ham United","Gabriel Playmaker (West Ham United)","Gabriel","Playmaker (West Ham United)",MID,"Argentina",27,"",4.7,pl_19_p5
+premier-league,"West Ham United","Alex Striker (West Ham United)","Alex","Striker (West Ham United)",FWD,"England",22,"",5.9,pl_19_p6
+premier-league,"West Ham United","Carlos Goal (West Ham United)","Carlos","Goal (West Ham United)",FWD,"Spain",29,"",5.1,pl_19_p7
+premier-league,"Wolverhampton Wanderers","David Keeper (Wolverhampton Wanderers)","David","Keeper (Wolverhampton Wanderers)",GK,"Spain",28,"",4.3,pl_20_p1
+premier-league,"Wolverhampton Wanderers","Marco Defender (Wolverhampton Wanderers)","Marco","Defender (Wolverhampton Wanderers)",DEF,"Brazil",25,"",4.0,pl_20_p2
+premier-league,"Wolverhampton Wanderers","Lucas Back (Wolverhampton Wanderers)","Lucas","Back (Wolverhampton Wanderers)",DEF,"France",26,"",4.7,pl_20_p3
+premier-league,"Wolverhampton Wanderers","Matteo Midfielder (Wolverhampton Wanderers)","Matteo","Midfielder (Wolverhampton Wanderers)",MID,"Italy",24,"",5.9,pl_20_p4
+premier-league,"Wolverhampton Wanderers","Gabriel Playmaker (Wolverhampton Wanderers)","Gabriel","Playmaker (Wolverhampton Wanderers)",MID,"Argentina",27,"",5.1,pl_20_p5
+premier-league,"Wolverhampton Wanderers","Alex Striker (Wolverhampton Wanderers)","Alex","Striker (Wolverhampton Wanderers)",FWD,"England",22,"",6.3,pl_20_p6
+premier-league,"Wolverhampton Wanderers","Carlos Goal (Wolverhampton Wanderers)","Carlos","Goal (Wolverhampton Wanderers)",FWD,"Spain",29,"",5.5,pl_20_p7
+la-liga,"Alavés","David Keeper (Alavés)","David","Keeper (Alavés)",GK,"Spain",28,"",4.7,ll_1_p1
+la-liga,"Alavés","Marco Defender (Alavés)","Marco","Defender (Alavés)",DEF,"Brazil",25,"",4.4,ll_1_p2
+la-liga,"Alavés","Lucas Back (Alavés)","Lucas","Back (Alavés)",DEF,"France",26,"",5.1,ll_1_p3
+la-liga,"Alavés","Matteo Midfielder (Alavés)","Matteo","Midfielder (Alavés)",MID,"Italy",24,"",4.8,ll_1_p4
+la-liga,"Alavés","Gabriel Playmaker (Alavés)","Gabriel","Playmaker (Alavés)",MID,"Argentina",27,"",5.5,ll_1_p5
+la-liga,"Alavés","Alex Striker (Alavés)","Alex","Striker (Alavés)",FWD,"England",22,"",5.2,ll_1_p6
+la-liga,"Alavés","Carlos Goal (Alavés)","Carlos","Goal (Alavés)",FWD,"Spain",29,"",5.9,ll_1_p7
+la-liga,"Athletic Bilbao","David Keeper (Athletic Bilbao)","David","Keeper (Athletic Bilbao)",GK,"Spain",28,"",4.8,ll_2_p1
+la-liga,"Athletic Bilbao","Marco Defender (Athletic Bilbao)","Marco","Defender (Athletic Bilbao)",DEF,"Brazil",25,"",6.0,ll_2_p2
+la-liga,"Athletic Bilbao","Lucas Back (Athletic Bilbao)","Lucas","Back (Athletic Bilbao)",DEF,"France",26,"",5.2,ll_2_p3
+la-liga,"Athletic Bilbao","Matteo Midfielder (Athletic Bilbao)","Matteo","Midfielder (Athletic Bilbao)",MID,"Italy",24,"",6.4,ll_2_p4
+la-liga,"Athletic Bilbao","Gabriel Playmaker (Athletic Bilbao)","Gabriel","Playmaker (Athletic Bilbao)",MID,"Argentina",27,"",7.1,ll_2_p5
+la-liga,"Athletic Bilbao","Alex Striker (Athletic Bilbao)","Alex","Striker (Athletic Bilbao)",FWD,"England",22,"",6.8,ll_2_p6
+la-liga,"Athletic Bilbao","Carlos Goal (Athletic Bilbao)","Carlos","Goal (Athletic Bilbao)",FWD,"Spain",29,"",7.5,ll_2_p7
+la-liga,"Atlético Madrid","David Keeper (Atlético Madrid)","David","Keeper (Atlético Madrid)",GK,"Spain",28,"",6.5,ll_3_p1
+la-liga,"Atlético Madrid","Marco Defender (Atlético Madrid)","Marco","Defender (Atlético Madrid)",DEF,"Brazil",25,"",7.7,ll_3_p2
+la-liga,"Atlético Madrid","Lucas Back (Atlético Madrid)","Lucas","Back (Atlético Madrid)",DEF,"France",26,"",6.9,ll_3_p3
+la-liga,"Atlético Madrid","Matteo Midfielder (Atlético Madrid)","Matteo","Midfielder (Atlético Madrid)",MID,"Italy",24,"",8.1,ll_3_p4
+la-liga,"Atlético Madrid","Gabriel Playmaker (Atlético Madrid)","Gabriel","Playmaker (Atlético Madrid)",MID,"Argentina",27,"",7.3,ll_3_p5
+la-liga,"Atlético Madrid","Alex Striker (Atlético Madrid)","Alex","Striker (Atlético Madrid)",FWD,"England",22,"",8.5,ll_3_p6
+la-liga,"Atlético Madrid","Carlos Goal (Atlético Madrid)","Carlos","Goal (Atlético Madrid)",FWD,"Spain",29,"",7.7,ll_3_p7
+la-liga,"Barcelona","David Keeper (Barcelona)","David","Keeper (Barcelona)",GK,"Spain",28,"",6.5,ll_4_p1
+la-liga,"Barcelona","Marco Defender (Barcelona)","Marco","Defender (Barcelona)",DEF,"Brazil",25,"",6.6,ll_4_p2
+la-liga,"Barcelona","Lucas Back (Barcelona)","Lucas","Back (Barcelona)",DEF,"France",26,"",7.3,ll_4_p3
+la-liga,"Barcelona","Matteo Midfielder (Barcelona)","Matteo","Midfielder (Barcelona)",MID,"Italy",24,"",7.0,ll_4_p4
+la-liga,"Barcelona","Gabriel Playmaker (Barcelona)","Gabriel","Playmaker (Barcelona)",MID,"Argentina",27,"",7.7,ll_4_p5
+la-liga,"Barcelona","Alex Striker (Barcelona)","Alex","Striker (Barcelona)",FWD,"England",22,"",8.9,ll_4_p6
+la-liga,"Barcelona","Carlos Goal (Barcelona)","Carlos","Goal (Barcelona)",FWD,"Spain",29,"",8.1,ll_4_p7
+la-liga,"Celta Vigo","David Keeper (Celta Vigo)","David","Keeper (Celta Vigo)",GK,"Spain",28,"",4.8,ll_5_p1
+la-liga,"Celta Vigo","Marco Defender (Celta Vigo)","Marco","Defender (Celta Vigo)",DEF,"Brazil",25,"",4.5,ll_5_p2
+la-liga,"Celta Vigo","Lucas Back (Celta Vigo)","Lucas","Back (Celta Vigo)",DEF,"France",26,"",5.2,ll_5_p3
+la-liga,"Celta Vigo","Matteo Midfielder (Celta Vigo)","Matteo","Midfielder (Celta Vigo)",MID,"Italy",24,"",4.9,ll_5_p4
+la-liga,"Celta Vigo","Gabriel Playmaker (Celta Vigo)","Gabriel","Playmaker (Celta Vigo)",MID,"Argentina",27,"",5.6,ll_5_p5
+la-liga,"Celta Vigo","Alex Striker (Celta Vigo)","Alex","Striker (Celta Vigo)",FWD,"England",22,"",5.3,ll_5_p6
+la-liga,"Celta Vigo","Carlos Goal (Celta Vigo)","Carlos","Goal (Celta Vigo)",FWD,"Spain",29,"",6.0,ll_5_p7
+la-liga,"Espanyol","David Keeper (Espanyol)","David","Keeper (Espanyol)",GK,"Spain",28,"",3.7,ll_6_p1
+la-liga,"Espanyol","Marco Defender (Espanyol)","Marco","Defender (Espanyol)",DEF,"Brazil",25,"",4.9,ll_6_p2
+la-liga,"Espanyol","Lucas Back (Espanyol)","Lucas","Back (Espanyol)",DEF,"France",26,"",4.1,ll_6_p3
+la-liga,"Espanyol","Matteo Midfielder (Espanyol)","Matteo","Midfielder (Espanyol)",MID,"Italy",24,"",5.3,ll_6_p4
+la-liga,"Espanyol","Gabriel Playmaker (Espanyol)","Gabriel","Playmaker (Espanyol)",MID,"Argentina",27,"",4.5,ll_6_p5
+la-liga,"Espanyol","Alex Striker (Espanyol)","Alex","Striker (Espanyol)",FWD,"England",22,"",5.7,ll_6_p6
+la-liga,"Espanyol","Carlos Goal (Espanyol)","Carlos","Goal (Espanyol)",FWD,"Spain",29,"",6.4,ll_6_p7
+la-liga,"Getafe","David Keeper (Getafe)","David","Keeper (Getafe)",GK,"Spain",28,"",4.1,ll_7_p1
+la-liga,"Getafe","Marco Defender (Getafe)","Marco","Defender (Getafe)",DEF,"Brazil",25,"",5.3,ll_7_p2
+la-liga,"Getafe","Lucas Back (Getafe)","Lucas","Back (Getafe)",DEF,"France",26,"",4.5,ll_7_p3
+la-liga,"Getafe","Matteo Midfielder (Getafe)","Matteo","Midfielder (Getafe)",MID,"Italy",24,"",5.7,ll_7_p4
+la-liga,"Getafe","Gabriel Playmaker (Getafe)","Gabriel","Playmaker (Getafe)",MID,"Argentina",27,"",4.9,ll_7_p5
+la-liga,"Getafe","Alex Striker (Getafe)","Alex","Striker (Getafe)",FWD,"England",22,"",6.1,ll_7_p6
+la-liga,"Getafe","Carlos Goal (Getafe)","Carlos","Goal (Getafe)",FWD,"Spain",29,"",5.3,ll_7_p7
+la-liga,"Girona","David Keeper (Girona)","David","Keeper (Girona)",GK,"Spain",28,"",4.5,ll_8_p1
+la-liga,"Girona","Marco Defender (Girona)","Marco","Defender (Girona)",DEF,"Brazil",25,"",4.2,ll_8_p2
+la-liga,"Girona","Lucas Back (Girona)","Lucas","Back (Girona)",DEF,"France",26,"",4.9,ll_8_p3
+la-liga,"Girona","Matteo Midfielder (Girona)","Matteo","Midfielder (Girona)",MID,"Italy",24,"",4.6,ll_8_p4
+la-liga,"Girona","Gabriel Playmaker (Girona)","Gabriel","Playmaker (Girona)",MID,"Argentina",27,"",5.3,ll_8_p5
+la-liga,"Girona","Alex Striker (Girona)","Alex","Striker (Girona)",FWD,"England",22,"",5.0,ll_8_p6
+la-liga,"Girona","Carlos Goal (Girona)","Carlos","Goal (Girona)",FWD,"Spain",29,"",5.7,ll_8_p7
+la-liga,"Las Palmas","David Keeper (Las Palmas)","David","Keeper (Las Palmas)",GK,"Spain",28,"",4.9,ll_9_p1
+la-liga,"Las Palmas","Marco Defender (Las Palmas)","Marco","Defender (Las Palmas)",DEF,"Brazil",25,"",4.6,ll_9_p2
+la-liga,"Las Palmas","Lucas Back (Las Palmas)","Lucas","Back (Las Palmas)",DEF,"France",26,"",5.3,ll_9_p3
+la-liga,"Las Palmas","Matteo Midfielder (Las Palmas)","Matteo","Midfielder (Las Palmas)",MID,"Italy",24,"",5.0,ll_9_p4
+la-liga,"Las Palmas","Gabriel Playmaker (Las Palmas)","Gabriel","Playmaker (Las Palmas)",MID,"Argentina",27,"",5.7,ll_9_p5
+la-liga,"Las Palmas","Alex Striker (Las Palmas)","Alex","Striker (Las Palmas)",FWD,"England",22,"",5.4,ll_9_p6
+la-liga,"Las Palmas","Carlos Goal (Las Palmas)","Carlos","Goal (Las Palmas)",FWD,"Spain",29,"",6.1,ll_9_p7
+la-liga,"Mallorca","David Keeper (Mallorca)","David","Keeper (Mallorca)",GK,"Spain",28,"",3.8,ll_10_p1
+la-liga,"Mallorca","Marco Defender (Mallorca)","Marco","Defender (Mallorca)",DEF,"Brazil",25,"",5.0,ll_10_p2
+la-liga,"Mallorca","Lucas Back (Mallorca)","Lucas","Back (Mallorca)",DEF,"France",26,"",4.2,ll_10_p3
+la-liga,"Mallorca","Matteo Midfielder (Mallorca)","Matteo","Midfielder (Mallorca)",MID,"Italy",24,"",5.4,ll_10_p4
+la-liga,"Mallorca","Gabriel Playmaker (Mallorca)","Gabriel","Playmaker (Mallorca)",MID,"Argentina",27,"",4.6,ll_10_p5
+la-liga,"Mallorca","Alex Striker (Mallorca)","Alex","Striker (Mallorca)",FWD,"England",22,"",5.8,ll_10_p6
+la-liga,"Mallorca","Carlos Goal (Mallorca)","Carlos","Goal (Mallorca)",FWD,"Spain",29,"",5.0,ll_10_p7
+la-liga,"Osasuna","David Keeper (Osasuna)","David","Keeper (Osasuna)",GK,"Spain",28,"",4.2,ll_11_p1
+la-liga,"Osasuna","Marco Defender (Osasuna)","Marco","Defender (Osasuna)",DEF,"Brazil",25,"",5.4,ll_11_p2
+la-liga,"Osasuna","Lucas Back (Osasuna)","Lucas","Back (Osasuna)",DEF,"France",26,"",4.6,ll_11_p3
+la-liga,"Osasuna","Matteo Midfielder (Osasuna)","Matteo","Midfielder (Osasuna)",MID,"Italy",24,"",5.8,ll_11_p4
+la-liga,"Osasuna","Gabriel Playmaker (Osasuna)","Gabriel","Playmaker (Osasuna)",MID,"Argentina",27,"",5.0,ll_11_p5
+la-liga,"Osasuna","Alex Striker (Osasuna)","Alex","Striker (Osasuna)",FWD,"England",22,"",6.2,ll_11_p6
+la-liga,"Osasuna","Carlos Goal (Osasuna)","Carlos","Goal (Osasuna)",FWD,"Spain",29,"",5.4,ll_11_p7
+la-liga,"Rayo Vallecano","David Keeper (Rayo Vallecano)","David","Keeper (Rayo Vallecano)",GK,"Spain",28,"",4.6,ll_12_p1
+la-liga,"Rayo Vallecano","Marco Defender (Rayo Vallecano)","Marco","Defender (Rayo Vallecano)",DEF,"Brazil",25,"",4.3,ll_12_p2
+la-liga,"Rayo Vallecano","Lucas Back (Rayo Vallecano)","Lucas","Back (Rayo Vallecano)",DEF,"France",26,"",5.0,ll_12_p3
+la-liga,"Rayo Vallecano","Matteo Midfielder (Rayo Vallecano)","Matteo","Midfielder (Rayo Vallecano)",MID,"Italy",24,"",4.7,ll_12_p4
+la-liga,"Rayo Vallecano","Gabriel Playmaker (Rayo Vallecano)","Gabriel","Playmaker (Rayo Vallecano)",MID,"Argentina",27,"",5.4,ll_12_p5
+la-liga,"Rayo Vallecano","Alex Striker (Rayo Vallecano)","Alex","Striker (Rayo Vallecano)",FWD,"England",22,"",5.1,ll_12_p6
+la-liga,"Rayo Vallecano","Carlos Goal (Rayo Vallecano)","Carlos","Goal (Rayo Vallecano)",FWD,"Spain",29,"",5.8,ll_12_p7
+la-liga,"Real Betis","David Keeper (Real Betis)","David","Keeper (Real Betis)",GK,"Spain",28,"",3.5,ll_13_p1
+la-liga,"Real Betis","Marco Defender (Real Betis)","Marco","Defender (Real Betis)",DEF,"Brazil",25,"",4.7,ll_13_p2
+la-liga,"Real Betis","Lucas Back (Real Betis)","Lucas","Back (Real Betis)",DEF,"France",26,"",5.4,ll_13_p3
+la-liga,"Real Betis","Matteo Midfielder (Real Betis)","Matteo","Midfielder (Real Betis)",MID,"Italy",24,"",5.1,ll_13_p4
+la-liga,"Real Betis","Gabriel Playmaker (Real Betis)","Gabriel","Playmaker (Real Betis)",MID,"Argentina",27,"",5.8,ll_13_p5
+la-liga,"Real Betis","Alex Striker (Real Betis)","Alex","Striker (Real Betis)",FWD,"England",22,"",5.5,ll_13_p6
+la-liga,"Real Betis","Carlos Goal (Real Betis)","Carlos","Goal (Real Betis)",FWD,"Spain",29,"",6.2,ll_13_p7
+la-liga,"Real Madrid","David Keeper (Real Madrid)","David","Keeper (Real Madrid)",GK,"Spain",28,"",6.4,ll_14_p1
+la-liga,"Real Madrid","Marco Defender (Real Madrid)","Marco","Defender (Real Madrid)",DEF,"Brazil",25,"",7.6,ll_14_p2
+la-liga,"Real Madrid","Lucas Back (Real Madrid)","Lucas","Back (Real Madrid)",DEF,"France",26,"",6.8,ll_14_p3
+la-liga,"Real Madrid","Matteo Midfielder (Real Madrid)","Matteo","Midfielder (Real Madrid)",MID,"Italy",24,"",8.0,ll_14_p4
+la-liga,"Real Madrid","Gabriel Playmaker (Real Madrid)","Gabriel","Playmaker (Real Madrid)",MID,"Argentina",27,"",7.2,ll_14_p5
+la-liga,"Real Madrid","Alex Striker (Real Madrid)","Alex","Striker (Real Madrid)",FWD,"England",22,"",8.4,ll_14_p6
+la-liga,"Real Madrid","Carlos Goal (Real Madrid)","Carlos","Goal (Real Madrid)",FWD,"Spain",29,"",7.6,ll_14_p7
+la-liga,"Real Sociedad","David Keeper (Real Sociedad)","David","Keeper (Real Sociedad)",GK,"Spain",28,"",5.5,ll_15_p1
+la-liga,"Real Sociedad","Marco Defender (Real Sociedad)","Marco","Defender (Real Sociedad)",DEF,"Brazil",25,"",5.2,ll_15_p2
+la-liga,"Real Sociedad","Lucas Back (Real Sociedad)","Lucas","Back (Real Sociedad)",DEF,"France",26,"",5.9,ll_15_p3
+la-liga,"Real Sociedad","Matteo Midfielder (Real Sociedad)","Matteo","Midfielder (Real Sociedad)",MID,"Italy",24,"",7.1,ll_15_p4
+la-liga,"Real Sociedad","Gabriel Playmaker (Real Sociedad)","Gabriel","Playmaker (Real Sociedad)",MID,"Argentina",27,"",6.3,ll_15_p5
+la-liga,"Real Sociedad","Alex Striker (Real Sociedad)","Alex","Striker (Real Sociedad)",FWD,"England",22,"",7.5,ll_15_p6
+la-liga,"Real Sociedad","Carlos Goal (Real Sociedad)","Carlos","Goal (Real Sociedad)",FWD,"Spain",29,"",6.7,ll_15_p7
+la-liga,"Sevilla","David Keeper (Sevilla)","David","Keeper (Sevilla)",GK,"Spain",28,"",4.7,ll_16_p1
+la-liga,"Sevilla","Marco Defender (Sevilla)","Marco","Defender (Sevilla)",DEF,"Brazil",25,"",4.4,ll_16_p2
+la-liga,"Sevilla","Lucas Back (Sevilla)","Lucas","Back (Sevilla)",DEF,"France",26,"",5.1,ll_16_p3
+la-liga,"Sevilla","Matteo Midfielder (Sevilla)","Matteo","Midfielder (Sevilla)",MID,"Italy",24,"",4.8,ll_16_p4
+la-liga,"Sevilla","Gabriel Playmaker (Sevilla)","Gabriel","Playmaker (Sevilla)",MID,"Argentina",27,"",5.5,ll_16_p5
+la-liga,"Sevilla","Alex Striker (Sevilla)","Alex","Striker (Sevilla)",FWD,"England",22,"",5.2,ll_16_p6
+la-liga,"Sevilla","Carlos Goal (Sevilla)","Carlos","Goal (Sevilla)",FWD,"Spain",29,"",5.9,ll_16_p7
+la-liga,"Valencia","David Keeper (Valencia)","David","Keeper (Valencia)",GK,"Spain",28,"",3.6,ll_17_p1
+la-liga,"Valencia","Marco Defender (Valencia)","Marco","Defender (Valencia)",DEF,"Brazil",25,"",4.8,ll_17_p2
+la-liga,"Valencia","Lucas Back (Valencia)","Lucas","Back (Valencia)",DEF,"France",26,"",4.0,ll_17_p3
+la-liga,"Valencia","Matteo Midfielder (Valencia)","Matteo","Midfielder (Valencia)",MID,"Italy",24,"",5.2,ll_17_p4
+la-liga,"Valencia","Gabriel Playmaker (Valencia)","Gabriel","Playmaker (Valencia)",MID,"Argentina",27,"",5.9,ll_17_p5
+la-liga,"Valencia","Alex Striker (Valencia)","Alex","Striker (Valencia)",FWD,"England",22,"",5.6,ll_17_p6
+la-liga,"Valencia","Carlos Goal (Valencia)","Carlos","Goal (Valencia)",FWD,"Spain",29,"",6.3,ll_17_p7
+la-liga,"Valladolid","David Keeper (Valladolid)","David","Keeper (Valladolid)",GK,"Spain",28,"",4.0,ll_18_p1
+la-liga,"Valladolid","Marco Defender (Valladolid)","Marco","Defender (Valladolid)",DEF,"Brazil",25,"",5.2,ll_18_p2
+la-liga,"Valladolid","Lucas Back (Valladolid)","Lucas","Back (Valladolid)",DEF,"France",26,"",4.4,ll_18_p3
+la-liga,"Valladolid","Matteo Midfielder (Valladolid)","Matteo","Midfielder (Valladolid)",MID,"Italy",24,"",5.6,ll_18_p4
+la-liga,"Valladolid","Gabriel Playmaker (Valladolid)","Gabriel","Playmaker (Valladolid)",MID,"Argentina",27,"",4.8,ll_18_p5
+la-liga,"Valladolid","Alex Striker (Valladolid)","Alex","Striker (Valladolid)",FWD,"England",22,"",6.0,ll_18_p6
+la-liga,"Valladolid","Carlos Goal (Valladolid)","Carlos","Goal (Valladolid)",FWD,"Spain",29,"",5.2,ll_18_p7
+la-liga,"Villarreal","David Keeper (Villarreal)","David","Keeper (Villarreal)",GK,"Spain",28,"",5.6,ll_19_p1
+la-liga,"Villarreal","Marco Defender (Villarreal)","Marco","Defender (Villarreal)",DEF,"Brazil",25,"",5.3,ll_19_p2
+la-liga,"Villarreal","Lucas Back (Villarreal)","Lucas","Back (Villarreal)",DEF,"France",26,"",6.0,ll_19_p3
+la-liga,"Villarreal","Matteo Midfielder (Villarreal)","Matteo","Midfielder (Villarreal)",MID,"Italy",24,"",5.7,ll_19_p4
+la-liga,"Villarreal","Gabriel Playmaker (Villarreal)","Gabriel","Playmaker (Villarreal)",MID,"Argentina",27,"",6.4,ll_19_p5
+la-liga,"Villarreal","Alex Striker (Villarreal)","Alex","Striker (Villarreal)",FWD,"England",22,"",7.6,ll_19_p6
+la-liga,"Villarreal","Carlos Goal (Villarreal)","Carlos","Goal (Villarreal)",FWD,"Spain",29,"",6.8,ll_19_p7
+la-liga,"Leganés","David Keeper (Leganés)","David","Keeper (Leganés)",GK,"Spain",28,"",4.8,ll_20_p1
+la-liga,"Leganés","Marco Defender (Leganés)","Marco","Defender (Leganés)",DEF,"Brazil",25,"",4.5,ll_20_p2
+la-liga,"Leganés","Lucas Back (Leganés)","Lucas","Back (Leganés)",DEF,"France",26,"",5.2,ll_20_p3
+la-liga,"Leganés","Matteo Midfielder (Leganés)","Matteo","Midfielder (Leganés)",MID,"Italy",24,"",4.9,ll_20_p4
+la-liga,"Leganés","Gabriel Playmaker (Leganés)","Gabriel","Playmaker (Leganés)",MID,"Argentina",27,"",5.6,ll_20_p5
+la-liga,"Leganés","Alex Striker (Leganés)","Alex","Striker (Leganés)",FWD,"England",22,"",5.3,ll_20_p6
+la-liga,"Leganés","Carlos Goal (Leganés)","Carlos","Goal (Leganés)",FWD,"Spain",29,"",6.0,ll_20_p7
+serie-a,"Atalanta","David Keeper (Atalanta)","David","Keeper (Atalanta)",GK,"Spain",28,"",4.9,sa_1_p1
+serie-a,"Atalanta","Marco Defender (Atalanta)","Marco","Defender (Atalanta)",DEF,"Brazil",25,"",6.1,sa_1_p2
+serie-a,"Atalanta","Lucas Back (Atalanta)","Lucas","Back (Atalanta)",DEF,"France",26,"",5.3,sa_1_p3
+serie-a,"Atalanta","Matteo Midfielder (Atalanta)","Matteo","Midfielder (Atalanta)",MID,"Italy",24,"",6.5,sa_1_p4
+serie-a,"Atalanta","Gabriel Playmaker (Atalanta)","Gabriel","Playmaker (Atalanta)",MID,"Argentina",27,"",5.7,sa_1_p5
+serie-a,"Atalanta","Alex Striker (Atalanta)","Alex","Striker (Atalanta)",FWD,"England",22,"",6.9,sa_1_p6
+serie-a,"Atalanta","Carlos Goal (Atalanta)","Carlos","Goal (Atalanta)",FWD,"Spain",29,"",7.6,sa_1_p7
+serie-a,"Bologna","David Keeper (Bologna)","David","Keeper (Bologna)",GK,"Spain",28,"",5.3,sa_2_p1
+serie-a,"Bologna","Marco Defender (Bologna)","Marco","Defender (Bologna)",DEF,"Brazil",25,"",6.5,sa_2_p2
+serie-a,"Bologna","Lucas Back (Bologna)","Lucas","Back (Bologna)",DEF,"France",26,"",5.7,sa_2_p3
+serie-a,"Bologna","Matteo Midfielder (Bologna)","Matteo","Midfielder (Bologna)",MID,"Italy",24,"",6.9,sa_2_p4
+serie-a,"Bologna","Gabriel Playmaker (Bologna)","Gabriel","Playmaker (Bologna)",MID,"Argentina",27,"",6.1,sa_2_p5
+serie-a,"Bologna","Alex Striker (Bologna)","Alex","Striker (Bologna)",FWD,"England",22,"",7.3,sa_2_p6
+serie-a,"Bologna","Carlos Goal (Bologna)","Carlos","Goal (Bologna)",FWD,"Spain",29,"",6.5,sa_2_p7
+serie-a,"Cagliari","David Keeper (Cagliari)","David","Keeper (Cagliari)",GK,"Spain",28,"",4.5,sa_3_p1
+serie-a,"Cagliari","Marco Defender (Cagliari)","Marco","Defender (Cagliari)",DEF,"Brazil",25,"",4.2,sa_3_p2
+serie-a,"Cagliari","Lucas Back (Cagliari)","Lucas","Back (Cagliari)",DEF,"France",26,"",4.9,sa_3_p3
+serie-a,"Cagliari","Matteo Midfielder (Cagliari)","Matteo","Midfielder (Cagliari)",MID,"Italy",24,"",4.6,sa_3_p4
+serie-a,"Cagliari","Gabriel Playmaker (Cagliari)","Gabriel","Playmaker (Cagliari)",MID,"Argentina",27,"",5.3,sa_3_p5
+serie-a,"Cagliari","Alex Striker (Cagliari)","Alex","Striker (Cagliari)",FWD,"England",22,"",5.0,sa_3_p6
+serie-a,"Cagliari","Carlos Goal (Cagliari)","Carlos","Goal (Cagliari)",FWD,"Spain",29,"",5.7,sa_3_p7
+serie-a,"Como","David Keeper (Como)","David","Keeper (Como)",GK,"Spain",28,"",4.9,sa_4_p1
+serie-a,"Como","Marco Defender (Como)","Marco","Defender (Como)",DEF,"Brazil",25,"",4.6,sa_4_p2
+serie-a,"Como","Lucas Back (Como)","Lucas","Back (Como)",DEF,"France",26,"",5.3,sa_4_p3
+serie-a,"Como","Matteo Midfielder (Como)","Matteo","Midfielder (Como)",MID,"Italy",24,"",5.0,sa_4_p4
+serie-a,"Como","Gabriel Playmaker (Como)","Gabriel","Playmaker (Como)",MID,"Argentina",27,"",5.7,sa_4_p5
+serie-a,"Como","Alex Striker (Como)","Alex","Striker (Como)",FWD,"England",22,"",5.4,sa_4_p6
+serie-a,"Como","Carlos Goal (Como)","Carlos","Goal (Como)",FWD,"Spain",29,"",6.1,sa_4_p7
+serie-a,"Empoli","David Keeper (Empoli)","David","Keeper (Empoli)",GK,"Spain",28,"",3.8,sa_5_p1
+serie-a,"Empoli","Marco Defender (Empoli)","Marco","Defender (Empoli)",DEF,"Brazil",25,"",5.0,sa_5_p2
+serie-a,"Empoli","Lucas Back (Empoli)","Lucas","Back (Empoli)",DEF,"France",26,"",4.2,sa_5_p3
+serie-a,"Empoli","Matteo Midfielder (Empoli)","Matteo","Midfielder (Empoli)",MID,"Italy",24,"",5.4,sa_5_p4
+serie-a,"Empoli","Gabriel Playmaker (Empoli)","Gabriel","Playmaker (Empoli)",MID,"Argentina",27,"",4.6,sa_5_p5
+serie-a,"Empoli","Alex Striker (Empoli)","Alex","Striker (Empoli)",FWD,"England",22,"",5.8,sa_5_p6
+serie-a,"Empoli","Carlos Goal (Empoli)","Carlos","Goal (Empoli)",FWD,"Spain",29,"",5.0,sa_5_p7
+serie-a,"Fiorentina","David Keeper (Fiorentina)","David","Keeper (Fiorentina)",GK,"Spain",28,"",5.4,sa_6_p1
+serie-a,"Fiorentina","Marco Defender (Fiorentina)","Marco","Defender (Fiorentina)",DEF,"Brazil",25,"",6.6,sa_6_p2
+serie-a,"Fiorentina","Lucas Back (Fiorentina)","Lucas","Back (Fiorentina)",DEF,"France",26,"",5.8,sa_6_p3
+serie-a,"Fiorentina","Matteo Midfielder (Fiorentina)","Matteo","Midfielder (Fiorentina)",MID,"Italy",24,"",7.0,sa_6_p4
+serie-a,"Fiorentina","Gabriel Playmaker (Fiorentina)","Gabriel","Playmaker (Fiorentina)",MID,"Argentina",27,"",6.2,sa_6_p5
+serie-a,"Fiorentina","Alex Striker (Fiorentina)","Alex","Striker (Fiorentina)",FWD,"England",22,"",7.4,sa_6_p6
+serie-a,"Fiorentina","Carlos Goal (Fiorentina)","Carlos","Goal (Fiorentina)",FWD,"Spain",29,"",6.6,sa_6_p7
+serie-a,"Genoa","David Keeper (Genoa)","David","Keeper (Genoa)",GK,"Spain",28,"",4.6,sa_7_p1
+serie-a,"Genoa","Marco Defender (Genoa)","Marco","Defender (Genoa)",DEF,"Brazil",25,"",4.3,sa_7_p2
+serie-a,"Genoa","Lucas Back (Genoa)","Lucas","Back (Genoa)",DEF,"France",26,"",5.0,sa_7_p3
+serie-a,"Genoa","Matteo Midfielder (Genoa)","Matteo","Midfielder (Genoa)",MID,"Italy",24,"",4.7,sa_7_p4
+serie-a,"Genoa","Gabriel Playmaker (Genoa)","Gabriel","Playmaker (Genoa)",MID,"Argentina",27,"",5.4,sa_7_p5
+serie-a,"Genoa","Alex Striker (Genoa)","Alex","Striker (Genoa)",FWD,"England",22,"",5.1,sa_7_p6
+serie-a,"Genoa","Carlos Goal (Genoa)","Carlos","Goal (Genoa)",FWD,"Spain",29,"",5.8,sa_7_p7
+serie-a,"Inter Milan","David Keeper (Inter Milan)","David","Keeper (Inter Milan)",GK,"Spain",28,"",6.0,sa_8_p1
+serie-a,"Inter Milan","Marco Defender (Inter Milan)","Marco","Defender (Inter Milan)",DEF,"Brazil",25,"",7.2,sa_8_p2
+serie-a,"Inter Milan","Lucas Back (Inter Milan)","Lucas","Back (Inter Milan)",DEF,"France",26,"",7.9,sa_8_p3
+serie-a,"Inter Milan","Matteo Midfielder (Inter Milan)","Matteo","Midfielder (Inter Milan)",MID,"Italy",24,"",7.6,sa_8_p4
+serie-a,"Inter Milan","Gabriel Playmaker (Inter Milan)","Gabriel","Playmaker (Inter Milan)",MID,"Argentina",27,"",8.3,sa_8_p5
+serie-a,"Inter Milan","Alex Striker (Inter Milan)","Alex","Striker (Inter Milan)",FWD,"England",22,"",8.0,sa_8_p6
+serie-a,"Inter Milan","Carlos Goal (Inter Milan)","Carlos","Goal (Inter Milan)",FWD,"Spain",29,"",8.7,sa_8_p7
+serie-a,"Juventus","David Keeper (Juventus)","David","Keeper (Juventus)",GK,"Spain",28,"",6.4,sa_9_p1
+serie-a,"Juventus","Marco Defender (Juventus)","Marco","Defender (Juventus)",DEF,"Brazil",25,"",7.6,sa_9_p2
+serie-a,"Juventus","Lucas Back (Juventus)","Lucas","Back (Juventus)",DEF,"France",26,"",6.8,sa_9_p3
+serie-a,"Juventus","Matteo Midfielder (Juventus)","Matteo","Midfielder (Juventus)",MID,"Italy",24,"",8.0,sa_9_p4
+serie-a,"Juventus","Gabriel Playmaker (Juventus)","Gabriel","Playmaker (Juventus)",MID,"Argentina",27,"",7.2,sa_9_p5
+serie-a,"Juventus","Alex Striker (Juventus)","Alex","Striker (Juventus)",FWD,"England",22,"",8.4,sa_9_p6
+serie-a,"Juventus","Carlos Goal (Juventus)","Carlos","Goal (Juventus)",FWD,"Spain",29,"",7.6,sa_9_p7
+serie-a,"Lazio","David Keeper (Lazio)","David","Keeper (Lazio)",GK,"Spain",28,"",5.5,sa_10_p1
+serie-a,"Lazio","Marco Defender (Lazio)","Marco","Defender (Lazio)",DEF,"Brazil",25,"",5.2,sa_10_p2
+serie-a,"Lazio","Lucas Back (Lazio)","Lucas","Back (Lazio)",DEF,"France",26,"",5.9,sa_10_p3
+serie-a,"Lazio","Matteo Midfielder (Lazio)","Matteo","Midfielder (Lazio)",MID,"Italy",24,"",7.1,sa_10_p4
+serie-a,"Lazio","Gabriel Playmaker (Lazio)","Gabriel","Playmaker (Lazio)",MID,"Argentina",27,"",6.3,sa_10_p5
+serie-a,"Lazio","Alex Striker (Lazio)","Alex","Striker (Lazio)",FWD,"England",22,"",7.5,sa_10_p6
+serie-a,"Lazio","Carlos Goal (Lazio)","Carlos","Goal (Lazio)",FWD,"Spain",29,"",6.7,sa_10_p7
+serie-a,"Lecce","David Keeper (Lecce)","David","Keeper (Lecce)",GK,"Spain",28,"",4.7,sa_11_p1
+serie-a,"Lecce","Marco Defender (Lecce)","Marco","Defender (Lecce)",DEF,"Brazil",25,"",4.4,sa_11_p2
+serie-a,"Lecce","Lucas Back (Lecce)","Lucas","Back (Lecce)",DEF,"France",26,"",5.1,sa_11_p3
+serie-a,"Lecce","Matteo Midfielder (Lecce)","Matteo","Midfielder (Lecce)",MID,"Italy",24,"",4.8,sa_11_p4
+serie-a,"Lecce","Gabriel Playmaker (Lecce)","Gabriel","Playmaker (Lecce)",MID,"Argentina",27,"",5.5,sa_11_p5
+serie-a,"Lecce","Alex Striker (Lecce)","Alex","Striker (Lecce)",FWD,"England",22,"",5.2,sa_11_p6
+serie-a,"Lecce","Carlos Goal (Lecce)","Carlos","Goal (Lecce)",FWD,"Spain",29,"",5.9,sa_11_p7
+serie-a,"AC Milan","David Keeper (AC Milan)","David","Keeper (AC Milan)",GK,"Spain",28,"",6.1,sa_12_p1
+serie-a,"AC Milan","Marco Defender (AC Milan)","Marco","Defender (AC Milan)",DEF,"Brazil",25,"",7.3,sa_12_p2
+serie-a,"AC Milan","Lucas Back (AC Milan)","Lucas","Back (AC Milan)",DEF,"France",26,"",6.5,sa_12_p3
+serie-a,"AC Milan","Matteo Midfielder (AC Milan)","Matteo","Midfielder (AC Milan)",MID,"Italy",24,"",7.7,sa_12_p4
+serie-a,"AC Milan","Gabriel Playmaker (AC Milan)","Gabriel","Playmaker (AC Milan)",MID,"Argentina",27,"",8.4,sa_12_p5
+serie-a,"AC Milan","Alex Striker (AC Milan)","Alex","Striker (AC Milan)",FWD,"England",22,"",8.1,sa_12_p6
+serie-a,"AC Milan","Carlos Goal (AC Milan)","Carlos","Goal (AC Milan)",FWD,"Spain",29,"",8.8,sa_12_p7
+serie-a,"Monza","David Keeper (Monza)","David","Keeper (Monza)",GK,"Spain",28,"",4.0,sa_13_p1
+serie-a,"Monza","Marco Defender (Monza)","Marco","Defender (Monza)",DEF,"Brazil",25,"",5.2,sa_13_p2
+serie-a,"Monza","Lucas Back (Monza)","Lucas","Back (Monza)",DEF,"France",26,"",4.4,sa_13_p3
+serie-a,"Monza","Matteo Midfielder (Monza)","Matteo","Midfielder (Monza)",MID,"Italy",24,"",5.6,sa_13_p4
+serie-a,"Monza","Gabriel Playmaker (Monza)","Gabriel","Playmaker (Monza)",MID,"Argentina",27,"",4.8,sa_13_p5
+serie-a,"Monza","Alex Striker (Monza)","Alex","Striker (Monza)",FWD,"England",22,"",6.0,sa_13_p6
+serie-a,"Monza","Carlos Goal (Monza)","Carlos","Goal (Monza)",FWD,"Spain",29,"",5.2,sa_13_p7
+serie-a,"Napoli","David Keeper (Napoli)","David","Keeper (Napoli)",GK,"Spain",28,"",6.5,sa_14_p1
+serie-a,"Napoli","Marco Defender (Napoli)","Marco","Defender (Napoli)",DEF,"Brazil",25,"",6.6,sa_14_p2
+serie-a,"Napoli","Lucas Back (Napoli)","Lucas","Back (Napoli)",DEF,"France",26,"",7.3,sa_14_p3
+serie-a,"Napoli","Matteo Midfielder (Napoli)","Matteo","Midfielder (Napoli)",MID,"Italy",24,"",7.0,sa_14_p4
+serie-a,"Napoli","Gabriel Playmaker (Napoli)","Gabriel","Playmaker (Napoli)",MID,"Argentina",27,"",7.7,sa_14_p5
+serie-a,"Napoli","Alex Striker (Napoli)","Alex","Striker (Napoli)",FWD,"England",22,"",8.9,sa_14_p6
+serie-a,"Napoli","Carlos Goal (Napoli)","Carlos","Goal (Napoli)",FWD,"Spain",29,"",8.1,sa_14_p7
+serie-a,"Parma","David Keeper (Parma)","David","Keeper (Parma)",GK,"Spain",28,"",4.8,sa_15_p1
+serie-a,"Parma","Marco Defender (Parma)","Marco","Defender (Parma)",DEF,"Brazil",25,"",4.5,sa_15_p2
+serie-a,"Parma","Lucas Back (Parma)","Lucas","Back (Parma)",DEF,"France",26,"",5.2,sa_15_p3
+serie-a,"Parma","Matteo Midfielder (Parma)","Matteo","Midfielder (Parma)",MID,"Italy",24,"",4.9,sa_15_p4
+serie-a,"Parma","Gabriel Playmaker (Parma)","Gabriel","Playmaker (Parma)",MID,"Argentina",27,"",5.6,sa_15_p5
+serie-a,"Parma","Alex Striker (Parma)","Alex","Striker (Parma)",FWD,"England",22,"",5.3,sa_15_p6
+serie-a,"Parma","Carlos Goal (Parma)","Carlos","Goal (Parma)",FWD,"Spain",29,"",6.0,sa_15_p7
+serie-a,"Roma","David Keeper (Roma)","David","Keeper (Roma)",GK,"Spain",28,"",4.9,sa_16_p1
+serie-a,"Roma","Marco Defender (Roma)","Marco","Defender (Roma)",DEF,"Brazil",25,"",6.1,sa_16_p2
+serie-a,"Roma","Lucas Back (Roma)","Lucas","Back (Roma)",DEF,"France",26,"",5.3,sa_16_p3
+serie-a,"Roma","Matteo Midfielder (Roma)","Matteo","Midfielder (Roma)",MID,"Italy",24,"",6.5,sa_16_p4
+serie-a,"Roma","Gabriel Playmaker (Roma)","Gabriel","Playmaker (Roma)",MID,"Argentina",27,"",5.7,sa_16_p5
+serie-a,"Roma","Alex Striker (Roma)","Alex","Striker (Roma)",FWD,"England",22,"",6.9,sa_16_p6
+serie-a,"Roma","Carlos Goal (Roma)","Carlos","Goal (Roma)",FWD,"Spain",29,"",7.6,sa_16_p7
+serie-a,"Torino","David Keeper (Torino)","David","Keeper (Torino)",GK,"Spain",28,"",4.1,sa_17_p1
+serie-a,"Torino","Marco Defender (Torino)","Marco","Defender (Torino)",DEF,"Brazil",25,"",5.3,sa_17_p2
+serie-a,"Torino","Lucas Back (Torino)","Lucas","Back (Torino)",DEF,"France",26,"",4.5,sa_17_p3
+serie-a,"Torino","Matteo Midfielder (Torino)","Matteo","Midfielder (Torino)",MID,"Italy",24,"",5.7,sa_17_p4
+serie-a,"Torino","Gabriel Playmaker (Torino)","Gabriel","Playmaker (Torino)",MID,"Argentina",27,"",4.9,sa_17_p5
+serie-a,"Torino","Alex Striker (Torino)","Alex","Striker (Torino)",FWD,"England",22,"",6.1,sa_17_p6
+serie-a,"Torino","Carlos Goal (Torino)","Carlos","Goal (Torino)",FWD,"Spain",29,"",5.3,sa_17_p7
+serie-a,"Udinese","David Keeper (Udinese)","David","Keeper (Udinese)",GK,"Spain",28,"",4.5,sa_18_p1
+serie-a,"Udinese","Marco Defender (Udinese)","Marco","Defender (Udinese)",DEF,"Brazil",25,"",4.2,sa_18_p2
+serie-a,"Udinese","Lucas Back (Udinese)","Lucas","Back (Udinese)",DEF,"France",26,"",4.9,sa_18_p3
+serie-a,"Udinese","Matteo Midfielder (Udinese)","Matteo","Midfielder (Udinese)",MID,"Italy",24,"",4.6,sa_18_p4
+serie-a,"Udinese","Gabriel Playmaker (Udinese)","Gabriel","Playmaker (Udinese)",MID,"Argentina",27,"",5.3,sa_18_p5
+serie-a,"Udinese","Alex Striker (Udinese)","Alex","Striker (Udinese)",FWD,"England",22,"",5.0,sa_18_p6
+serie-a,"Udinese","Carlos Goal (Udinese)","Carlos","Goal (Udinese)",FWD,"Spain",29,"",5.7,sa_18_p7
+serie-a,"Venezia","David Keeper (Venezia)","David","Keeper (Venezia)",GK,"Spain",28,"",4.9,sa_19_p1
+serie-a,"Venezia","Marco Defender (Venezia)","Marco","Defender (Venezia)",DEF,"Brazil",25,"",4.6,sa_19_p2
+serie-a,"Venezia","Lucas Back (Venezia)","Lucas","Back (Venezia)",DEF,"France",26,"",5.3,sa_19_p3
+serie-a,"Venezia","Matteo Midfielder (Venezia)","Matteo","Midfielder (Venezia)",MID,"Italy",24,"",5.0,sa_19_p4
+serie-a,"Venezia","Gabriel Playmaker (Venezia)","Gabriel","Playmaker (Venezia)",MID,"Argentina",27,"",5.7,sa_19_p5
+serie-a,"Venezia","Alex Striker (Venezia)","Alex","Striker (Venezia)",FWD,"England",22,"",5.4,sa_19_p6
+serie-a,"Venezia","Carlos Goal (Venezia)","Carlos","Goal (Venezia)",FWD,"Spain",29,"",6.1,sa_19_p7
+serie-a,"Verona","David Keeper (Verona)","David","Keeper (Verona)",GK,"Spain",28,"",3.8,sa_20_p1
+serie-a,"Verona","Marco Defender (Verona)","Marco","Defender (Verona)",DEF,"Brazil",25,"",5.0,sa_20_p2
+serie-a,"Verona","Lucas Back (Verona)","Lucas","Back (Verona)",DEF,"France",26,"",4.2,sa_20_p3
+serie-a,"Verona","Matteo Midfielder (Verona)","Matteo","Midfielder (Verona)",MID,"Italy",24,"",5.4,sa_20_p4
+serie-a,"Verona","Gabriel Playmaker (Verona)","Gabriel","Playmaker (Verona)",MID,"Argentina",27,"",4.6,sa_20_p5
+serie-a,"Verona","Alex Striker (Verona)","Alex","Striker (Verona)",FWD,"England",22,"",5.8,sa_20_p6
+serie-a,"Verona","Carlos Goal (Verona)","Carlos","Goal (Verona)",FWD,"Spain",29,"",5.0,sa_20_p7

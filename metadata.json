@@ -1,0 +1,6 @@
+{
+  "name": "Abay Games",
+  "description": "Play. Compete. Connect. A modern multiplayer gaming platform designed for Telegram Mini Apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1141 @@
+league_slug,home_team,away_team,kickoff_at,status,home_score,away_score,external_fixture_id
+premier-league,"Manchester United","Fulham",2026-08-16T20:00:00Z,finished,1,0,pr_2026_08_16_munvful
+premier-league,"Ipswich Town","Liverpool",2026-08-17T12:30:00Z,finished,0,2,pr_2026_08_17_ipsvliv
+premier-league,"Arsenal","Wolverhampton Wanderers",2026-08-17T15:00:00Z,finished,2,0,pr_2026_08_17_arsvwol
+premier-league,"Everton","Brighton & Hove Albion",2026-08-17T15:00:00Z,finished,0,3,pr_2026_08_17_evevbha
+premier-league,"Newcastle United","Southampton",2026-08-17T15:00:00Z,finished,1,0,pr_2026_08_17_newvsou
+premier-league,"Nottingham Forest","Bournemouth",2026-08-17T15:00:00Z,finished,1,1,pr_2026_08_17_nfovbou
+premier-league,"West Ham United","Aston Villa",2026-08-17T17:30:00Z,finished,1,2,pr_2026_08_17_whuvavl
+premier-league,"Brentford","Crystal Palace",2026-08-18T14:00:00Z,finished,2,1,pr_2026_08_18_brevcry
+premier-league,"Chelsea","Manchester City",2026-08-18T16:30:00Z,finished,0,2,pr_2026_08_18_chevmci
+premier-league,"Leicester City","Tottenham Hotspur",2026-08-19T20:00:00Z,finished,1,1,pr_2026_08_19_leivtot
+premier-league,"Brighton & Hove Albion","Manchester United",2026-08-24T12:30:00Z,finished,2,1,pr_2026_08_24_bhavmun
+premier-league,"Crystal Palace","West Ham United",2026-08-24T15:00:00Z,finished,0,2,pr_2026_08_24_cryvwhu
+premier-league,"Fulham","Leicester City",2026-08-24T15:00:00Z,finished,2,1,pr_2026_08_24_fulvlei
+premier-league,"Manchester City","Ipswich Town",2026-08-24T15:00:00Z,finished,4,1,pr_2026_08_24_mcivips
+premier-league,"Southampton","Nottingham Forest",2026-08-24T15:00:00Z,finished,0,1,pr_2026_08_24_souvnfo
+premier-league,"Tottenham Hotspur","Everton",2026-08-24T15:00:00Z,finished,4,0,pr_2026_08_24_totveve
+premier-league,"Aston Villa","Arsenal",2026-08-24T17:30:00Z,finished,0,2,pr_2026_08_24_avlvars
+premier-league,"Bournemouth","Newcastle United",2026-08-25T14:00:00Z,finished,1,1,pr_2026_08_25_bouvnew
+premier-league,"Wolverhampton Wanderers","Chelsea",2026-08-25T14:00:00Z,finished,2,6,pr_2026_08_25_wolvche
+premier-league,"Liverpool","Brentford",2026-08-25T16:30:00Z,finished,2,0,pr_2026_08_25_livvbre
+premier-league,"Arsenal","Brighton & Hove Albion",2026-08-31T12:30:00Z,finished,1,1,pr_2026_08_31_arsvbha
+premier-league,"Brentford","Southampton",2026-08-31T15:00:00Z,finished,3,1,pr_2026_08_31_brevsou
+premier-league,"Everton","Bournemouth",2026-08-31T15:00:00Z,finished,2,3,pr_2026_08_31_evevbou
+premier-league,"Ipswich Town","Fulham",2026-08-31T15:00:00Z,finished,1,1,pr_2026_08_31_ipsvful
+premier-league,"Leicester City","Aston Villa",2026-08-31T15:00:00Z,finished,1,2,pr_2026_08_31_leivavl
+premier-league,"Nottingham Forest","Wolverhampton Wanderers",2026-08-31T15:00:00Z,finished,1,1,pr_2026_08_31_nfovwol
+premier-league,"West Ham United","Manchester City",2026-08-31T17:30:00Z,finished,1,3,pr_2026_08_31_whuvmci
+premier-league,"Chelsea","Crystal Palace",2026-09-01T13:30:00Z,finished,1,1,pr_2026_09_01_chevcry
+premier-league,"Newcastle United","Tottenham Hotspur",2026-09-01T13:30:00Z,finished,2,1,pr_2026_09_01_newvtot
+premier-league,"Manchester United","Liverpool",2026-09-01T16:00:00Z,finished,0,3,pr_2026_09_01_munvliv
+premier-league,"Southampton","Manchester United",2026-09-14T12:30:00Z,finished,0,3,pr_2026_09_14_souvmun
+premier-league,"Brighton & Hove Albion","Ipswich Town",2026-09-14T15:00:00Z,finished,0,0,pr_2026_09_14_bhavips
+premier-league,"Crystal Palace","Leicester City",2026-09-14T15:00:00Z,finished,2,2,pr_2026_09_14_cryvlei
+premier-league,"Fulham","West Ham United",2026-09-14T15:00:00Z,finished,1,1,pr_2026_09_14_fulvwhu
+premier-league,"Liverpool","Nottingham Forest",2026-09-14T15:00:00Z,finished,0,1,pr_2026_09_14_livvnfo
+premier-league,"Manchester City","Brentford",2026-09-14T15:00:00Z,finished,2,1,pr_2026_09_14_mcivbre
+premier-league,"Aston Villa","Everton",2026-09-14T17:30:00Z,finished,3,2,pr_2026_09_14_avlveve
+premier-league,"Bournemouth","Chelsea",2026-09-14T20:00:00Z,finished,0,1,pr_2026_09_14_bouvche
+premier-league,"Tottenham Hotspur","Arsenal",2026-09-15T14:00:00Z,finished,0,1,pr_2026_09_15_totvars
+premier-league,"Wolverhampton Wanderers","Newcastle United",2026-09-15T16:30:00Z,finished,1,2,pr_2026_09_15_wolvnew
+premier-league,"West Ham United","Chelsea",2026-09-21T12:30:00Z,scheduled,0,3,pr_2026_09_21_whuvche
+premier-league,"Aston Villa","Wolverhampton Wanderers",2026-09-21T15:00:00Z,scheduled,3,1,pr_2026_09_21_avlvwol
+premier-league,"Fulham","Newcastle United",2026-09-21T15:00:00Z,scheduled,3,1,pr_2026_09_21_fulvnew
+premier-league,"Leicester City","Everton",2026-09-21T15:00:00Z,scheduled,1,1,pr_2026_09_21_leiveve
+premier-league,"Liverpool","Bournemouth",2026-09-21T15:00:00Z,scheduled,3,0,pr_2026_09_21_livvbou
+premier-league,"Southampton","Ipswich Town",2026-09-21T15:00:00Z,scheduled,1,1,pr_2026_09_21_souvips
+premier-league,"Tottenham Hotspur","Brentford",2026-09-21T15:00:00Z,scheduled,3,1,pr_2026_09_21_totvbre
+premier-league,"Crystal Palace","Manchester United",2026-09-21T17:30:00Z,scheduled,0,0,pr_2026_09_21_cryvmun
+premier-league,"Brighton & Hove Albion","Nottingham Forest",2026-09-22T14:00:00Z,scheduled,2,2,pr_2026_09_22_bhavnfo
+premier-league,"Manchester City","Arsenal",2026-09-22T16:30:00Z,scheduled,2,2,pr_2026_09_22_mcivars
+premier-league,"Newcastle United","Manchester City",2026-09-28T12:30:00Z,scheduled,1,1,pr_2026_09_28_newvmci
+premier-league,"Arsenal","Leicester City",2026-09-28T15:00:00Z,scheduled,4,2,pr_2026_09_28_arsvlei
+premier-league,"Brentford","West Ham United",2026-09-28T15:00:00Z,scheduled,1,1,pr_2026_09_28_brevwhu
+premier-league,"Chelsea","Brighton & Hove Albion",2026-09-28T15:00:00Z,scheduled,4,2,pr_2026_09_28_chevbha
+premier-league,"Everton","Crystal Palace",2026-09-28T15:00:00Z,scheduled,2,1,pr_2026_09_28_evevcry
+premier-league,"Nottingham Forest","Fulham",2026-09-28T15:00:00Z,scheduled,0,1,pr_2026_09_28_nfovful
+premier-league,"Wolverhampton Wanderers","Liverpool",2026-09-28T17:30:00Z,scheduled,1,2,pr_2026_09_28_wolvliv
+premier-league,"Ipswich Town","Aston Villa",2026-09-29T14:00:00Z,scheduled,2,2,pr_2026_09_29_ipsvavl
+premier-league,"Manchester United","Tottenham Hotspur",2026-09-29T16:30:00Z,scheduled,0,3,pr_2026_09_29_munvtot
+premier-league,"Bournemouth","Southampton",2026-09-30T20:00:00Z,scheduled,3,1,pr_2026_09_30_bouvsou
+premier-league,"Crystal Palace","Liverpool",2026-10-05T12:30:00Z,scheduled,0,1,pr_2026_10_05_cryvliv
+premier-league,"Arsenal","Southampton",2026-10-05T15:00:00Z,scheduled,3,1,pr_2026_10_05_arsvsou
+premier-league,"Brentford","Wolverhampton Wanderers",2026-10-05T15:00:00Z,scheduled,5,3,pr_2026_10_05_brevwol
+premier-league,"Leicester City","Bournemouth",2026-10-05T15:00:00Z,scheduled,1,0,pr_2026_10_05_leivbou
+premier-league,"Manchester City","Fulham",2026-10-05T15:00:00Z,scheduled,3,2,pr_2026_10_05_mcivful
+premier-league,"West Ham United","Ipswich Town",2026-10-05T15:00:00Z,scheduled,4,1,pr_2026_10_05_whuvips
+premier-league,"Everton","Newcastle United",2026-10-05T17:30:00Z,scheduled,0,0,pr_2026_10_05_evevnew
+premier-league,"Aston Villa","Manchester United",2026-10-06T14:00:00Z,scheduled,0,0,pr_2026_10_06_avlvmun
+premier-league,"Chelsea","Nottingham Forest",2026-10-06T14:00:00Z,scheduled,1,1,pr_2026_10_06_chevnfo
+premier-league,"Brighton & Hove Albion","Tottenham Hotspur",2026-10-06T16:30:00Z,scheduled,3,2,pr_2026_10_06_bhavtot
+premier-league,"Tottenham Hotspur","West Ham United",2026-10-19T12:30:00Z,scheduled,4,1,pr_2026_10_19_totvwhu
+premier-league,"Fulham","Aston Villa",2026-10-19T15:00:00Z,scheduled,1,3,pr_2026_10_19_fulvavl
+premier-league,"Ipswich Town","Everton",2026-10-19T15:00:00Z,scheduled,0,2,pr_2026_10_19_ipsveve
+premier-league,"Manchester United","Brentford",2026-10-19T15:00:00Z,scheduled,2,1,pr_2026_10_19_munvbre
+premier-league,"Newcastle United","Brighton & Hove Albion",2026-10-19T15:00:00Z,scheduled,0,1,pr_2026_10_19_newvbha
+premier-league,"Southampton","Leicester City",2026-10-19T15:00:00Z,scheduled,2,3,pr_2026_10_19_souvlei
+premier-league,"Bournemouth","Arsenal",2026-10-19T17:30:00Z,scheduled,2,0,pr_2026_10_19_bouvars
+premier-league,"Wolverhampton Wanderers","Manchester City",2026-10-20T14:00:00Z,scheduled,1,2,pr_2026_10_20_wolvmci
+premier-league,"Liverpool","Chelsea",2026-10-20T16:30:00Z,scheduled,2,1,pr_2026_10_20_livvche
+premier-league,"Nottingham Forest","Crystal Palace",2026-10-21T20:00:00Z,scheduled,1,0,pr_2026_10_21_nfovcry
+premier-league,"Leicester City","Nottingham Forest",2026-10-25T20:00:00Z,scheduled,1,3,pr_2026_10_25_leivnfo
+premier-league,"Aston Villa","Bournemouth",2026-10-26T15:00:00Z,scheduled,1,1,pr_2026_10_26_avlvbou
+premier-league,"Brentford","Ipswich Town",2026-10-26T15:00:00Z,scheduled,4,3,pr_2026_10_26_brevips
+premier-league,"Brighton & Hove Albion","Wolverhampton Wanderers",2026-10-26T15:00:00Z,scheduled,2,2,pr_2026_10_26_bhavwol
+premier-league,"Manchester City","Southampton",2026-10-26T15:00:00Z,scheduled,1,0,pr_2026_10_26_mcivsou
+premier-league,"Everton","Fulham",2026-10-26T17:30:00Z,scheduled,1,1,pr_2026_10_26_evevful
+premier-league,"Chelsea","Newcastle United",2026-10-27T14:00:00Z,scheduled,2,1,pr_2026_10_27_chevnew
+premier-league,"Crystal Palace","Tottenham Hotspur",2026-10-27T14:00:00Z,scheduled,1,0,pr_2026_10_27_cryvtot
+premier-league,"West Ham United","Manchester United",2026-10-27T14:00:00Z,scheduled,2,1,pr_2026_10_27_whuvmun
+premier-league,"Arsenal","Liverpool",2026-10-27T16:30:00Z,scheduled,2,2,pr_2026_10_27_arsvliv
+premier-league,"Newcastle United","Arsenal",2026-11-02T12:30:00Z,scheduled,1,0,pr_2026_11_02_newvars
+premier-league,"Bournemouth","Manchester City",2026-11-02T15:00:00Z,scheduled,2,1,pr_2026_11_02_bouvmci
+premier-league,"Ipswich Town","Leicester City",2026-11-02T15:00:00Z,scheduled,1,1,pr_2026_11_02_ipsvlei
+premier-league,"Liverpool","Brighton & Hove Albion",2026-11-02T15:00:00Z,scheduled,2,1,pr_2026_11_02_livvbha
+premier-league,"Nottingham Forest","West Ham United",2026-11-02T15:00:00Z,scheduled,3,0,pr_2026_11_02_nfovwhu
+premier-league,"Southampton","Everton",2026-11-02T15:00:00Z,scheduled,1,0,pr_2026_11_02_souveve
+premier-league,"Wolverhampton Wanderers","Crystal Palace",2026-11-02T17:30:00Z,scheduled,2,2,pr_2026_11_02_wolvcry
+premier-league,"Tottenham Hotspur","Aston Villa",2026-11-03T14:00:00Z,scheduled,4,1,pr_2026_11_03_totvavl
+premier-league,"Manchester United","Chelsea",2026-11-03T16:30:00Z,scheduled,1,1,pr_2026_11_03_munvche
+premier-league,"Fulham","Brentford",2026-11-04T20:00:00Z,scheduled,2,1,pr_2026_11_04_fulvbre
+premier-league,"Brentford","Bournemouth",2026-11-09T15:00:00Z,scheduled,3,2,pr_2026_11_09_brevbou
+premier-league,"Crystal Palace","Fulham",2026-11-09T15:00:00Z,scheduled,0,2,pr_2026_11_09_cryvful
+premier-league,"West Ham United","Everton",2026-11-09T15:00:00Z,scheduled,0,0,pr_2026_11_09_whuveve
+premier-league,"Wolverhampton Wanderers","Southampton",2026-11-09T15:00:00Z,scheduled,2,0,pr_2026_11_09_wolvsou
+premier-league,"Brighton & Hove Albion","Manchester City",2026-11-09T17:30:00Z,scheduled,2,1,pr_2026_11_09_bhavmci
+premier-league,"Liverpool","Aston Villa",2026-11-09T20:00:00Z,scheduled,2,0,pr_2026_11_09_livvavl
+premier-league,"Manchester United","Leicester City",2026-11-10T14:00:00Z,scheduled,3,0,pr_2026_11_10_munvlei
+premier-league,"Nottingham Forest","Newcastle United",2026-11-10T14:00:00Z,scheduled,1,3,pr_2026_11_10_nfovnew
+premier-league,"Tottenham Hotspur","Ipswich Town",2026-11-10T14:00:00Z,scheduled,1,2,pr_2026_11_10_totvips
+premier-league,"Chelsea","Arsenal",2026-11-10T16:30:00Z,scheduled,1,1,pr_2026_11_10_chevars
+premier-league,"Leicester City","Chelsea",2026-11-23T12:30:00Z,scheduled,1,2,pr_2026_11_23_leivche
+premier-league,"Bournemouth","Brighton & Hove Albion",2026-11-23T15:00:00Z,scheduled,1,2,pr_2026_11_23_bouvbha
+premier-league,"Arsenal","Nottingham Forest",2026-11-23T15:00:00Z,scheduled,3,0,pr_2026_11_23_arsvnfo
+premier-league,"Aston Villa","Crystal Palace",2026-11-23T15:00:00Z,scheduled,2,2,pr_2026_11_23_avlvcry
+premier-league,"Everton","Brentford",2026-11-23T15:00:00Z,scheduled,0,0,pr_2026_11_23_evevbre
+premier-league,"Fulham","Wolverhampton Wanderers",2026-11-23T15:00:00Z,scheduled,1,4,pr_2026_11_23_fulvwol
+premier-league,"Manchester City","Tottenham Hotspur",2026-11-23T17:30:00Z,scheduled,0,4,pr_2026_11_23_mcivtot
+premier-league,"Southampton","Liverpool",2026-11-24T14:00:00Z,scheduled,2,3,pr_2026_11_24_souvliv
+premier-league,"Ipswich Town","Manchester United",2026-11-24T16:30:00Z,scheduled,1,1,pr_2026_11_24_ipsvmun
+premier-league,"Newcastle United","West Ham United",2026-11-25T20:00:00Z,scheduled,0,2,pr_2026_11_25_newvwhu
+premier-league,"Brighton & Hove Albion","Southampton",2026-11-29T20:00:00Z,scheduled,1,1,pr_2026_11_29_bhavsou
+premier-league,"Brentford","Leicester City",2026-11-30T15:00:00Z,scheduled,4,1,pr_2026_11_30_brevlei
+premier-league,"Crystal Palace","Newcastle United",2026-11-30T15:00:00Z,scheduled,1,1,pr_2026_11_30_cryvnew
+premier-league,"Nottingham Forest","Ipswich Town",2026-11-30T15:00:00Z,scheduled,1,0,pr_2026_11_30_nfovips
+premier-league,"Wolverhampton Wanderers","Bournemouth",2026-11-30T15:00:00Z,scheduled,2,4,pr_2026_11_30_wolvbou
+premier-league,"West Ham United","Arsenal",2026-11-30T17:30:00Z,scheduled,2,5,pr_2026_11_30_whuvars
+premier-league,"Chelsea","Aston Villa",2026-12-01T13:30:00Z,scheduled,3,0,pr_2026_12_01_chevavl
+premier-league,"Manchester United","Everton",2026-12-01T13:30:00Z,scheduled,4,0,pr_2026_12_01_munveve
+premier-league,"Tottenham Hotspur","Fulham",2026-12-01T13:30:00Z,scheduled,1,1,pr_2026_12_01_totvful
+premier-league,"Liverpool","Manchester City",2026-12-01T16:00:00Z,scheduled,2,0,pr_2026_12_01_livvmci
+premier-league,"Ipswich Town","Crystal Palace",2026-12-03T19:30:00Z,scheduled,0,1,pr_2026_12_03_ipsvcry
+premier-league,"Leicester City","West Ham United",2026-12-03T20:15:00Z,scheduled,3,1,pr_2026_12_03_leivwhu
+premier-league,"Everton","Wolverhampton Wanderers",2026-12-04T19:30:00Z,scheduled,4,0,pr_2026_12_04_evevwol
+premier-league,"Manchester City","Nottingham Forest",2026-12-04T19:30:00Z,scheduled,3,0,pr_2026_12_04_mcivnfo
+premier-league,"Newcastle United","Liverpool",2026-12-04T19:30:00Z,scheduled,3,3,pr_2026_12_04_newvliv
+premier-league,"Southampton","Chelsea",2026-12-04T19:30:00Z,scheduled,1,5,pr_2026_12_04_souvche
+premier-league,"Arsenal","Manchester United",2026-12-04T20:15:00Z,scheduled,2,0,pr_2026_12_04_arsvmun
+premier-league,"Aston Villa","Brentford",2026-12-04T20:15:00Z,scheduled,3,1,pr_2026_12_04_avlvbre
+premier-league,"Fulham","Brighton & Hove Albion",2026-12-05T19:30:00Z,scheduled,3,1,pr_2026_12_05_fulvbha
+premier-league,"Bournemouth","Tottenham Hotspur",2026-12-05T20:15:00Z,scheduled,1,0,pr_2026_12_05_bouvtot
+premier-league,"Aston Villa","Southampton",2026-12-07T15:00:00Z,scheduled,1,0,pr_2026_12_07_avlvsou
+premier-league,"Brentford","Newcastle United",2026-12-07T15:00:00Z,scheduled,4,2,pr_2026_12_07_brevnew
+premier-league,"Crystal Palace","Manchester City",2026-12-07T15:00:00Z,scheduled,2,2,pr_2026_12_07_cryvmci
+premier-league,"Manchester United","Nottingham Forest",2026-12-07T17:30:00Z,scheduled,2,3,pr_2026_12_07_munvnfo
+premier-league,"Fulham","Arsenal",2026-12-08T14:00:00Z,scheduled,1,1,pr_2026_12_08_fulvars
+premier-league,"Ipswich Town","Bournemouth",2026-12-08T14:00:00Z,scheduled,1,2,pr_2026_12_08_ipsvbou
+premier-league,"Leicester City","Brighton & Hove Albion",2026-12-08T14:00:00Z,scheduled,2,2,pr_2026_12_08_leivbha
+premier-league,"Tottenham Hotspur","Chelsea",2026-12-08T16:30:00Z,scheduled,3,4,pr_2026_12_08_totvche
+premier-league,"West Ham United","Wolverhampton Wanderers",2026-12-09T20:00:00Z,scheduled,2,1,pr_2026_12_09_whuvwol
+premier-league,"Arsenal","Everton",2026-12-14T15:00:00Z,scheduled,0,0,pr_2026_12_14_arsveve
+premier-league,"Liverpool","Fulham",2026-12-14T15:00:00Z,scheduled,2,2,pr_2026_12_14_livvful
+premier-league,"Newcastle United","Leicester City",2026-12-14T15:00:00Z,scheduled,4,0,pr_2026_12_14_newvlei
+premier-league,"Wolverhampton Wanderers","Ipswich Town",2026-12-14T15:00:00Z,scheduled,1,2,pr_2026_12_14_wolvips
+premier-league,"Nottingham Forest","Aston Villa",2026-12-14T17:30:00Z,scheduled,2,1,pr_2026_12_14_nfovavl
+premier-league,"Brighton & Hove Albion","Crystal Palace",2026-12-15T14:00:00Z,scheduled,1,3,pr_2026_12_15_bhavcry
+premier-league,"Manchester City","Manchester United",2026-12-15T16:30:00Z,scheduled,1,2,pr_2026_12_15_mcivmun
+premier-league,"Chelsea","Brentford",2026-12-15T19:00:00Z,scheduled,2,1,pr_2026_12_15_chevbre
+premier-league,"Southampton","Tottenham Hotspur",2026-12-15T19:00:00Z,scheduled,0,5,pr_2026_12_15_souvtot
+premier-league,"Bournemouth","West Ham United",2026-12-16T20:00:00Z,scheduled,1,1,pr_2026_12_16_bouvwhu
+premier-league,"Aston Villa","Manchester City",2026-12-21T12:30:00Z,scheduled,2,1,pr_2026_12_21_avlvmci
+premier-league,"Brentford","Nottingham Forest",2026-12-21T15:00:00Z,scheduled,0,2,pr_2026_12_21_brevnfo
+premier-league,"Ipswich Town","Newcastle United",2026-12-21T15:00:00Z,scheduled,0,4,pr_2026_12_21_ipsvnew
+premier-league,"West Ham United","Brighton & Hove Albion",2026-12-21T15:00:00Z,scheduled,1,1,pr_2026_12_21_whuvbha
+premier-league,"Crystal Palace","Arsenal",2026-12-21T17:30:00Z,scheduled,1,5,pr_2026_12_21_cryvars
+premier-league,"Everton","Chelsea",2026-12-22T14:00:00Z,scheduled,0,0,pr_2026_12_22_evevche
+premier-league,"Fulham","Southampton",2026-12-22T14:00:00Z,scheduled,0,0,pr_2026_12_22_fulvsou
+premier-league,"Leicester City","Wolverhampton Wanderers",2026-12-22T14:00:00Z,scheduled,0,3,pr_2026_12_22_leivwol
+premier-league,"Manchester United","Bournemouth",2026-12-22T14:00:00Z,scheduled,0,3,pr_2026_12_22_munvbou
+premier-league,"Tottenham Hotspur","Liverpool",2026-12-22T16:30:00Z,scheduled,3,6,pr_2026_12_22_totvliv
+premier-league,"Manchester City","Everton",2026-12-26T12:30:00Z,scheduled,1,1,pr_2026_12_26_mciveve
+premier-league,"Bournemouth","Crystal Palace",2026-12-26T15:00:00Z,scheduled,0,0,pr_2026_12_26_bouvcry
+premier-league,"Chelsea","Fulham",2026-12-26T15:00:00Z,scheduled,1,2,pr_2026_12_26_chevful
+premier-league,"Newcastle United","Aston Villa",2026-12-26T15:00:00Z,scheduled,3,0,pr_2026_12_26_newvavl
+premier-league,"Nottingham Forest","Tottenham Hotspur",2026-12-26T15:00:00Z,scheduled,1,0,pr_2026_12_26_nfovtot
+premier-league,"Southampton","West Ham United",2026-12-26T15:00:00Z,scheduled,0,1,pr_2026_12_26_souvwhu
+premier-league,"Wolverhampton Wanderers","Manchester United",2026-12-26T17:30:00Z,scheduled,2,0,pr_2026_12_26_wolvmun
+premier-league,"Liverpool","Leicester City",2026-12-26T20:00:00Z,scheduled,3,1,pr_2026_12_26_livvlei
+premier-league,"Brighton & Hove Albion","Brentford",2026-12-27T19:30:00Z,scheduled,0,0,pr_2026_12_27_bhavbre
+premier-league,"Arsenal","Ipswich Town",2026-12-27T20:15:00Z,scheduled,1,0,pr_2026_12_27_arsvips
+premier-league,"Leicester City","Manchester City",2026-12-29T14:30:00Z,scheduled,0,2,pr_2026_12_29_leivmci
+premier-league,"Crystal Palace","Southampton",2026-12-29T15:00:00Z,scheduled,2,1,pr_2026_12_29_cryvsou
+premier-league,"Everton","Nottingham Forest",2026-12-29T15:00:00Z,scheduled,0,2,pr_2026_12_29_evevnfo
+premier-league,"Fulham","Bournemouth",2026-12-29T15:00:00Z,scheduled,2,2,pr_2026_12_29_fulvbou
+premier-league,"Tottenham Hotspur","Wolverhampton Wanderers",2026-12-29T15:00:00Z,scheduled,2,2,pr_2026_12_29_totvwol
+premier-league,"West Ham United","Liverpool",2026-12-29T17:15:00Z,scheduled,0,5,pr_2026_12_29_whuvliv
+premier-league,"Aston Villa","Brighton & Hove Albion",2026-12-30T19:45:00Z,scheduled,2,2,pr_2026_12_30_avlvbha
+premier-league,"Ipswich Town","Chelsea",2026-12-30T19:45:00Z,scheduled,2,0,pr_2026_12_30_ipsvche
+premier-league,"Manchester United","Newcastle United",2026-12-30T20:00:00Z,scheduled,0,2,pr_2026_12_30_munvnew
+premier-league,"Brentford","Arsenal",2027-01-01T17:30:00Z,scheduled,1,3,pr_2027_01_01_brevars
+premier-league,"Tottenham Hotspur","Newcastle United",2027-01-04T12:30:00Z,scheduled,1,2,pr_2027_01_04_totvnew
+premier-league,"Southampton","Brentford",2027-01-04T15:00:00Z,scheduled,0,5,pr_2027_01_04_souvbre
+premier-league,"Crystal Palace","Chelsea",2027-01-04T15:00:00Z,scheduled,1,1,pr_2027_01_04_cryvche
+premier-league,"Bournemouth","Everton",2027-01-04T15:00:00Z,scheduled,1,0,pr_2027_01_04_bouveve
+premier-league,"Aston Villa","Leicester City",2027-01-04T15:00:00Z,scheduled,2,1,pr_2027_01_04_avlvlei
+premier-league,"Manchester City","West Ham United",2027-01-04T15:00:00Z,scheduled,4,1,pr_2027_01_04_mcivwhu
+premier-league,"Brighton & Hove Albion","Arsenal",2027-01-04T17:30:00Z,scheduled,1,1,pr_2027_01_04_bhavars
+premier-league,"Fulham","Ipswich Town",2027-01-05T14:00:00Z,scheduled,2,2,pr_2027_01_05_fulvips
+premier-league,"Liverpool","Manchester United",2027-01-05T16:30:00Z,scheduled,2,2,pr_2027_01_05_livvmun
+premier-league,"Wolverhampton Wanderers","Nottingham Forest",2027-01-06T20:00:00Z,scheduled,0,3,pr_2027_01_06_wolvnfo
+premier-league,"West Ham United","Fulham",2027-01-14T19:30:00Z,scheduled,3,2,pr_2027_01_14_whuvful
+premier-league,"Brentford","Manchester City",2027-01-14T19:30:00Z,scheduled,2,2,pr_2027_01_14_brevmci
+premier-league,"Chelsea","Bournemouth",2027-01-14T19:30:00Z,scheduled,2,2,pr_2027_01_14_chevbou
+premier-league,"Nottingham Forest","Liverpool",2027-01-14T20:00:00Z,scheduled,1,1,pr_2027_01_14_nfovliv
+premier-league,"Everton","Aston Villa",2027-01-15T19:30:00Z,scheduled,0,1,pr_2027_01_15_evevavl
+premier-league,"Leicester City","Crystal Palace",2027-01-15T19:30:00Z,scheduled,0,2,pr_2027_01_15_leivcry
+premier-league,"Newcastle United","Wolverhampton Wanderers",2027-01-15T19:30:00Z,scheduled,3,0,pr_2027_01_15_newvwol
+premier-league,"Arsenal","Tottenham Hotspur",2027-01-15T20:00:00Z,scheduled,2,1,pr_2027_01_15_arsvtot
+premier-league,"Ipswich Town","Brighton & Hove Albion",2027-01-16T19:30:00Z,scheduled,0,2,pr_2027_01_16_ipsvbha
+premier-league,"Manchester United","Southampton",2027-01-16T20:00:00Z,scheduled,3,1,pr_2027_01_16_munvsou
+premier-league,"Newcastle United","Bournemouth",2027-01-18T12:30:00Z,scheduled,1,4,pr_2027_01_18_newvbou
+premier-league,"West Ham United","Crystal Palace",2027-01-18T15:00:00Z,scheduled,0,2,pr_2027_01_18_whuvcry
+premier-league,"Leicester City","Fulham",2027-01-18T15:00:00Z,scheduled,0,2,pr_2027_01_18_leivful
+premier-league,"Brentford","Liverpool",2027-01-18T15:00:00Z,scheduled,0,2,pr_2027_01_18_brevliv
+premier-league,"Arsenal","Aston Villa",2027-01-18T17:30:00Z,scheduled,2,2,pr_2027_01_18_arsvavl
+premier-league,"Manchester United","Brighton & Hove Albion",2027-01-19T14:00:00Z,scheduled,1,3,pr_2027_01_19_munvbha
+premier-league,"Nottingham Forest","Southampton",2027-01-19T14:00:00Z,scheduled,3,2,pr_2027_01_19_nfovsou
+premier-league,"Everton","Tottenham Hotspur",2027-01-19T14:00:00Z,scheduled,3,2,pr_2027_01_19_evevtot
+premier-league,"Ipswich Town","Manchester City",2027-01-19T16:30:00Z,scheduled,0,6,pr_2027_01_19_ipsvmci
+premier-league,"Chelsea","Wolverhampton Wanderers",2027-01-20T20:00:00Z,scheduled,3,1,pr_2027_01_20_chevwol
+premier-league,"Liverpool","Ipswich Town",2027-01-25T15:00:00Z,scheduled,4,1,pr_2027_01_25_livvips
+premier-league,"Wolverhampton Wanderers","Arsenal",2027-01-25T15:00:00Z,scheduled,0,1,pr_2027_01_25_wolvars
+premier-league,"Brighton & Hove Albion","Everton",2027-01-25T15:00:00Z,scheduled,0,1,pr_2027_01_25_bhaveve
+premier-league,"Southampton","Newcastle United",2027-01-25T15:00:00Z,scheduled,1,3,pr_2027_01_25_souvnew
+premier-league,"Bournemouth","Nottingham Forest",2027-01-25T15:00:00Z,scheduled,5,0,pr_2027_01_25_bouvnfo
+premier-league,"Manchester City","Chelsea",2027-01-25T17:30:00Z,scheduled,3,1,pr_2027_01_25_mcivche
+premier-league,"Crystal Palace","Brentford",2027-01-26T14:00:00Z,scheduled,1,2,pr_2027_01_26_cryvbre
+premier-league,"Tottenham Hotspur","Leicester City",2027-01-26T14:00:00Z,scheduled,1,2,pr_2027_01_26_totvlei
+premier-league,"Aston Villa","West Ham United",2027-01-26T16:30:00Z,scheduled,1,1,pr_2027_01_26_avlvwhu
+premier-league,"Fulham","Manchester United",2027-01-26T19:00:00Z,scheduled,0,1,pr_2027_01_26_fulvmun
+premier-league,"Nottingham Forest","Brighton & Hove Albion",2027-02-01T12:30:00Z,scheduled,7,0,pr_2027_02_01_nfovbha
+premier-league,"Newcastle United","Fulham",2027-02-01T15:00:00Z,scheduled,1,2,pr_2027_02_01_newvful
+premier-league,"Everton","Leicester City",2027-02-01T15:00:00Z,scheduled,4,0,pr_2027_02_01_evevlei
+premier-league,"Bournemouth","Liverpool",2027-02-01T15:00:00Z,scheduled,0,2,pr_2027_02_01_bouvliv
+premier-league,"Ipswich Town","Southampton",2027-02-01T15:00:00Z,scheduled,1,2,pr_2027_02_01_ipsvsou
+premier-league,"Wolverhampton Wanderers","Aston Villa",2027-02-01T17:30:00Z,scheduled,2,0,pr_2027_02_01_wolvavl
+premier-league,"Manchester United","Crystal Palace",2027-02-02T14:00:00Z,scheduled,0,2,pr_2027_02_02_munvcry
+premier-league,"Brentford","Tottenham Hotspur",2027-02-02T14:00:00Z,scheduled,0,2,pr_2027_02_02_brevtot
+premier-league,"Arsenal","Manchester City",2027-02-02T16:30:00Z,scheduled,5,1,pr_2027_02_02_arsvmci
+premier-league,"Chelsea","West Ham United",2027-02-03T20:00:00Z,scheduled,2,1,pr_2027_02_03_chevwhu
+premier-league,"Everton","Liverpool",2027-02-12T19:30:00Z,scheduled,2,2,pr_2027_02_12_evevliv
+premier-league,"Brighton & Hove Albion","Chelsea",2027-02-14T20:00:00Z,scheduled,3,0,pr_2027_02_14_bhavche
+premier-league,"Leicester City","Arsenal",2027-02-15T12:30:00Z,scheduled,0,2,pr_2027_02_15_leivars
+premier-league,"Southampton","Bournemouth",2027-02-15T15:00:00Z,scheduled,1,3,pr_2027_02_15_souvbou
+premier-league,"West Ham United","Brentford",2027-02-15T15:00:00Z,scheduled,0,1,pr_2027_02_15_whuvbre
+premier-league,"Aston Villa","Ipswich Town",2027-02-15T15:00:00Z,scheduled,1,1,pr_2027_02_15_avlvips
+premier-league,"Manchester City","Newcastle United",2027-02-15T15:00:00Z,scheduled,4,0,pr_2027_02_15_mcivnew
+premier-league,"Fulham","Nottingham Forest",2027-02-15T15:00:00Z,scheduled,2,1,pr_2027_02_15_fulvnfo
+premier-league,"Crystal Palace","Everton",2027-02-15T17:30:00Z,scheduled,1,2,pr_2027_02_15_cryveve
+premier-league,"Liverpool","Wolverhampton Wanderers",2027-02-16T14:00:00Z,scheduled,2,1,pr_2027_02_16_livvwol
+premier-league,"Tottenham Hotspur","Manchester United",2027-02-16T16:30:00Z,scheduled,1,0,pr_2027_02_16_totvmun
+premier-league,"Aston Villa","Liverpool",2027-02-19T19:30:00Z,scheduled,2,2,pr_2027_02_19_avlvliv
+premier-league,"Leicester City","Brentford",2027-02-21T20:00:00Z,scheduled,0,4,pr_2027_02_21_leivbre
+premier-league,"Everton","Manchester United",2027-02-22T12:30:00Z,scheduled,2,2,pr_2027_02_22_evevmun
+premier-league,"Ipswich Town","Tottenham Hotspur",2027-02-22T15:00:00Z,scheduled,1,4,pr_2027_02_22_ipsvtot
+premier-league,"Fulham","Crystal Palace",2027-02-22T15:00:00Z,scheduled,0,2,pr_2027_02_22_fulvcry
+premier-league,"Arsenal","West Ham United",2027-02-22T15:00:00Z,scheduled,0,1,pr_2027_02_22_arsvwhu
+premier-league,"Bournemouth","Wolverhampton Wanderers",2027-02-22T15:00:00Z,scheduled,0,1,pr_2027_02_22_bouvwol
+premier-league,"Southampton","Brighton & Hove Albion",2027-02-22T15:00:00Z,scheduled,0,4,pr_2027_02_22_souvbha
+premier-league,"Aston Villa","Chelsea",2027-02-22T17:30:00Z,scheduled,2,1,pr_2027_02_22_avlvche
+premier-league,"Newcastle United","Nottingham Forest",2027-02-23T14:00:00Z,scheduled,4,3,pr_2027_02_23_newvnfo
+premier-league,"Manchester City","Liverpool",2027-02-23T16:30:00Z,scheduled,0,2,pr_2027_02_23_mcivliv
+premier-league,"Brighton & Hove Albion","Bournemouth",2027-02-25T19:30:00Z,scheduled,2,1,pr_2027_02_25_bhavbou
+premier-league,"Crystal Palace","Aston Villa",2027-02-25T19:30:00Z,scheduled,4,1,pr_2027_02_25_cryvavl
+premier-league,"Wolverhampton Wanderers","Fulham",2027-02-25T19:30:00Z,scheduled,1,2,pr_2027_02_25_wolvful
+premier-league,"Chelsea","Southampton",2027-02-25T20:15:00Z,scheduled,4,0,pr_2027_02_25_chevsou
+premier-league,"Nottingham Forest","Arsenal",2027-02-26T19:30:00Z,scheduled,0,0,pr_2027_02_26_nfovars
+premier-league,"Brentford","Everton",2027-02-26T19:30:00Z,scheduled,1,1,pr_2027_02_26_breveve
+premier-league,"Tottenham Hotspur","Manchester City",2027-02-26T19:30:00Z,scheduled,0,1,pr_2027_02_26_totvmci
+premier-league,"Manchester United","Ipswich Town",2027-02-26T19:30:00Z,scheduled,3,2,pr_2027_02_26_munvips
+premier-league,"Liverpool","Newcastle United",2027-02-26T20:15:00Z,scheduled,2,0,pr_2027_02_26_livvnew
+premier-league,"West Ham United","Leicester City",2027-02-27T20:00:00Z,scheduled,2,0,pr_2027_02_27_whuvlei
+premier-league,"Nottingham Forest","Manchester City",2027-03-08T12:30:00Z,scheduled,1,0,pr_2027_03_08_nfovmci
+premier-league,"Brighton & Hove Albion","Fulham",2027-03-08T15:00:00Z,scheduled,2,1,pr_2027_03_08_bhavful
+premier-league,"Crystal Palace","Ipswich Town",2027-03-08T15:00:00Z,scheduled,1,0,pr_2027_03_08_cryvips
+premier-league,"Liverpool","Southampton",2027-03-08T15:00:00Z,scheduled,3,1,pr_2027_03_08_livvsou
+premier-league,"Brentford","Aston Villa",2027-03-08T17:30:00Z,scheduled,0,1,pr_2027_03_08_brevavl
+premier-league,"Wolverhampton Wanderers","Everton",2027-03-08T20:00:00Z,scheduled,1,1,pr_2027_03_08_wolveve
+premier-league,"Tottenham Hotspur","Bournemouth",2027-03-09T14:00:00Z,scheduled,2,2,pr_2027_03_09_totvbou
+premier-league,"Chelsea","Leicester City",2027-03-09T14:00:00Z,scheduled,1,0,pr_2027_03_09_chevlei
+premier-league,"Manchester United","Arsenal",2027-03-09T16:30:00Z,scheduled,1,1,pr_2027_03_09_munvars
+premier-league,"West Ham United","Newcastle United",2027-03-10T20:00:00Z,scheduled,0,1,pr_2027_03_10_whuvnew
+premier-league,"Everton","West Ham United",2027-03-15T15:00:00Z,scheduled,1,1,pr_2027_03_15_evevwhu
+premier-league,"Ipswich Town","Nottingham Forest",2027-03-15T15:00:00Z,scheduled,2,4,pr_2027_03_15_ipsvnfo
+premier-league,"Manchester City","Brighton & Hove Albion",2027-03-15T15:00:00Z,scheduled,2,2,pr_2027_03_15_mcivbha
+premier-league,"Southampton","Wolverhampton Wanderers",2027-03-15T15:00:00Z,scheduled,1,2,pr_2027_03_15_souvwol
+premier-league,"Bournemouth","Brentford",2027-03-15T17:30:00Z,scheduled,1,2,pr_2027_03_15_bouvbre
+premier-league,"Arsenal","Chelsea",2027-03-16T13:30:00Z,scheduled,1,0,pr_2027_03_16_arsvche
+premier-league,"Fulham","Tottenham Hotspur",2027-03-16T13:30:00Z,scheduled,2,0,pr_2027_03_16_fulvtot
+premier-league,"Leicester City","Manchester United",2027-03-16T19:00:00Z,scheduled,0,3,pr_2027_03_16_leivmun
+premier-league,"Arsenal","Fulham",2027-04-01T19:45:00Z,scheduled,2,1,pr_2027_04_01_arsvful
+premier-league,"Wolverhampton Wanderers","West Ham United",2027-04-01T19:45:00Z,scheduled,1,0,pr_2027_04_01_wolvwhu
+premier-league,"Nottingham Forest","Manchester United",2027-04-01T20:00:00Z,scheduled,1,0,pr_2027_04_01_nfovmun
+premier-league,"Bournemouth","Ipswich Town",2027-04-02T19:45:00Z,scheduled,1,2,pr_2027_04_02_bouvips
+premier-league,"Brighton & Hove Albion","Aston Villa",2027-04-02T19:45:00Z,scheduled,0,3,pr_2027_04_02_bhavavl
+premier-league,"Manchester City","Leicester City",2027-04-02T19:45:00Z,scheduled,2,0,pr_2027_04_02_mcivlei
+premier-league,"Newcastle United","Brentford",2027-04-02T19:45:00Z,scheduled,2,1,pr_2027_04_02_newvbre
+premier-league,"Southampton","Crystal Palace",2027-04-02T19:45:00Z,scheduled,1,1,pr_2027_04_02_souvcry
+premier-league,"Liverpool","Everton",2027-04-02T20:00:00Z,scheduled,1,0,pr_2027_04_02_livveve
+premier-league,"Chelsea","Tottenham Hotspur",2027-04-03T20:00:00Z,scheduled,1,0,pr_2027_04_03_chevtot
+premier-league,"Everton","Arsenal",2027-04-05T12:30:00Z,scheduled,1,1,pr_2027_04_05_evevars
+premier-league,"Crystal Palace","Brighton & Hove Albion",2027-04-05T15:00:00Z,scheduled,2,1,pr_2027_04_05_cryvbha
+premier-league,"Ipswich Town","Wolverhampton Wanderers",2027-04-05T15:00:00Z,scheduled,1,2,pr_2027_04_05_ipsvwol
+premier-league,"West Ham United","Bournemouth",2027-04-05T15:00:00Z,scheduled,2,2,pr_2027_04_05_whuvbou
+premier-league,"Aston Villa","Nottingham Forest",2027-04-05T17:30:00Z,scheduled,2,1,pr_2027_04_05_avlvnfo
+premier-league,"Brentford","Chelsea",2027-04-06T14:00:00Z,scheduled,0,0,pr_2027_04_06_brevche
+premier-league,"Fulham","Liverpool",2027-04-06T14:00:00Z,scheduled,3,2,pr_2027_04_06_fulvliv
+premier-league,"Tottenham Hotspur","Southampton",2027-04-06T14:00:00Z,scheduled,3,1,pr_2027_04_06_totvsou
+premier-league,"Manchester United","Manchester City",2027-04-06T16:30:00Z,scheduled,0,0,pr_2027_04_06_munvmci
+premier-league,"Leicester City","Newcastle United",2027-04-07T20:00:00Z,scheduled,0,3,pr_2027_04_07_leivnew
+premier-league,"Manchester City","Crystal Palace",2027-04-12T12:30:00Z,scheduled,5,2,pr_2027_04_12_mcivcry
+premier-league,"Brighton & Hove Albion","Leicester City",2027-04-12T15:00:00Z,scheduled,2,2,pr_2027_04_12_bhavlei
+premier-league,"Nottingham Forest","Everton",2027-04-12T15:00:00Z,scheduled,0,1,pr_2027_04_12_nfoveve
+premier-league,"Southampton","Aston Villa",2027-04-12T15:00:00Z,scheduled,0,3,pr_2027_04_12_souvavl
+premier-league,"Arsenal","Brentford",2027-04-12T17:30:00Z,scheduled,1,1,pr_2027_04_12_arsvbre
+premier-league,"Chelsea","Ipswich Town",2027-04-13T14:00:00Z,scheduled,2,2,pr_2027_04_13_chevips
+premier-league,"Liverpool","West Ham United",2027-04-13T14:00:00Z,scheduled,2,1,pr_2027_04_13_livvwhu
+premier-league,"Wolverhampton Wanderers","Tottenham Hotspur",2027-04-13T14:00:00Z,scheduled,4,2,pr_2027_04_13_wolvtot
+premier-league,"Newcastle United","Manchester United",2027-04-13T16:30:00Z,scheduled,4,1,pr_2027_04_13_newvmun
+premier-league,"Bournemouth","Fulham",2027-04-14T20:00:00Z,scheduled,1,0,pr_2027_04_14_bouvful
+premier-league,"Newcastle United","Crystal Palace",2027-04-16T19:30:00Z,scheduled,5,0,pr_2027_04_16_newvcry
+premier-league,"Brentford","Brighton & Hove Albion",2027-04-19T15:00:00Z,scheduled,4,2,pr_2027_04_19_brevbha
+premier-league,"Crystal Palace","Bournemouth",2027-04-19T15:00:00Z,scheduled,0,0,pr_2027_04_19_cryvbou
+premier-league,"Everton","Manchester City",2027-04-19T15:00:00Z,scheduled,0,2,pr_2027_04_19_evevmci
+premier-league,"West Ham United","Southampton",2027-04-19T15:00:00Z,scheduled,1,1,pr_2027_04_19_whuvsou
+premier-league,"Aston Villa","Newcastle United",2027-04-19T17:30:00Z,scheduled,4,1,pr_2027_04_19_avlvnew
+premier-league,"Fulham","Chelsea",2027-04-20T14:00:00Z,scheduled,1,2,pr_2027_04_20_fulvche
+premier-league,"Ipswich Town","Arsenal",2027-04-20T14:00:00Z,scheduled,0,4,pr_2027_04_20_ipsvars
+premier-league,"Manchester United","Wolverhampton Wanderers",2027-04-20T14:00:00Z,scheduled,0,1,pr_2027_04_20_munvwol
+premier-league,"Leicester City","Liverpool",2027-04-20T16:30:00Z,scheduled,0,1,pr_2027_04_20_leivliv
+premier-league,"Tottenham Hotspur","Nottingham Forest",2027-04-21T20:00:00Z,scheduled,1,2,pr_2027_04_21_totvnfo
+premier-league,"Manchester City","Aston Villa",2027-04-22T20:00:00Z,scheduled,2,1,pr_2027_04_22_mcivavl
+premier-league,"Arsenal","Crystal Palace",2027-04-23T20:00:00Z,scheduled,2,2,pr_2027_04_23_arsvcry
+premier-league,"Chelsea","Everton",2027-04-26T12:30:00Z,scheduled,1,0,pr_2027_04_26_cheveve
+premier-league,"Brighton & Hove Albion","West Ham United",2027-04-26T15:00:00Z,scheduled,3,2,pr_2027_04_26_bhavwhu
+premier-league,"Newcastle United","Ipswich Town",2027-04-26T15:00:00Z,scheduled,3,0,pr_2027_04_26_newvips
+premier-league,"Southampton","Fulham",2027-04-26T15:00:00Z,scheduled,1,2,pr_2027_04_26_souvful
+premier-league,"Wolverhampton Wanderers","Leicester City",2027-04-26T15:00:00Z,scheduled,3,0,pr_2027_04_26_wolvlei
+premier-league,"Bournemouth","Manchester United",2027-04-27T14:00:00Z,scheduled,1,1,pr_2027_04_27_bouvmun
+premier-league,"Liverpool","Tottenham Hotspur",2027-04-27T16:30:00Z,scheduled,5,1,pr_2027_04_27_livvtot
+premier-league,"Nottingham Forest","Brentford",2027-05-01T19:30:00Z,scheduled,0,2,pr_2027_05_01_nfovbre
+premier-league,"Manchester City","Wolverhampton Wanderers",2027-05-02T20:00:00Z,scheduled,1,0,pr_2027_05_02_mcivwol
+premier-league,"Aston Villa","Fulham",2027-05-03T12:30:00Z,scheduled,1,0,pr_2027_05_03_avlvful
+premier-league,"Everton","Ipswich Town",2027-05-03T15:00:00Z,scheduled,2,2,pr_2027_05_03_evevips
+premier-league,"Leicester City","Southampton",2027-05-03T15:00:00Z,scheduled,2,0,pr_2027_05_03_leivsou
+premier-league,"Arsenal","Bournemouth",2027-05-03T17:30:00Z,scheduled,1,2,pr_2027_05_03_arsvbou
+premier-league,"Brentford","Manchester United",2027-05-04T14:00:00Z,scheduled,4,3,pr_2027_05_04_brevmun
+premier-league,"Brighton & Hove Albion","Newcastle United",2027-05-04T14:00:00Z,scheduled,1,1,pr_2027_05_04_bhavnew
+premier-league,"West Ham United","Tottenham Hotspur",2027-05-04T14:00:00Z,scheduled,1,1,pr_2027_05_04_whuvtot
+premier-league,"Chelsea","Liverpool",2027-05-04T16:30:00Z,scheduled,3,1,pr_2027_05_04_chevliv
+premier-league,"Crystal Palace","Nottingham Forest",2027-05-05T20:00:00Z,scheduled,1,1,pr_2027_05_05_cryvnfo
+premier-league,"Fulham","Everton",2027-05-10T15:00:00Z,scheduled,1,3,pr_2027_05_10_fulveve
+premier-league,"Ipswich Town","Brentford",2027-05-10T15:00:00Z,scheduled,0,1,pr_2027_05_10_ipsvbre
+premier-league,"Southampton","Manchester City",2027-05-10T15:00:00Z,scheduled,0,0,pr_2027_05_10_souvmci
+premier-league,"Wolverhampton Wanderers","Brighton & Hove Albion",2027-05-10T15:00:00Z,scheduled,0,2,pr_2027_05_10_wolvbha
+premier-league,"Bournemouth","Aston Villa",2027-05-10T17:30:00Z,scheduled,0,1,pr_2027_05_10_bouvavl
+premier-league,"Newcastle United","Chelsea",2027-05-11T12:00:00Z,scheduled,2,0,pr_2027_05_11_newvche
+premier-league,"Manchester United","West Ham United",2027-05-11T14:15:00Z,scheduled,0,2,pr_2027_05_11_munvwhu
+premier-league,"Nottingham Forest","Leicester City",2027-05-11T14:15:00Z,scheduled,2,2,pr_2027_05_11_nfovlei
+premier-league,"Tottenham Hotspur","Crystal Palace",2027-05-11T14:15:00Z,scheduled,0,2,pr_2027_05_11_totvcry
+premier-league,"Liverpool","Arsenal",2027-05-11T16:30:00Z,scheduled,2,2,pr_2027_05_11_livvars
+premier-league,"Aston Villa","Tottenham Hotspur",2027-05-16T19:30:00Z,scheduled,2,0,pr_2027_05_16_avlvtot
+premier-league,"Chelsea","Manchester United",2027-05-16T20:15:00Z,scheduled,1,0,pr_2027_05_16_chevmun
+premier-league,"Everton","Southampton",2027-05-18T12:00:00Z,scheduled,2,0,pr_2027_05_18_evevsou
+premier-league,"West Ham United","Nottingham Forest",2027-05-18T14:15:00Z,scheduled,1,2,pr_2027_05_18_whuvnfo
+premier-league,"Brentford","Fulham",2027-05-18T15:00:00Z,scheduled,2,3,pr_2027_05_18_brevful
+premier-league,"Leicester City","Ipswich Town",2027-05-18T15:00:00Z,scheduled,2,0,pr_2027_05_18_leivips
+premier-league,"Arsenal","Newcastle United",2027-05-18T16:30:00Z,scheduled,1,0,pr_2027_05_18_arsvnew
+premier-league,"Brighton & Hove Albion","Liverpool",2027-05-19T20:00:00Z,scheduled,3,2,pr_2027_05_19_bhavliv
+premier-league,"Crystal Palace","Wolverhampton Wanderers",2027-05-20T20:00:00Z,scheduled,4,2,pr_2027_05_20_cryvwol
+premier-league,"Manchester City","Bournemouth",2027-05-20T20:00:00Z,scheduled,3,1,pr_2027_05_20_mcivbou
+premier-league,"Bournemouth","Leicester City",2027-05-25T16:00:00Z,scheduled,2,0,pr_2027_05_25_bouvlei
+premier-league,"Fulham","Manchester City",2027-05-25T16:00:00Z,scheduled,0,2,pr_2027_05_25_fulvmci
+premier-league,"Ipswich Town","West Ham United",2027-05-25T16:00:00Z,scheduled,1,3,pr_2027_05_25_ipsvwhu
+premier-league,"Liverpool","Crystal Palace",2027-05-25T16:00:00Z,scheduled,1,1,pr_2027_05_25_livvcry
+premier-league,"Manchester United","Aston Villa",2027-05-25T16:00:00Z,scheduled,2,0,pr_2027_05_25_munvavl
+premier-league,"Newcastle United","Everton",2027-05-25T16:00:00Z,scheduled,0,1,pr_2027_05_25_newveve
+premier-league,"Nottingham Forest","Chelsea",2027-05-25T16:00:00Z,scheduled,0,1,pr_2027_05_25_nfovche
+premier-league,"Southampton","Arsenal",2027-05-25T16:00:00Z,scheduled,1,2,pr_2027_05_25_souvars
+premier-league,"Tottenham Hotspur","Brighton & Hove Albion",2027-05-25T16:00:00Z,scheduled,1,4,pr_2027_05_25_totvbha
+premier-league,"Wolverhampton Wanderers","Brentford",2027-05-25T16:00:00Z,scheduled,1,1,pr_2027_05_25_wolvbre
+la-liga,"Athletic Bilbao","Getafe",2026-08-15T19:00:00Z,finished,1,1,la_2026_08_15_athvget
+la-liga,"Real Betis","Girona",2026-08-15T21:30:00Z,finished,1,1,la_2026_08_15_betvgir
+la-liga,"Celta Vigo","Alavés",2026-08-16T19:00:00Z,finished,2,1,la_2026_08_16_celvala
+la-liga,"Las Palmas","Sevilla",2026-08-16T21:30:00Z,finished,2,2,la_2026_08_16_lpavsev
+la-liga,"Osasuna","Leganés",2026-08-17T19:00:00Z,finished,1,1,la_2026_08_17_osavleg
+la-liga,"Valencia","Barcelona",2026-08-17T21:30:00Z,finished,1,2,la_2026_08_17_valvbar
+la-liga,"Real Sociedad","Rayo Vallecano",2026-08-18T19:00:00Z,finished,1,2,la_2026_08_18_rsovray
+la-liga,"Mallorca","Real Madrid",2026-08-18T21:30:00Z,finished,1,1,la_2026_08_18_malvrma
+la-liga,"Valladolid","Espanyol",2026-08-19T19:00:00Z,finished,1,0,la_2026_08_19_vldvesp
+la-liga,"Villarreal","Atlético Madrid",2026-08-19T21:30:00Z,finished,2,2,la_2026_08_19_vilvatm
+la-liga,"Celta Vigo","Valencia",2026-08-23T19:00:00Z,finished,3,1,la_2026_08_23_celvval
+la-liga,"Sevilla","Villarreal",2026-08-23T21:30:00Z,finished,1,2,la_2026_08_23_sevvvil
+la-liga,"Osasuna","Mallorca",2026-08-24T17:00:00Z,finished,1,0,la_2026_08_24_osavmal
+la-liga,"Barcelona","Athletic Bilbao",2026-08-24T19:00:00Z,finished,2,1,la_2026_08_24_barvath
+la-liga,"Getafe","Rayo Vallecano",2026-08-24T21:30:00Z,finished,0,0,la_2026_08_24_getvray
+la-liga,"Espanyol","Real Sociedad",2026-08-24T21:30:00Z,finished,0,1,la_2026_08_24_espvrso
+la-liga,"Real Madrid","Valladolid",2026-08-25T17:00:00Z,finished,3,0,la_2026_08_25_rmavvld
+la-liga,"Leganés","Las Palmas",2026-08-25T19:00:00Z,finished,2,1,la_2026_08_25_legvlpa
+la-liga,"Alavés","Real Betis",2026-08-25T19:15:00Z,finished,0,0,la_2026_08_25_alavbet
+la-liga,"Atlético Madrid","Girona",2026-08-25T21:30:00Z,finished,3,0,la_2026_08_25_atmvgir
+la-liga,"Villarreal","Celta Vigo",2026-08-26T21:30:00Z,finished,4,3,la_2026_08_26_vilvcel
+la-liga,"Mallorca","Sevilla",2026-08-27T19:00:00Z,finished,0,0,la_2026_08_27_malvsev
+la-liga,"Rayo Vallecano","Barcelona",2026-08-27T21:30:00Z,finished,1,2,la_2026_08_27_rayvbar
+la-liga,"Athletic Bilbao","Valencia",2026-08-28T19:00:00Z,finished,1,0,la_2026_08_28_athvval
+la-liga,"Valladolid","Leganés",2026-08-28T19:00:00Z,finished,0,0,la_2026_08_28_vldvleg
+la-liga,"Real Sociedad","Alavés",2026-08-28T21:30:00Z,finished,1,2,la_2026_08_28_rsovala
+la-liga,"Atlético Madrid","Espanyol",2026-08-28T21:30:00Z,finished,0,0,la_2026_08_28_atmvesp
+la-liga,"Girona","Osasuna",2026-08-29T19:00:00Z,finished,4,0,la_2026_08_29_girvosa
+la-liga,"Las Palmas","Real Madrid",2026-08-29T21:30:00Z,finished,1,1,la_2026_08_29_lpavrma
+la-liga,"Barcelona","Valladolid",2026-08-31T17:00:00Z,finished,7,0,la_2026_08_31_barvvld
+la-liga,"Athletic Bilbao","Atlético Madrid",2026-08-31T19:00:00Z,finished,0,1,la_2026_08_31_athvatm
+la-liga,"Espanyol","Rayo Vallecano",2026-08-31T19:15:00Z,finished,2,1,la_2026_08_31_espvray
+la-liga,"Leganés","Mallorca",2026-08-31T21:30:00Z,finished,0,1,la_2026_08_31_legvmal
+la-liga,"Valencia","Villarreal",2026-08-31T21:30:00Z,finished,1,1,la_2026_08_31_valvvil
+la-liga,"Osasuna","Celta Vigo",2026-09-01T17:00:00Z,finished,3,2,la_2026_09_01_osavcel
+la-liga,"Alavés","Las Palmas",2026-09-01T17:00:00Z,finished,2,0,la_2026_09_01_alavlpa
+la-liga,"Sevilla","Girona",2026-09-01T19:00:00Z,finished,0,2,la_2026_09_01_sevvgir
+la-liga,"Getafe","Real Sociedad",2026-09-01T19:15:00Z,finished,0,0,la_2026_09_01_getvrso
+la-liga,"Real Madrid","Real Betis",2026-09-01T21:30:00Z,finished,2,0,la_2026_09_01_rmavbet
+la-liga,"Real Betis","Leganés",2026-09-13T21:00:00Z,finished,2,0,la_2026_09_13_betvleg
+la-liga,"Mallorca","Villarreal",2026-09-14T14:00:00Z,finished,1,2,la_2026_09_14_malvvil
+la-liga,"Espanyol","Alavés",2026-09-14T16:15:00Z,finished,3,2,la_2026_09_14_espvala
+la-liga,"Sevilla","Getafe",2026-09-14T18:30:00Z,finished,1,0,la_2026_09_14_sevvget
+la-liga,"Real Sociedad","Real Madrid",2026-09-14T21:00:00Z,finished,0,2,la_2026_09_14_rsovrma
+la-liga,"Celta Vigo","Valladolid",2026-09-15T14:00:00Z,finished,3,1,la_2026_09_15_celvvld
+la-liga,"Girona","Barcelona",2026-09-15T16:15:00Z,finished,1,4,la_2026_09_15_girvbar
+la-liga,"Las Palmas","Athletic Bilbao",2026-09-15T18:30:00Z,finished,2,3,la_2026_09_15_lpavath
+la-liga,"Atlético Madrid","Valencia",2026-09-15T21:00:00Z,finished,3,0,la_2026_09_15_atmvval
+la-liga,"Rayo Vallecano","Osasuna",2026-09-16T21:00:00Z,finished,3,1,la_2026_09_16_rayvosa
+la-liga,"Mallorca","Real Sociedad",2026-09-17T19:00:00Z,finished,1,0,la_2026_09_17_malvrso
+la-liga,"Real Betis","Getafe",2026-09-18T19:00:00Z,finished,2,1,la_2026_09_18_betvget
+la-liga,"Leganés","Athletic Bilbao",2026-09-19T19:00:00Z,finished,0,2,la_2026_09_19_legvath
+la-liga,"Alavés","Sevilla",2026-09-20T21:00:00Z,scheduled,2,1,la_2026_09_20_alavsev
+la-liga,"Valladolid","Real Sociedad",2026-09-21T14:00:00Z,scheduled,0,0,la_2026_09_21_vldvrso
+la-liga,"Osasuna","Las Palmas",2026-09-21T16:15:00Z,scheduled,2,1,la_2026_09_21_osavlpa
+la-liga,"Valencia","Girona",2026-09-21T18:30:00Z,scheduled,2,0,la_2026_09_21_valvgir
+la-liga,"Real Madrid","Espanyol",2026-09-21T21:00:00Z,scheduled,4,1,la_2026_09_21_rmavesp
+la-liga,"Getafe","Leganés",2026-09-22T14:00:00Z,scheduled,1,1,la_2026_09_22_getvleg
+la-liga,"Athletic Bilbao","Celta Vigo",2026-09-22T16:15:00Z,scheduled,3,1,la_2026_09_22_athvcel
+la-liga,"Villarreal","Barcelona",2026-09-22T18:30:00Z,scheduled,1,5,la_2026_09_22_vilvbar
+la-liga,"Rayo Vallecano","Atlético Madrid",2026-09-22T21:00:00Z,scheduled,1,1,la_2026_09_22_rayvatm
+la-liga,"Real Betis","Mallorca",2026-09-23T21:00:00Z,scheduled,1,2,la_2026_09_23_betvmal
+la-liga,"Sevilla","Valladolid",2026-09-24T19:00:00Z,scheduled,2,1,la_2026_09_24_sevvvld
+la-liga,"Valencia","Osasuna",2026-09-24T19:00:00Z,scheduled,0,0,la_2026_09_24_valvosa
+la-liga,"Real Madrid","Alavés",2026-09-24T21:00:00Z,scheduled,3,2,la_2026_09_24_rmavala
+la-liga,"Girona","Rayo Vallecano",2026-09-25T19:00:00Z,scheduled,0,0,la_2026_09_25_girvray
+la-liga,"Barcelona","Getafe",2026-09-25T21:00:00Z,scheduled,1,0,la_2026_09_25_barvget
+la-liga,"Las Palmas","Real Betis",2026-09-26T19:00:00Z,scheduled,1,1,la_2026_09_26_lpavbet
+la-liga,"Espanyol","Villarreal",2026-09-26T19:00:00Z,scheduled,1,2,la_2026_09_26_espvvil
+la-liga,"Celta Vigo","Atlético Madrid",2026-09-26T21:00:00Z,scheduled,0,1,la_2026_09_26_celvatm
+la-liga,"Valladolid","Mallorca",2026-09-27T21:00:00Z,scheduled,1,2,la_2026_09_27_vldvmal
+la-liga,"Getafe","Alavés",2026-09-28T14:00:00Z,scheduled,2,0,la_2026_09_28_getvala
+la-liga,"Rayo Vallecano","Leganés",2026-09-28T16:15:00Z,scheduled,1,1,la_2026_09_28_rayvleg
+la-liga,"Real Sociedad","Valencia",2026-09-28T18:30:00Z,scheduled,3,0,la_2026_09_28_rsovval
+la-liga,"Osasuna","Barcelona",2026-09-28T21:00:00Z,scheduled,4,2,la_2026_09_28_osavbar
+la-liga,"Celta Vigo","Girona",2026-09-29T14:00:00Z,scheduled,1,1,la_2026_09_29_celvgir
+la-liga,"Athletic Bilbao","Sevilla",2026-09-29T16:15:00Z,scheduled,1,1,la_2026_09_29_athvsev
+la-liga,"Real Betis","Espanyol",2026-09-29T18:30:00Z,scheduled,1,0,la_2026_09_29_betvesp
+la-liga,"Atlético Madrid","Real Madrid",2026-09-29T21:00:00Z,scheduled,1,1,la_2026_09_29_atmvrma
+la-liga,"Villarreal","Las Palmas",2026-09-30T21:00:00Z,scheduled,3,1,la_2026_09_30_vilvlpa
+la-liga,"Leganés","Valencia",2026-10-04T21:00:00Z,scheduled,0,0,la_2026_10_04_legvval
+la-liga,"Espanyol","Mallorca",2026-10-05T14:00:00Z,scheduled,2,1,la_2026_10_05_espvmal
+la-liga,"Getafe","Osasuna",2026-10-05T16:15:00Z,scheduled,1,1,la_2026_10_05_getvosa
+la-liga,"Valladolid","Rayo Vallecano",2026-10-05T18:30:00Z,scheduled,1,2,la_2026_10_05_vldvray
+la-liga,"Las Palmas","Celta Vigo",2026-10-05T18:30:00Z,scheduled,0,1,la_2026_10_05_lpavcel
+la-liga,"Real Madrid","Villarreal",2026-10-05T21:00:00Z,scheduled,2,0,la_2026_10_05_rmavvil
+la-liga,"Girona","Athletic Bilbao",2026-10-06T14:00:00Z,scheduled,2,1,la_2026_10_06_girvath
+la-liga,"Alavés","Barcelona",2026-10-06T16:15:00Z,scheduled,0,3,la_2026_10_06_alavbar
+la-liga,"Sevilla","Real Betis",2026-10-06T18:30:00Z,scheduled,1,0,la_2026_10_06_sevvbet
+la-liga,"Real Sociedad","Atlético Madrid",2026-10-06T21:00:00Z,scheduled,1,1,la_2026_10_06_rsovatm
+la-liga,"Alavés","Valladolid",2026-10-18T21:00:00Z,scheduled,2,3,la_2026_10_18_alavvld
+la-liga,"Athletic Bilbao","Espanyol",2026-10-19T14:00:00Z,scheduled,4,1,la_2026_10_19_athvesp
+la-liga,"Osasuna","Real Betis",2026-10-19T16:15:00Z,scheduled,1,2,la_2026_10_19_osavbet
+la-liga,"Girona","Real Sociedad",2026-10-19T18:30:00Z,scheduled,0,1,la_2026_10_19_girvrso
+la-liga,"Celta Vigo","Real Madrid",2026-10-19T21:00:00Z,scheduled,1,2,la_2026_10_19_celvrma
+la-liga,"Mallorca","Rayo Vallecano",2026-10-20T14:00:00Z,scheduled,1,0,la_2026_10_20_malvray
+la-liga,"Atlético Madrid","Leganés",2026-10-20T16:15:00Z,scheduled,3,1,la_2026_10_20_atmvleg
+la-liga,"Villarreal","Getafe",2026-10-20T18:30:00Z,scheduled,1,1,la_2026_10_20_vilvget
+la-liga,"Barcelona","Sevilla",2026-10-20T21:00:00Z,scheduled,5,1,la_2026_10_20_barvsev
+la-liga,"Valencia","Las Palmas",2026-10-21T21:00:00Z,scheduled,2,3,la_2026_10_21_valvlpa
+la-liga,"Espanyol","Sevilla",2026-10-25T21:00:00Z,scheduled,0,2,la_2026_10_25_espvsev
+la-liga,"Valladolid","Villarreal",2026-10-26T14:00:00Z,scheduled,1,2,la_2026_10_26_vldvvil
+la-liga,"Rayo Vallecano","Alavés",2026-10-26T16:15:00Z,scheduled,1,0,la_2026_10_26_rayvala
+la-liga,"Las Palmas","Girona",2026-10-26T18:30:00Z,scheduled,1,0,la_2026_10_26_lpavgir
+la-liga,"Real Madrid","Barcelona",2026-10-26T21:00:00Z,scheduled,0,4,la_2026_10_26_rmavbar
+la-liga,"Leganés","Celta Vigo",2026-10-27T14:00:00Z,scheduled,3,0,la_2026_10_27_legvcel
+la-liga,"Getafe","Valencia",2026-10-27T16:15:00Z,scheduled,1,1,la_2026_10_27_getvval
+la-liga,"Real Betis","Atlético Madrid",2026-10-27T18:30:00Z,scheduled,1,0,la_2026_10_27_betvatm
+la-liga,"Real Sociedad","Osasuna",2026-10-27T21:00:00Z,scheduled,0,2,la_2026_10_27_rsovosa
+la-liga,"Mallorca","Athletic Bilbao",2026-10-28T21:00:00Z,scheduled,0,0,la_2026_10_28_malvath
+la-liga,"Alavés","Mallorca",2026-11-01T21:00:00Z,scheduled,1,0,la_2026_11_01_alavmal
+la-liga,"Osasuna","Valladolid",2026-11-02T14:00:00Z,scheduled,1,0,la_2026_11_02_osavvld
+la-liga,"Girona","Leganés",2026-11-02T16:15:00Z,scheduled,4,3,la_2026_11_02_girvleg
+la-liga,"Atlético Madrid","Las Palmas",2026-11-03T14:00:00Z,scheduled,2,0,la_2026_11_03_atmvlpa
+la-liga,"Barcelona","Espanyol",2026-11-03T16:15:00Z,scheduled,3,1,la_2026_11_03_barvesp
+la-liga,"Sevilla","Real Sociedad",2026-11-03T18:30:00Z,scheduled,0,2,la_2026_11_03_sevvrso
+la-liga,"Athletic Bilbao","Real Betis",2026-11-03T21:00:00Z,scheduled,1,1,la_2026_11_03_athvbet
+la-liga,"Celta Vigo","Getafe",2026-11-04T21:00:00Z,scheduled,1,0,la_2026_11_04_celvget
+la-liga,"Rayo Vallecano","Las Palmas",2026-11-08T21:00:00Z,scheduled,1,3,la_2026_11_08_rayvlpa
+la-liga,"Real Madrid","Osasuna",2026-11-09T14:00:00Z,scheduled,4,0,la_2026_11_09_rmavosa
+la-liga,"Villarreal","Alavés",2026-11-09T16:15:00Z,scheduled,3,0,la_2026_11_09_vilvala
+la-liga,"Leganés","Sevilla",2026-11-09T21:00:00Z,scheduled,1,0,la_2026_11_09_legvsev
+la-liga,"Real Betis","Celta Vigo",2026-11-10T14:00:00Z,scheduled,2,2,la_2026_11_10_betvcel
+la-liga,"Mallorca","Atlético Madrid",2026-11-10T16:15:00Z,scheduled,0,1,la_2026_11_10_malvatm
+la-liga,"Getafe","Girona",2026-11-10T18:30:00Z,scheduled,0,1,la_2026_11_10_getvgir
+la-liga,"Valladolid","Athletic Bilbao",2026-11-10T18:30:00Z,scheduled,1,1,la_2026_11_10_vldvath
+la-liga,"Real Sociedad","Barcelona",2026-11-10T21:00:00Z,scheduled,1,0,la_2026_11_10_rsovbar
+la-liga,"Getafe","Valladolid",2026-11-22T21:00:00Z,scheduled,2,0,la_2026_11_22_getvvld
+la-liga,"Valencia","Real Betis",2026-11-23T14:00:00Z,scheduled,4,2,la_2026_11_23_valvbet
+la-liga,"Atlético Madrid","Alavés",2026-11-23T16:15:00Z,scheduled,2,1,la_2026_11_23_atmvala
+la-liga,"Las Palmas","Mallorca",2026-11-23T18:30:00Z,scheduled,2,3,la_2026_11_23_lpavmal
+la-liga,"Girona","Espanyol",2026-11-23T18:30:00Z,scheduled,4,1,la_2026_11_23_girvesp
+la-liga,"Celta Vigo","Barcelona",2026-11-23T21:00:00Z,scheduled,2,2,la_2026_11_23_celvbar
+la-liga,"Osasuna","Villarreal",2026-11-24T14:00:00Z,scheduled,2,2,la_2026_11_24_osavvil
+la-liga,"Sevilla","Rayo Vallecano",2026-11-24T16:15:00Z,scheduled,1,0,la_2026_11_24_sevvray
+la-liga,"Leganés","Real Madrid",2026-11-24T18:30:00Z,scheduled,0,3,la_2026_11_24_legvrma
+la-liga,"Athletic Bilbao","Real Sociedad",2026-11-24T21:00:00Z,scheduled,1,0,la_2026_11_24_athvrso
+la-liga,"Mallorca","Valencia",2026-11-29T21:00:00Z,scheduled,2,1,la_2026_11_29_malvval
+la-liga,"Barcelona","Las Palmas",2026-11-30T14:00:00Z,scheduled,1,2,la_2026_11_30_barvlpa
+la-liga,"Alavés","Leganés",2026-11-30T16:15:00Z,scheduled,1,1,la_2026_11_30_alavleg
+la-liga,"Espanyol","Celta Vigo",2026-11-30T18:30:00Z,scheduled,3,1,la_2026_11_30_espvcel
+la-liga,"Valladolid","Atlético Madrid",2026-11-30T21:00:00Z,scheduled,0,5,la_2026_11_30_vldvatm
+la-liga,"Villarreal","Girona",2026-12-01T14:00:00Z,scheduled,2,2,la_2026_12_01_vilvgir
+la-liga,"Real Madrid","Getafe",2026-12-01T16:15:00Z,scheduled,2,0,la_2026_12_01_rmavget
+la-liga,"Rayo Vallecano","Athletic Bilbao",2026-12-01T18:30:00Z,scheduled,1,2,la_2026_12_01_rayvath
+la-liga,"Real Sociedad","Real Betis",2026-12-01T21:00:00Z,scheduled,2,0,la_2026_12_01_rsovbet
+la-liga,"Sevilla","Osasuna",2026-12-02T21:00:00Z,scheduled,1,1,la_2026_12_02_sevvosa
+la-liga,"Mallorca","Barcelona",2026-12-03T19:00:00Z,scheduled,1,5,la_2026_12_03_malvbar
+la-liga,"Athletic Bilbao","Real Madrid",2026-12-04T21:00:00Z,scheduled,2,1,la_2026_12_04_athvrma
+la-liga,"Celta Vigo","Mallorca",2026-12-06T21:00:00Z,scheduled,2,0,la_2026_12_06_celvmal
+la-liga,"Las Palmas","Valladolid",2026-12-07T14:00:00Z,scheduled,2,1,la_2026_12_07_lpavvld
+la-liga,"Real Betis","Barcelona",2026-12-07T16:15:00Z,scheduled,2,2,la_2026_12_07_betvbar
+la-liga,"Valencia","Rayo Vallecano",2026-12-07T18:30:00Z,scheduled,0,1,la_2026_12_07_valvray
+la-liga,"Girona","Real Madrid",2026-12-07T21:00:00Z,scheduled,0,3,la_2026_12_07_girvrma
+la-liga,"Leganés","Real Sociedad",2026-12-08T14:00:00Z,scheduled,0,3,la_2026_12_08_legvrso
+la-liga,"Athletic Bilbao","Villarreal",2026-12-08T16:15:00Z,scheduled,2,0,la_2026_12_08_athvvil
+la-liga,"Osasuna","Alavés",2026-12-08T18:30:00Z,scheduled,2,2,la_2026_12_08_osavala
+la-liga,"Atlético Madrid","Sevilla",2026-12-08T21:00:00Z,scheduled,4,3,la_2026_12_08_atmvsev
+la-liga,"Getafe","Espanyol",2026-12-09T21:00:00Z,scheduled,1,0,la_2026_12_09_getvesp
+la-liga,"Valladolid","Valencia",2026-12-13T21:00:00Z,scheduled,1,0,la_2026_12_13_vldvval
+la-liga,"Espanyol","Osasuna",2026-12-14T14:00:00Z,scheduled,0,0,la_2026_12_14_espvosa
+la-liga,"Mallorca","Girona",2026-12-14T16:15:00Z,scheduled,2,1,la_2026_12_14_malvgir
+la-liga,"Sevilla","Celta Vigo",2026-12-14T18:30:00Z,scheduled,1,0,la_2026_12_14_sevvcel
+la-liga,"Rayo Vallecano","Real Madrid",2026-12-14T21:00:00Z,scheduled,3,3,la_2026_12_14_rayvrma
+la-liga,"Atlético Madrid","Getafe",2026-12-15T14:00:00Z,scheduled,1,0,la_2026_12_15_atmvget
+la-liga,"Alavés","Athletic Bilbao",2026-12-15T16:15:00Z,scheduled,1,1,la_2026_12_15_alavath
+la-liga,"Villarreal","Real Betis",2026-12-15T18:30:00Z,scheduled,1,2,la_2026_12_15_vilvbet
+la-liga,"Real Sociedad","Las Palmas",2026-12-15T18:30:00Z,scheduled,0,0,la_2026_12_15_rsovlpa
+la-liga,"Barcelona","Leganés",2026-12-15T21:00:00Z,scheduled,0,1,la_2026_12_15_barvleg
+la-liga,"Villarreal","Rayo Vallecano",2026-12-18T21:30:00Z,scheduled,1,1,la_2026_12_18_vilvray
+la-liga,"Espanyol","Valencia",2026-12-18T21:30:00Z,scheduled,1,1,la_2026_12_18_espvval
+la-liga,"Girona","Valladolid",2026-12-20T21:00:00Z,scheduled,3,0,la_2026_12_20_girvvld
+la-liga,"Getafe","Mallorca",2026-12-21T14:00:00Z,scheduled,0,1,la_2026_12_21_getvmal
+la-liga,"Celta Vigo","Real Sociedad",2026-12-21T16:15:00Z,scheduled,2,0,la_2026_12_21_celvrso
+la-liga,"Osasuna","Athletic Bilbao",2026-12-21T18:30:00Z,scheduled,1,2,la_2026_12_21_osavath
+la-liga,"Barcelona","Atlético Madrid",2026-12-21T21:00:00Z,scheduled,1,2,la_2026_12_21_barvatm
+la-liga,"Valencia","Alavés",2026-12-22T14:00:00Z,scheduled,2,2,la_2026_12_22_valvala
+la-liga,"Real Madrid","Sevilla",2026-12-22T16:15:00Z,scheduled,4,2,la_2026_12_22_rmavsev
+la-liga,"Leganés","Villarreal",2026-12-22T18:30:00Z,scheduled,2,5,la_2026_12_22_legvvil
+la-liga,"Las Palmas","Espanyol",2026-12-22T18:30:00Z,scheduled,1,0,la_2026_12_22_lpavesp
+la-liga,"Real Betis","Rayo Vallecano",2026-12-22T21:00:00Z,scheduled,1,1,la_2026_12_22_betvray
+la-liga,"Valencia","Real Madrid",2027-01-03T21:00:00Z,scheduled,1,2,la_2027_01_03_valvrma
+la-liga,"Rayo Vallecano","Celta Vigo",2027-01-10T21:00:00Z,scheduled,2,1,la_2027_01_10_rayvcel
+la-liga,"Alavés","Girona",2027-01-11T14:00:00Z,scheduled,0,1,la_2027_01_11_alavgir
+la-liga,"Valladolid","Real Betis",2027-01-11T16:15:00Z,scheduled,1,0,la_2027_01_11_vldvbet
+la-liga,"Espanyol","Leganés",2027-01-11T18:30:00Z,scheduled,1,1,la_2027_01_11_espvleg
+la-liga,"Sevilla","Valencia",2027-01-11T21:00:00Z,scheduled,1,1,la_2027_01_11_sevvval
+la-liga,"Las Palmas","Getafe",2027-01-12T14:00:00Z,scheduled,1,2,la_2027_01_12_lpavget
+la-liga,"Atlético Madrid","Osasuna",2027-01-12T16:15:00Z,scheduled,1,0,la_2027_01_12_atmvosa
+la-liga,"Real Sociedad","Villarreal",2027-01-13T21:00:00Z,scheduled,1,0,la_2027_01_13_rsovvil
+la-liga,"Espanyol","Valladolid",2027-01-17T21:00:00Z,scheduled,2,1,la_2027_01_17_espvvld
+la-liga,"Girona","Sevilla",2027-01-18T14:00:00Z,scheduled,1,2,la_2027_01_18_girvsev
+la-liga,"Leganés","Atlético Madrid",2027-01-18T16:15:00Z,scheduled,1,0,la_2027_01_18_legvatm
+la-liga,"Real Betis","Alavés",2027-01-18T18:30:00Z,scheduled,1,3,la_2027_01_18_betvala
+la-liga,"Getafe","Barcelona",2027-01-18T21:00:00Z,scheduled,1,1,la_2027_01_18_getvbar
+la-liga,"Celta Vigo","Athletic Bilbao",2027-01-19T14:00:00Z,scheduled,1,2,la_2027_01_19_celvath
+la-liga,"Real Madrid","Las Palmas",2027-01-19T16:15:00Z,scheduled,4,1,la_2027_01_19_rmavlpa
+la-liga,"Osasuna","Rayo Vallecano",2027-01-19T18:30:00Z,scheduled,1,1,la_2027_01_19_osavray
+la-liga,"Valencia","Real Sociedad",2027-01-19T21:00:00Z,scheduled,1,0,la_2027_01_19_valvrso
+la-liga,"Villarreal","Mallorca",2027-01-20T21:00:00Z,scheduled,4,0,la_2027_01_20_vilvmal
+la-liga,"Las Palmas","Osasuna",2027-01-24T21:00:00Z,scheduled,1,1,la_2027_01_24_lpavosa
+la-liga,"Mallorca","Real Betis",2027-01-25T14:00:00Z,scheduled,0,1,la_2027_01_25_malvbet
+la-liga,"Atlético Madrid","Villarreal",2027-01-25T16:15:00Z,scheduled,1,1,la_2027_01_25_atmvvil
+la-liga,"Sevilla","Espanyol",2027-01-25T18:30:00Z,scheduled,1,1,la_2027_01_25_sevvesp
+la-liga,"Valladolid","Real Madrid",2027-01-25T21:00:00Z,scheduled,0,3,la_2027_01_25_vldvrma
+la-liga,"Rayo Vallecano","Girona",2027-01-26T14:00:00Z,scheduled,2,1,la_2027_01_26_rayvgir
+la-liga,"Real Sociedad","Getafe",2027-01-26T16:15:00Z,scheduled,0,3,la_2027_01_26_rsovget
+la-liga,"Athletic Bilbao","Leganés",2027-01-26T18:30:00Z,scheduled,0,0,la_2027_01_26_athvleg
+la-liga,"Barcelona","Valencia",2027-01-26T21:00:00Z,scheduled,7,1,la_2027_01_26_barvval
+la-liga,"Alavés","Celta Vigo",2027-01-27T21:00:00Z,scheduled,1,1,la_2027_01_27_alavcel
+la-liga,"Leganés","Rayo Vallecano",2027-01-31T21:00:00Z,scheduled,0,1,la_2027_01_31_legvray
+la-liga,"Getafe","Sevilla",2027-02-01T14:00:00Z,scheduled,0,0,la_2027_02_01_getvsev
+la-liga,"Villarreal","Valladolid",2027-02-01T16:15:00Z,scheduled,5,1,la_2027_02_01_vilvvld
+la-liga,"Atlético Madrid","Mallorca",2027-02-01T18:30:00Z,scheduled,2,0,la_2027_02_01_atmvmal
+la-liga,"Espanyol","Real Madrid",2027-02-01T21:00:00Z,scheduled,1,0,la_2027_02_01_espvrma
+la-liga,"Barcelona","Alavés",2027-02-02T14:00:00Z,scheduled,1,0,la_2027_02_02_barvala
+la-liga,"Valencia","Celta Vigo",2027-02-02T16:15:00Z,scheduled,2,1,la_2027_02_02_valvcel
+la-liga,"Osasuna","Real Sociedad",2027-02-02T18:30:00Z,scheduled,2,1,la_2027_02_02_osavrso
+la-liga,"Real Betis","Athletic Bilbao",2027-02-02T21:00:00Z,scheduled,2,2,la_2027_02_02_betvath
+la-liga,"Girona","Las Palmas",2027-02-03T21:00:00Z,scheduled,2,1,la_2027_02_03_girvlpa
+la-liga,"Rayo Vallecano","Valladolid",2027-02-07T21:00:00Z,scheduled,1,0,la_2027_02_07_rayvvld
+la-liga,"Celta Vigo","Real Betis",2027-02-08T14:00:00Z,scheduled,3,2,la_2027_02_08_celvbet
+la-liga,"Athletic Bilbao","Girona",2027-02-08T16:15:00Z,scheduled,3,0,la_2027_02_08_athvgir
+la-liga,"Las Palmas","Villarreal",2027-02-08T18:30:00Z,scheduled,1,2,la_2027_02_08_lpavvil
+la-liga,"Real Madrid","Atlético Madrid",2027-02-08T21:00:00Z,scheduled,1,1,la_2027_02_08_rmavatm
+la-liga,"Alavés","Getafe",2027-02-09T14:00:00Z,scheduled,0,1,la_2027_02_09_alavget
+la-liga,"Valencia","Leganés",2027-02-09T16:15:00Z,scheduled,2,0,la_2027_02_09_valvleg
+la-liga,"Real Sociedad","Espanyol",2027-02-09T18:30:00Z,scheduled,2,1,la_2027_02_09_rsovesp
+la-liga,"Sevilla","Barcelona",2027-02-09T21:00:00Z,scheduled,1,4,la_2027_02_09_sevvbar
+la-liga,"Mallorca","Osasuna",2027-02-10T21:00:00Z,scheduled,1,1,la_2027_02_10_malvosa
+la-liga,"Girona","Getafe",2027-02-14T21:00:00Z,scheduled,1,2,la_2027_02_14_girvget
+la-liga,"Leganés","Alavés",2027-02-15T14:00:00Z,scheduled,3,3,la_2027_02_15_legvala
+la-liga,"Osasuna","Real Madrid",2027-02-15T16:15:00Z,scheduled,1,1,la_2027_02_15_osavrma
+la-liga,"Atlético Madrid","Celta Vigo",2027-02-15T18:30:00Z,scheduled,1,1,la_2027_02_15_atmvcel
+la-liga,"Villarreal","Valencia",2027-02-15T21:00:00Z,scheduled,1,1,la_2027_02_15_vilvval
+la-liga,"Espanyol","Athletic Bilbao",2027-02-16T14:00:00Z,scheduled,1,1,la_2027_02_16_espvath
+la-liga,"Valladolid","Sevilla",2027-02-16T16:15:00Z,scheduled,0,4,la_2027_02_16_vldvsev
+la-liga,"Mallorca","Las Palmas",2027-02-16T18:30:00Z,scheduled,3,1,la_2027_02_16_malvlpa
+la-liga,"Real Betis","Real Sociedad",2027-02-16T21:00:00Z,scheduled,3,0,la_2027_02_16_betvrso
+la-liga,"Barcelona","Rayo Vallecano",2027-02-17T21:00:00Z,scheduled,1,0,la_2027_02_17_barvray
+la-liga,"Celta Vigo","Osasuna",2027-02-21T21:00:00Z,scheduled,1,0,la_2027_02_21_celvosa
+la-liga,"Alavés","Espanyol",2027-02-22T14:00:00Z,scheduled,0,1,la_2027_02_22_alavesp
+la-liga,"Rayo Vallecano","Villarreal",2027-02-22T16:15:00Z,scheduled,0,1,la_2027_02_22_rayvvil
+la-liga,"Valencia","Atlético Madrid",2027-02-22T18:30:00Z,scheduled,0,3,la_2027_02_22_valvatm
+la-liga,"Las Palmas","Barcelona",2027-02-22T21:00:00Z,scheduled,0,2,la_2027_02_22_lpavbar
+la-liga,"Athletic Bilbao","Valladolid",2027-02-23T14:00:00Z,scheduled,7,1,la_2027_02_23_athvvld
+la-liga,"Real Madrid","Girona",2027-02-23T16:15:00Z,scheduled,2,0,la_2027_02_23_rmavgir
+la-liga,"Getafe","Real Betis",2027-02-23T18:30:00Z,scheduled,1,2,la_2027_02_23_getvbet
+la-liga,"Real Sociedad","Leganés",2027-02-23T21:00:00Z,scheduled,3,0,la_2027_02_23_rsovleg
+la-liga,"Sevilla","Mallorca",2027-02-24T21:00:00Z,scheduled,1,1,la_2027_02_24_sevvmal
+la-liga,"Valladolid","Las Palmas",2027-02-28T21:00:00Z,scheduled,1,1,la_2027_02_28_vldvlpa
+la-liga,"Girona","Celta Vigo",2027-03-01T14:00:00Z,scheduled,2,2,la_2027_03_01_girvcel
+la-liga,"Rayo Vallecano","Sevilla",2027-03-01T16:15:00Z,scheduled,1,1,la_2027_03_01_rayvsev
+la-liga,"Real Betis","Real Madrid",2027-03-01T18:30:00Z,scheduled,2,1,la_2027_03_01_betvrma
+la-liga,"Atlético Madrid","Athletic Bilbao",2027-03-01T21:00:00Z,scheduled,1,0,la_2027_03_01_atmvath
+la-liga,"Leganés","Getafe",2027-03-02T14:00:00Z,scheduled,1,0,la_2027_03_02_legvget
+la-liga,"Barcelona","Real Sociedad",2027-03-02T16:15:00Z,scheduled,4,0,la_2027_03_02_barvrso
+la-liga,"Mallorca","Alavés",2027-03-02T18:30:00Z,scheduled,1,1,la_2027_03_02_malvala
+la-liga,"Osasuna","Valencia",2027-03-02T21:00:00Z,scheduled,3,3,la_2027_03_02_osavval
+la-liga,"Celta Vigo","Leganés",2027-03-08T14:00:00Z,scheduled,2,1,la_2027_03_08_celvleg
+la-liga,"Alavés","Villarreal",2027-03-08T16:15:00Z,scheduled,1,0,la_2027_03_08_alavvil
+la-liga,"Valencia","Valladolid",2027-03-08T18:30:00Z,scheduled,2,1,la_2027_03_08_valvvld
+la-liga,"Getafe","Atlético Madrid",2027-03-09T14:00:00Z,scheduled,2,1,la_2027_03_09_getvatm
+la-liga,"Real Madrid","Rayo Vallecano",2027-03-09T16:15:00Z,scheduled,2,1,la_2027_03_09_rmavray
+la-liga,"Athletic Bilbao","Mallorca",2027-03-09T18:30:00Z,scheduled,1,1,la_2027_03_09_athvmal
+la-liga,"Real Betis","Las Palmas",2027-03-09T18:30:00Z,scheduled,1,0,la_2027_03_09_betvlpa
+la-liga,"Real Sociedad","Sevilla",2027-03-09T21:00:00Z,scheduled,0,1,la_2027_03_09_rsovsev
+la-liga,"Espanyol","Girona",2027-03-10T21:00:00Z,scheduled,1,1,la_2027_03_10_espvgir
+la-liga,"Las Palmas","Alavés",2027-03-14T21:00:00Z,scheduled,2,2,la_2027_03_14_lpavala
+la-liga,"Valladolid","Celta Vigo",2027-03-15T14:00:00Z,scheduled,0,1,la_2027_03_15_vldvcel
+la-liga,"Mallorca","Espanyol",2027-03-15T16:15:00Z,scheduled,2,1,la_2027_03_15_malvesp
+la-liga,"Villarreal","Real Madrid",2027-03-15T18:30:00Z,scheduled,1,2,la_2027_03_15_vilvrma
+la-liga,"Girona","Valencia",2027-03-15T21:00:00Z,scheduled,1,1,la_2027_03_15_girvval
+la-liga,"Leganés","Real Betis",2027-03-16T14:00:00Z,scheduled,2,3,la_2027_03_16_legvbet
+la-liga,"Sevilla","Athletic Bilbao",2027-03-16T16:15:00Z,scheduled,0,1,la_2027_03_16_sevvath
+la-liga,"Osasuna","Getafe",2027-03-16T18:30:00Z,scheduled,1,2,la_2027_03_16_osavget
+la-liga,"Rayo Vallecano","Real Sociedad",2027-03-16T18:30:00Z,scheduled,2,2,la_2027_03_16_rayvrso
+la-liga,"Atlético Madrid","Barcelona",2027-03-16T21:00:00Z,scheduled,2,4,la_2027_03_16_atmvbar
+la-liga,"Barcelona","Osasuna",2027-03-27T21:00:00Z,scheduled,3,0,la_2027_03_27_barvosa
+la-liga,"Real Sociedad","Valladolid",2027-03-29T14:00:00Z,scheduled,2,1,la_2027_03_29_rsovvld
+la-liga,"Espanyol","Atlético Madrid",2027-03-29T16:15:00Z,scheduled,1,1,la_2027_03_29_espvatm
+la-liga,"Alavés","Rayo Vallecano",2027-03-29T18:30:00Z,scheduled,0,2,la_2027_03_29_alavray
+la-liga,"Real Madrid","Leganés",2027-03-29T21:00:00Z,scheduled,3,2,la_2027_03_29_rmavleg
+la-liga,"Getafe","Villarreal",2027-03-30T14:00:00Z,scheduled,1,2,la_2027_03_30_getvvil
+la-liga,"Barcelona","Girona",2027-03-30T16:15:00Z,scheduled,4,1,la_2027_03_30_barvgir
+la-liga,"Athletic Bilbao","Osasuna",2027-03-30T18:30:00Z,scheduled,0,0,la_2027_03_30_athvosa
+la-liga,"Valencia","Mallorca",2027-03-30T18:30:00Z,scheduled,1,0,la_2027_03_30_valvmal
+la-liga,"Real Betis","Sevilla",2027-03-30T21:00:00Z,scheduled,2,1,la_2027_03_30_betvsev
+la-liga,"Celta Vigo","Las Palmas",2027-03-31T21:00:00Z,scheduled,1,1,la_2027_03_31_celvlpa
+la-liga,"Rayo Vallecano","Espanyol",2027-04-04T21:00:00Z,scheduled,0,4,la_2027_04_04_rayvesp
+la-liga,"Girona","Alavés",2027-04-05T14:00:00Z,scheduled,0,1,la_2027_04_05_girvala
+la-liga,"Real Madrid","Valencia",2027-04-05T16:15:00Z,scheduled,1,2,la_2027_04_05_rmavval
+la-liga,"Mallorca","Celta Vigo",2027-04-05T18:30:00Z,scheduled,1,2,la_2027_04_05_malvcel
+la-liga,"Barcelona","Real Betis",2027-04-05T21:00:00Z,scheduled,1,1,la_2027_04_05_barvbet
+la-liga,"Las Palmas","Real Sociedad",2027-04-06T14:00:00Z,scheduled,1,3,la_2027_04_06_lpavrso
+la-liga,"Sevilla","Atlético Madrid",2027-04-06T16:15:00Z,scheduled,1,2,la_2027_04_06_sevvatm
+la-liga,"Valladolid","Getafe",2027-04-06T18:30:00Z,scheduled,0,4,la_2027_04_06_vldvget
+la-liga,"Villarreal","Athletic Bilbao",2027-04-06T21:00:00Z,scheduled,0,0,la_2027_04_06_vilvath
+la-liga,"Leganés","Osasuna",2027-04-07T21:00:00Z,scheduled,1,1,la_2027_04_07_legvosa
+la-liga,"Valencia","Sevilla",2027-04-11T21:00:00Z,scheduled,1,0,la_2027_04_11_valvsev
+la-liga,"Real Sociedad","Mallorca",2027-04-12T14:00:00Z,scheduled,0,2,la_2027_04_12_rsovmal
+la-liga,"Getafe","Las Palmas",2027-04-12T16:15:00Z,scheduled,1,3,la_2027_04_12_getvlpa
+la-liga,"Celta Vigo","Espanyol",2027-04-12T18:30:00Z,scheduled,0,2,la_2027_04_12_celvesp
+la-liga,"Leganés","Barcelona",2027-04-12T21:00:00Z,scheduled,0,1,la_2027_04_12_legvbar
+la-liga,"Osasuna","Girona",2027-04-13T14:00:00Z,scheduled,2,1,la_2027_04_13_osavgir
+la-liga,"Alavés","Real Madrid",2027-04-13T16:15:00Z,scheduled,0,1,la_2027_04_13_alavrma
+la-liga,"Real Betis","Villarreal",2027-04-13T18:30:00Z,scheduled,1,2,la_2027_04_13_betvvil
+la-liga,"Athletic Bilbao","Rayo Vallecano",2027-04-13T21:00:00Z,scheduled,3,1,la_2027_04_13_athvray
+la-liga,"Atlético Madrid","Valladolid",2027-04-14T21:00:00Z,scheduled,4,2,la_2027_04_14_atmvvld
+la-liga,"Espanyol","Getafe",2027-04-18T21:00:00Z,scheduled,1,0,la_2027_04_18_espvget
+la-liga,"Rayo Vallecano","Valencia",2027-04-19T14:00:00Z,scheduled,1,1,la_2027_04_19_rayvval
+la-liga,"Barcelona","Celta Vigo",2027-04-19T16:15:00Z,scheduled,4,3,la_2027_04_19_barvcel
+la-liga,"Mallorca","Leganés",2027-04-19T18:30:00Z,scheduled,0,0,la_2027_04_19_malvleg
+la-liga,"Las Palmas","Atlético Madrid",2027-04-19T21:00:00Z,scheduled,1,0,la_2027_04_19_lpavatm
+la-liga,"Valladolid","Osasuna",2027-04-20T14:00:00Z,scheduled,2,3,la_2027_04_20_vldvosa
+la-liga,"Villarreal","Real Sociedad",2027-04-20T16:15:00Z,scheduled,2,2,la_2027_04_20_vilvrso
+la-liga,"Sevilla","Alavés",2027-04-20T18:30:00Z,scheduled,1,1,la_2027_04_20_sevvala
+la-liga,"Real Madrid","Athletic Bilbao",2027-04-20T21:00:00Z,scheduled,1,0,la_2027_04_20_rmavath
+la-liga,"Girona","Real Betis",2027-04-21T21:00:00Z,scheduled,1,3,la_2027_04_21_girvbet
+la-liga,"Valencia","Espanyol",2027-04-22T19:00:00Z,scheduled,1,1,la_2027_04_22_valvesp
+la-liga,"Barcelona","Mallorca",2027-04-22T21:30:00Z,scheduled,1,0,la_2027_04_22_barvmal
+la-liga,"Athletic Bilbao","Las Palmas",2027-04-23T19:00:00Z,scheduled,1,0,la_2027_04_23_athvlpa
+la-liga,"Celta Vigo","Villarreal",2027-04-23T19:00:00Z,scheduled,3,0,la_2027_04_23_celvvil
+la-liga,"Alavés","Real Sociedad",2027-04-23T21:30:00Z,scheduled,1,0,la_2027_04_23_alavrso
+la-liga,"Getafe","Real Madrid",2027-04-23T21:30:00Z,scheduled,0,1,la_2027_04_23_getvrma
+la-liga,"Osasuna","Sevilla",2027-04-24T19:00:00Z,scheduled,1,0,la_2027_04_24_osavsev
+la-liga,"Leganés","Girona",2027-04-24T19:00:00Z,scheduled,1,1,la_2027_04_24_legvgir
+la-liga,"Atlético Madrid","Rayo Vallecano",2027-04-24T21:30:00Z,scheduled,3,0,la_2027_04_24_atmvray
+la-liga,"Real Betis","Valladolid",2027-04-24T21:30:00Z,scheduled,5,1,la_2027_04_24_betvvld
+la-liga,"Villarreal","Espanyol",2027-04-27T16:15:00Z,scheduled,1,0,la_2027_04_27_vilvesp
+la-liga,"Rayo Vallecano","Getafe",2027-05-02T21:00:00Z,scheduled,1,0,la_2027_05_02_rayvget
+la-liga,"Alavés","Atlético Madrid",2027-05-03T14:00:00Z,scheduled,0,0,la_2027_05_03_alavatm
+la-liga,"Villarreal","Osasuna",2027-05-03T16:15:00Z,scheduled,4,2,la_2027_05_03_vilvosa
+la-liga,"Las Palmas","Valencia",2027-05-03T18:30:00Z,scheduled,2,3,la_2027_05_03_lpavval
+la-liga,"Valladolid","Barcelona",2027-05-03T21:00:00Z,scheduled,1,2,la_2027_05_03_vldvbar
+la-liga,"Real Madrid","Celta Vigo",2027-05-04T14:00:00Z,scheduled,3,2,la_2027_05_04_rmavcel
+la-liga,"Sevilla","Leganés",2027-05-04T16:15:00Z,scheduled,2,2,la_2027_05_04_sevvleg
+la-liga,"Espanyol","Real Betis",2027-05-04T18:30:00Z,scheduled,1,2,la_2027_05_04_espvbet
+la-liga,"Real Sociedad","Athletic Bilbao",2027-05-04T21:00:00Z,scheduled,0,0,la_2027_05_04_rsovath
+la-liga,"Girona","Mallorca",2027-05-05T21:00:00Z,scheduled,1,0,la_2027_05_05_girvmal
+la-liga,"Las Palmas","Rayo Vallecano",2027-05-09T21:00:00Z,scheduled,0,1,la_2027_05_09_lpavray
+la-liga,"Valencia","Getafe",2027-05-10T14:00:00Z,scheduled,3,0,la_2027_05_10_valvget
+la-liga,"Celta Vigo","Sevilla",2027-05-10T16:15:00Z,scheduled,3,2,la_2027_05_10_celvsev
+la-liga,"Girona","Villarreal",2027-05-10T18:30:00Z,scheduled,0,1,la_2027_05_10_girvvil
+la-liga,"Mallorca","Valladolid",2027-05-10T18:30:00Z,scheduled,2,1,la_2027_05_10_malvvld
+la-liga,"Atlético Madrid","Real Sociedad",2027-05-10T21:00:00Z,scheduled,4,0,la_2027_05_10_atmvrso
+la-liga,"Leganés","Espanyol",2027-05-11T14:00:00Z,scheduled,3,2,la_2027_05_11_legvesp
+la-liga,"Barcelona","Real Madrid",2027-05-11T16:15:00Z,scheduled,4,3,la_2027_05_11_barvrma
+la-liga,"Athletic Bilbao","Alavés",2027-05-11T18:30:00Z,scheduled,1,0,la_2027_05_11_athvala
+la-liga,"Real Betis","Osasuna",2027-05-11T21:00:00Z,scheduled,1,1,la_2027_05_11_betvosa
+la-liga,"Valladolid","Girona",2027-05-13T19:00:00Z,scheduled,0,1,la_2027_05_13_vldvgir
+la-liga,"Real Sociedad","Celta Vigo",2027-05-13T20:00:00Z,scheduled,0,1,la_2027_05_13_rsovcel
+la-liga,"Sevilla","Las Palmas",2027-05-13T21:30:00Z,scheduled,1,0,la_2027_05_13_sevvlpa
+la-liga,"Alavés","Valencia",2027-05-14T19:00:00Z,scheduled,1,0,la_2027_05_14_alavval
+la-liga,"Villarreal","Leganés",2027-05-14T19:00:00Z,scheduled,3,0,la_2027_05_14_vilvleg
+la-liga,"Real Madrid","Mallorca",2027-05-14T21:30:00Z,scheduled,2,1,la_2027_05_14_rmavmal
+la-liga,"Osasuna","Atlético Madrid",2027-05-15T19:00:00Z,scheduled,2,0,la_2027_05_15_osavatm
+la-liga,"Rayo Vallecano","Real Betis",2027-05-15T19:00:00Z,scheduled,2,2,la_2027_05_15_rayvbet
+la-liga,"Getafe","Athletic Bilbao",2027-05-15T21:30:00Z,scheduled,0,2,la_2027_05_15_getvath
+la-liga,"Espanyol","Barcelona",2027-05-15T21:30:00Z,scheduled,0,2,la_2027_05_15_espvbar
+la-liga,"Atlético Madrid","Real Betis",2027-05-18T19:00:00Z,scheduled,4,1,la_2027_05_18_atmvbet
+la-liga,"Celta Vigo","Rayo Vallecano",2027-05-18T19:00:00Z,scheduled,1,2,la_2027_05_18_celvray
+la-liga,"Barcelona","Villarreal",2027-05-18T19:00:00Z,scheduled,2,3,la_2027_05_18_barvvil
+la-liga,"Sevilla","Real Madrid",2027-05-18T19:00:00Z,scheduled,0,2,la_2027_05_18_sevvrma
+la-liga,"Valencia","Athletic Bilbao",2027-05-18T19:00:00Z,scheduled,0,1,la_2027_05_18_valvath
+la-liga,"Mallorca","Getafe",2027-05-18T19:00:00Z,scheduled,1,2,la_2027_05_18_malvget
+la-liga,"Real Sociedad","Girona",2027-05-18T19:00:00Z,scheduled,3,2,la_2027_05_18_rsovgir
+la-liga,"Valladolid","Alavés",2027-05-18T19:00:00Z,scheduled,0,1,la_2027_05_18_vldvala
+la-liga,"Las Palmas","Leganés",2027-05-18T19:00:00Z,scheduled,0,1,la_2027_05_18_lpavleg
+la-liga,"Osasuna","Espanyol",2027-05-18T19:00:00Z,scheduled,2,0,la_2027_05_18_osavesp
+la-liga,"Real Betis","Valencia",2027-05-23T21:00:00Z,scheduled,0,0,la_2027_05_23_betvval
+la-liga,"Real Madrid","Real Sociedad",2027-05-24T16:15:00Z,scheduled,0,0,la_2027_05_24_rmavrso
+la-liga,"Leganés","Valladolid",2027-05-24T18:30:00Z,scheduled,0,0,la_2027_05_24_legvvld
+la-liga,"Espanyol","Las Palmas",2027-05-24T18:30:00Z,scheduled,0,0,la_2027_05_24_espvlpa
+la-liga,"Alavés","Osasuna",2027-05-24T21:00:00Z,scheduled,0,0,la_2027_05_24_alavosa
+la-liga,"Getafe","Celta Vigo",2027-05-24T21:00:00Z,scheduled,0,0,la_2027_05_24_getvcel
+la-liga,"Rayo Vallecano","Mallorca",2027-05-24T21:00:00Z,scheduled,0,0,la_2027_05_24_rayvmal
+la-liga,"Girona","Atlético Madrid",2027-05-25T14:00:00Z,scheduled,0,0,la_2027_05_25_girvatm
+la-liga,"Villarreal","Sevilla",2027-05-25T16:15:00Z,scheduled,0,0,la_2027_05_25_vilvsev
+la-liga,"Athletic Bilbao","Barcelona",2027-05-25T21:00:00Z,scheduled,0,0,la_2027_05_25_athvbar
+serie-a,"Genoa","Inter Milan",2026-08-17T18:30:00Z,finished,2,2,se_2026_08_17_genvint
+serie-a,"Parma","Fiorentina",2026-08-17T18:30:00Z,finished,1,1,se_2026_08_17_parvfio
+serie-a,"Empoli","Monza",2026-08-17T20:45:00Z,finished,0,0,se_2026_08_17_empvmon
+serie-a,"AC Milan","Torino",2026-08-17T20:45:00Z,finished,2,2,se_2026_08_17_milvtor
+serie-a,"Bologna","Udinese",2026-08-18T18:30:00Z,finished,1,1,se_2026_08_18_bolvudi
+serie-a,"Verona","Napoli",2026-08-18T18:30:00Z,finished,3,0,se_2026_08_18_vervnap
+serie-a,"Cagliari","Roma",2026-08-18T20:45:00Z,finished,0,0,se_2026_08_18_cagvrom
+serie-a,"Lazio","Venezia",2026-08-18T20:45:00Z,finished,3,1,se_2026_08_18_lazvven
+serie-a,"Lecce","Atalanta",2026-08-19T18:30:00Z,finished,0,4,se_2026_08_19_lecvata
+serie-a,"Juventus","Como",2026-08-19T20:45:00Z,finished,3,0,se_2026_08_19_juvvcom
+serie-a,"Parma","AC Milan",2026-08-24T18:30:00Z,finished,2,1,se_2026_08_24_parvmil
+serie-a,"Udinese","Lazio",2026-08-24T18:30:00Z,finished,2,1,se_2026_08_24_udivlaz
+serie-a,"Inter Milan","Lecce",2026-08-24T20:45:00Z,finished,2,0,se_2026_08_24_intvlec
+serie-a,"Monza","Genoa",2026-08-24T20:45:00Z,finished,0,1,se_2026_08_24_monvgen
+serie-a,"Fiorentina","Venezia",2026-08-25T18:30:00Z,finished,0,0,se_2026_08_25_fiovven
+serie-a,"Torino","Atalanta",2026-08-25T18:30:00Z,finished,2,1,se_2026_08_25_torvata
+serie-a,"Napoli","Bologna",2026-08-25T20:45:00Z,finished,3,0,se_2026_08_25_napvbol
+serie-a,"Roma","Empoli",2026-08-25T20:45:00Z,finished,1,2,se_2026_08_25_romvemp
+serie-a,"Cagliari","Como",2026-08-26T18:30:00Z,finished,1,1,se_2026_08_26_cagvcom
+serie-a,"Verona","Juventus",2026-08-26T20:45:00Z,finished,0,3,se_2026_08_26_vervjuv
+serie-a,"Venezia","Torino",2026-08-30T18:30:00Z,finished,0,1,se_2026_08_30_venvtor
+serie-a,"Inter Milan","Atalanta",2026-08-30T20:45:00Z,finished,4,0,se_2026_08_30_intvata
+serie-a,"Bologna","Empoli",2026-08-31T18:30:00Z,finished,1,1,se_2026_08_31_bolvemp
+serie-a,"Lecce","Cagliari",2026-08-31T18:30:00Z,finished,1,0,se_2026_08_31_lecvcag
+serie-a,"Lazio","AC Milan",2026-08-31T20:45:00Z,finished,2,2,se_2026_08_31_lazvmil
+serie-a,"Napoli","Parma",2026-08-31T20:45:00Z,finished,2,1,se_2026_08_31_napvpar
+serie-a,"Fiorentina","Monza",2026-09-01T18:30:00Z,finished,2,2,se_2026_09_01_fiovmon
+serie-a,"Genoa","Verona",2026-09-01T18:30:00Z,finished,0,2,se_2026_09_01_genvver
+serie-a,"Juventus","Roma",2026-09-01T20:45:00Z,finished,0,0,se_2026_09_01_juvvrom
+serie-a,"Udinese","Como",2026-09-01T20:45:00Z,finished,1,0,se_2026_09_01_udivcom
+serie-a,"Como","Bologna",2026-09-14T15:00:00Z,finished,2,2,se_2026_09_14_comvbol
+serie-a,"Empoli","Juventus",2026-09-14T18:00:00Z,finished,0,0,se_2026_09_14_empvjuv
+serie-a,"AC Milan","Venezia",2026-09-14T20:45:00Z,finished,4,0,se_2026_09_14_milvven
+serie-a,"Genoa","Roma",2026-09-15T12:30:00Z,finished,1,1,se_2026_09_15_genvrom
+serie-a,"Atalanta","Fiorentina",2026-09-15T15:00:00Z,finished,3,2,se_2026_09_15_atavfio
+serie-a,"Torino","Lecce",2026-09-15T15:00:00Z,finished,0,0,se_2026_09_15_torvlec
+serie-a,"Cagliari","Napoli",2026-09-15T18:00:00Z,finished,0,4,se_2026_09_15_cagvnap
+serie-a,"Monza","Inter Milan",2026-09-15T20:45:00Z,finished,1,1,se_2026_09_15_monvint
+serie-a,"Parma","Udinese",2026-09-16T18:30:00Z,finished,2,3,se_2026_09_16_parvudi
+serie-a,"Lazio","Verona",2026-09-16T20:45:00Z,finished,2,1,se_2026_09_16_lazvver
+serie-a,"Cagliari","Empoli",2026-09-20T18:30:00Z,scheduled,0,2,se_2026_09_20_cagvemp
+serie-a,"Verona","Torino",2026-09-20T20:45:00Z,scheduled,2,3,se_2026_09_20_vervtor
+serie-a,"Venezia","Genoa",2026-09-21T15:00:00Z,scheduled,2,0,se_2026_09_21_venvgen
+serie-a,"Juventus","Napoli",2026-09-21T18:00:00Z,scheduled,0,0,se_2026_09_21_juvvnap
+serie-a,"Lecce","Parma",2026-09-21T20:45:00Z,scheduled,2,2,se_2026_09_21_lecvpar
+serie-a,"Fiorentina","Lazio",2026-09-22T12:30:00Z,scheduled,2,1,se_2026_09_22_fiovlaz
+serie-a,"Monza","Bologna",2026-09-22T15:00:00Z,scheduled,1,2,se_2026_09_22_monvbol
+serie-a,"Roma","Udinese",2026-09-22T18:00:00Z,scheduled,3,0,se_2026_09_22_romvudi
+serie-a,"Inter Milan","AC Milan",2026-09-22T20:45:00Z,scheduled,1,2,se_2026_09_22_intvmil
+serie-a,"Atalanta","Como",2026-09-24T20:45:00Z,scheduled,2,3,se_2026_09_24_atavcom
+serie-a,"AC Milan","Lecce",2026-09-27T20:45:00Z,scheduled,3,0,se_2026_09_27_milvlec
+serie-a,"Udinese","Inter Milan",2026-09-28T15:00:00Z,scheduled,2,3,se_2026_09_28_udivint
+serie-a,"Genoa","Juventus",2026-09-28T18:00:00Z,scheduled,0,3,se_2026_09_28_genvjuv
+serie-a,"Bologna","Atalanta",2026-09-28T20:45:00Z,scheduled,1,1,se_2026_09_28_bolvata
+serie-a,"Torino","Lazio",2026-09-29T12:30:00Z,scheduled,2,3,se_2026_09_29_torvlaz
+serie-a,"Como","Verona",2026-09-29T15:00:00Z,scheduled,3,2,se_2026_09_29_comvver
+serie-a,"Roma","Venezia",2026-09-29T15:00:00Z,scheduled,2,1,se_2026_09_29_romvven
+serie-a,"Empoli","Fiorentina",2026-09-29T18:00:00Z,scheduled,0,0,se_2026_09_29_empvfio
+serie-a,"Napoli","Monza",2026-09-29T20:45:00Z,scheduled,2,0,se_2026_09_29_napvmon
+serie-a,"Parma","Cagliari",2026-09-30T20:45:00Z,scheduled,2,3,se_2026_09_30_parvcag
+serie-a,"Napoli","Como",2026-10-04T18:30:00Z,scheduled,3,1,se_2026_10_04_napvcom
+serie-a,"Verona","Venezia",2026-10-04T20:45:00Z,scheduled,2,1,se_2026_10_04_vervven
+serie-a,"Udinese","Lecce",2026-10-05T15:00:00Z,scheduled,1,0,se_2026_10_05_udivlec
+serie-a,"Atalanta","Genoa",2026-10-05T18:00:00Z,scheduled,5,1,se_2026_10_05_atavgen
+serie-a,"Inter Milan","Torino",2026-10-05T20:45:00Z,scheduled,3,2,se_2026_10_05_intvtor
+serie-a,"Juventus","Cagliari",2026-10-06T12:30:00Z,scheduled,1,1,se_2026_10_06_juvvcag
+serie-a,"Bologna","Parma",2026-10-06T15:00:00Z,scheduled,0,0,se_2026_10_06_bolvpar
+serie-a,"Lazio","Empoli",2026-10-06T15:00:00Z,scheduled,2,1,se_2026_10_06_lazvemp
+serie-a,"Monza","Roma",2026-10-06T18:00:00Z,scheduled,1,1,se_2026_10_06_monvrom
+serie-a,"Fiorentina","AC Milan",2026-10-06T20:45:00Z,scheduled,2,1,se_2026_10_06_fiovmil
+serie-a,"Como","Parma",2026-10-19T15:00:00Z,scheduled,1,1,se_2026_10_19_comvpar
+serie-a,"Genoa","Bologna",2026-10-19T15:00:00Z,scheduled,2,2,se_2026_10_19_genvbol
+serie-a,"AC Milan","Udinese",2026-10-19T18:00:00Z,scheduled,1,0,se_2026_10_19_milvudi
+serie-a,"Juventus","Lazio",2026-10-19T20:45:00Z,scheduled,1,0,se_2026_10_19_juvvlaz
+serie-a,"Empoli","Napoli",2026-10-20T12:30:00Z,scheduled,0,1,se_2026_10_20_empvnap
+serie-a,"Lecce","Fiorentina",2026-10-20T15:00:00Z,scheduled,0,6,se_2026_10_20_lecvfio
+serie-a,"Venezia","Atalanta",2026-10-20T15:00:00Z,scheduled,0,2,se_2026_10_20_venvata
+serie-a,"Cagliari","Torino",2026-10-20T18:00:00Z,scheduled,3,2,se_2026_10_20_cagvtor
+serie-a,"Roma","Inter Milan",2026-10-20T20:45:00Z,scheduled,0,1,se_2026_10_20_romvint
+serie-a,"Verona","Monza",2026-10-21T20:45:00Z,scheduled,0,3,se_2026_10_21_vervmon
+serie-a,"Udinese","Cagliari",2026-10-25T18:30:00Z,scheduled,2,0,se_2026_10_25_udivcag
+serie-a,"Torino","Como",2026-10-25T20:45:00Z,scheduled,1,0,se_2026_10_25_torvcom
+serie-a,"Napoli","Lecce",2026-10-26T15:00:00Z,scheduled,1,0,se_2026_10_26_napvlec
+serie-a,"Atalanta","Verona",2026-10-26T20:45:00Z,scheduled,6,1,se_2026_10_26_atavver
+serie-a,"Parma","Empoli",2026-10-27T12:30:00Z,scheduled,1,1,se_2026_10_27_parvemp
+serie-a,"Lazio","Genoa",2026-10-27T15:00:00Z,scheduled,3,0,se_2026_10_27_lazvgen
+serie-a,"Monza","Venezia",2026-10-27T15:00:00Z,scheduled,2,2,se_2026_10_27_monvven
+serie-a,"Inter Milan","Juventus",2026-10-27T18:00:00Z,scheduled,4,4,se_2026_10_27_intvjuv
+serie-a,"Fiorentina","Roma",2026-10-27T20:45:00Z,scheduled,5,1,se_2026_10_27_fiovrom
+serie-a,"Cagliari","Bologna",2026-10-29T18:30:00Z,scheduled,0,2,se_2026_10_29_cagvbol
+serie-a,"Lecce","Verona",2026-10-29T18:30:00Z,scheduled,1,0,se_2026_10_29_lecvver
+serie-a,"AC Milan","Napoli",2026-10-29T20:45:00Z,scheduled,0,2,se_2026_10_29_milvnap
+serie-a,"Empoli","Inter Milan",2026-10-30T18:30:00Z,scheduled,0,3,se_2026_10_30_empvint
+serie-a,"Venezia","Udinese",2026-10-30T18:30:00Z,scheduled,3,2,se_2026_10_30_venvudi
+serie-a,"Atalanta","Monza",2026-10-30T20:45:00Z,scheduled,2,0,se_2026_10_30_atavmon
+serie-a,"Juventus","Parma",2026-10-30T20:45:00Z,scheduled,2,2,se_2026_10_30_juvvpar
+serie-a,"Genoa","Fiorentina",2026-10-31T18:30:00Z,scheduled,0,1,se_2026_10_31_genvfio
+serie-a,"Como","Lazio",2026-10-31T20:45:00Z,scheduled,1,5,se_2026_10_31_comvlaz
+serie-a,"Roma","Torino",2026-10-31T20:45:00Z,scheduled,1,0,se_2026_10_31_romvtor
+serie-a,"Bologna","Lecce",2026-11-02T15:00:00Z,scheduled,1,0,se_2026_11_02_bolvlec
+serie-a,"Udinese","Juventus",2026-11-02T18:00:00Z,scheduled,0,2,se_2026_11_02_udivjuv
+serie-a,"Monza","AC Milan",2026-11-02T20:45:00Z,scheduled,0,1,se_2026_11_02_monvmil
+serie-a,"Napoli","Atalanta",2026-11-03T12:30:00Z,scheduled,0,3,se_2026_11_03_napvata
+serie-a,"Torino","Fiorentina",2026-11-03T15:00:00Z,scheduled,0,1,se_2026_11_03_torvfio
+serie-a,"Verona","Roma",2026-11-03T18:00:00Z,scheduled,3,2,se_2026_11_03_vervrom
+serie-a,"Inter Milan","Venezia",2026-11-03T20:45:00Z,scheduled,1,0,se_2026_11_03_intvven
+serie-a,"Empoli","Como",2026-11-04T18:30:00Z,scheduled,1,0,se_2026_11_04_empvcom
+serie-a,"Parma","Genoa",2026-11-04T18:30:00Z,scheduled,0,1,se_2026_11_04_parvgen
+serie-a,"Lazio","Cagliari",2026-11-04T20:45:00Z,scheduled,2,1,se_2026_11_04_lazvcag
+serie-a,"Genoa","Como",2026-11-07T20:45:00Z,scheduled,1,1,se_2026_11_07_genvcom
+serie-a,"Lecce","Empoli",2026-11-08T20:45:00Z,scheduled,1,1,se_2026_11_08_lecvemp
+serie-a,"Venezia","Parma",2026-11-09T15:00:00Z,scheduled,1,2,se_2026_11_09_venvpar
+serie-a,"Cagliari","AC Milan",2026-11-09T18:00:00Z,scheduled,3,3,se_2026_11_09_cagvmil
+serie-a,"Juventus","Torino",2026-11-09T20:45:00Z,scheduled,2,0,se_2026_11_09_juvvtor
+serie-a,"Atalanta","Udinese",2026-11-10T12:30:00Z,scheduled,2,1,se_2026_11_10_atavudi
+serie-a,"Fiorentina","Verona",2026-11-10T15:00:00Z,scheduled,3,1,se_2026_11_10_fiovver
+serie-a,"Roma","Bologna",2026-11-10T15:00:00Z,scheduled,2,3,se_2026_11_10_romvbol
+serie-a,"Monza","Lazio",2026-11-10T18:00:00Z,scheduled,0,1,se_2026_11_10_monvlaz
+serie-a,"Inter Milan","Napoli",2026-11-10T20:45:00Z,scheduled,1,1,se_2026_11_10_intvnap
+serie-a,"Verona","Inter Milan",2026-11-23T15:00:00Z,scheduled,0,5,se_2026_11_23_vervint
+serie-a,"AC Milan","Juventus",2026-11-23T18:00:00Z,scheduled,0,0,se_2026_11_23_milvjuv
+serie-a,"Parma","Atalanta",2026-11-23T20:45:00Z,scheduled,1,3,se_2026_11_23_parvata
+serie-a,"Genoa","Cagliari",2026-11-24T12:30:00Z,scheduled,2,2,se_2026_11_24_genvcag
+serie-a,"Como","Fiorentina",2026-11-24T15:00:00Z,scheduled,0,2,se_2026_11_24_comvfio
+serie-a,"Torino","Monza",2026-11-24T15:00:00Z,scheduled,1,1,se_2026_11_24_torvmon
+serie-a,"Napoli","Roma",2026-11-24T18:00:00Z,scheduled,1,0,se_2026_11_24_napvrom
+serie-a,"Lazio","Bologna",2026-11-24T20:45:00Z,scheduled,3,0,se_2026_11_24_lazvbol
+serie-a,"Empoli","Udinese",2026-11-25T18:30:00Z,scheduled,1,1,se_2026_11_25_empvudi
+serie-a,"Venezia","Lecce",2026-11-25T20:45:00Z,scheduled,0,1,se_2026_11_25_venvlec
+serie-a,"Cagliari","Verona",2026-11-29T20:45:00Z,scheduled,1,0,se_2026_11_29_cagvver
+serie-a,"Como","Monza",2026-11-30T15:00:00Z,scheduled,1,1,se_2026_11_30_comvmon
+serie-a,"AC Milan","Empoli",2026-11-30T18:00:00Z,scheduled,3,0,se_2026_11_30_milvemp
+serie-a,"Bologna","Venezia",2026-11-30T20:45:00Z,scheduled,3,0,se_2026_11_30_bolvven
+serie-a,"Udinese","Genoa",2026-12-01T12:30:00Z,scheduled,0,2,se_2026_12_01_udivgen
+serie-a,"Parma","Lazio",2026-12-01T15:00:00Z,scheduled,3,1,se_2026_12_01_parvlaz
+serie-a,"Torino","Napoli",2026-12-01T15:00:00Z,scheduled,0,1,se_2026_12_01_torvnap
+serie-a,"Lecce","Juventus",2026-12-01T20:45:00Z,scheduled,1,1,se_2026_12_01_lecvjuv
+serie-a,"Roma","Atalanta",2026-12-02T20:45:00Z,scheduled,0,2,se_2026_12_02_romvata
+serie-a,"Inter Milan","Parma",2026-12-06T18:30:00Z,scheduled,3,1,se_2026_12_06_intvpar
+serie-a,"Atalanta","AC Milan",2026-12-06T20:45:00Z,scheduled,2,1,se_2026_12_06_atavmil
+serie-a,"Genoa","Torino",2026-12-07T15:00:00Z,scheduled,0,0,se_2026_12_07_genvtor
+serie-a,"Juventus","Bologna",2026-12-07T18:00:00Z,scheduled,2,2,se_2026_12_07_juvvbol
+serie-a,"Roma","Lecce",2026-12-07T20:45:00Z,scheduled,4,1,se_2026_12_07_romvlec
+serie-a,"Fiorentina","Cagliari",2026-12-08T12:30:00Z,scheduled,1,0,se_2026_12_08_fiovcag
+serie-a,"Verona","Empoli",2026-12-08T15:00:00Z,scheduled,1,4,se_2026_12_08_vervemp
+serie-a,"Venezia","Como",2026-12-08T18:00:00Z,scheduled,2,2,se_2026_12_08_venvcom
+serie-a,"Napoli","Lazio",2026-12-08T20:45:00Z,scheduled,0,1,se_2026_12_08_napvlaz
+serie-a,"Monza","Udinese",2026-12-09T20:45:00Z,scheduled,1,2,se_2026_12_09_monvudi
+serie-a,"Empoli","Torino",2026-12-13T20:45:00Z,scheduled,0,1,se_2026_12_13_empvtor
+serie-a,"Cagliari","Atalanta",2026-12-14T15:00:00Z,scheduled,0,1,se_2026_12_14_cagvata
+serie-a,"Udinese","Napoli",2026-12-14T18:00:00Z,scheduled,1,3,se_2026_12_14_udivnap
+serie-a,"Juventus","Venezia",2026-12-14T20:45:00Z,scheduled,2,2,se_2026_12_14_juvvven
+serie-a,"Lecce","Monza",2026-12-15T12:30:00Z,scheduled,2,1,se_2026_12_15_lecvmon
+serie-a,"Bologna","Fiorentina",2026-12-15T15:00:00Z,scheduled,1,0,se_2026_12_15_bolvfio
+serie-a,"Parma","Verona",2026-12-15T15:00:00Z,scheduled,2,3,se_2026_12_15_parvver
+serie-a,"Como","Roma",2026-12-15T18:00:00Z,scheduled,2,0,se_2026_12_15_comvrom
+serie-a,"AC Milan","Genoa",2026-12-15T20:45:00Z,scheduled,0,0,se_2026_12_15_milvgen
+serie-a,"Lazio","Inter Milan",2026-12-16T20:45:00Z,scheduled,0,6,se_2026_12_16_lazvint
+serie-a,"Verona","AC Milan",2026-12-20T20:45:00Z,scheduled,0,1,se_2026_12_20_vervmil
+serie-a,"Torino","Bologna",2026-12-21T15:00:00Z,scheduled,0,2,se_2026_12_21_torvbol
+serie-a,"Genoa","Napoli",2026-12-21T18:00:00Z,scheduled,1,2,se_2026_12_21_genvnap
+serie-a,"Lecce","Lazio",2026-12-21T20:45:00Z,scheduled,1,2,se_2026_12_21_lecvlaz
+serie-a,"Roma","Parma",2026-12-22T12:30:00Z,scheduled,5,0,se_2026_12_22_romvpar
+serie-a,"Venezia","Cagliari",2026-12-22T15:00:00Z,scheduled,2,1,se_2026_12_22_venvcag
+serie-a,"Atalanta","Empoli",2026-12-22T18:00:00Z,scheduled,3,2,se_2026_12_22_atavemp
+serie-a,"Monza","Juventus",2026-12-22T20:45:00Z,scheduled,1,2,se_2026_12_22_monvjuv
+serie-a,"Fiorentina","Udinese",2026-12-23T18:30:00Z,scheduled,1,2,se_2026_12_23_fiovudi
+serie-a,"Inter Milan","Como",2026-12-23T20:45:00Z,scheduled,2,0,se_2026_12_23_intvcom
+serie-a,"Empoli","Genoa",2026-12-28T15:00:00Z,scheduled,1,2,se_2026_12_28_empvgen
+serie-a,"Parma","Monza",2026-12-28T15:00:00Z,scheduled,2,1,se_2026_12_28_parvmon
+serie-a,"Cagliari","Inter Milan",2026-12-28T18:00:00Z,scheduled,0,3,se_2026_12_28_cagvint
+serie-a,"Lazio","Atalanta",2026-12-28T20:45:00Z,scheduled,1,1,se_2026_12_28_lazvata
+serie-a,"Udinese","Torino",2026-12-29T12:30:00Z,scheduled,2,2,se_2026_12_29_udivtor
+serie-a,"Napoli","Venezia",2026-12-29T15:00:00Z,scheduled,1,0,se_2026_12_29_napvven
+serie-a,"Juventus","Fiorentina",2026-12-29T18:00:00Z,scheduled,2,2,se_2026_12_29_juvvfio
+serie-a,"AC Milan","Roma",2026-12-29T20:45:00Z,scheduled,1,1,se_2026_12_29_milvrom
+serie-a,"Como","Lecce",2026-12-30T18:30:00Z,scheduled,2,0,se_2026_12_30_comvlec
+serie-a,"Bologna","Verona",2026-12-30T20:45:00Z,scheduled,2,3,se_2026_12_30_bolvver
+serie-a,"Venezia","Empoli",2027-01-04T15:00:00Z,scheduled,1,1,se_2027_01_04_venvemp
+serie-a,"Fiorentina","Napoli",2027-01-04T18:00:00Z,scheduled,0,3,se_2027_01_04_fiovnap
+serie-a,"Verona","Udinese",2027-01-04T20:45:00Z,scheduled,0,0,se_2027_01_04_vervudi
+serie-a,"Monza","Cagliari",2027-01-05T12:30:00Z,scheduled,1,2,se_2027_01_05_monvcag
+serie-a,"Lecce","Genoa",2027-01-05T15:00:00Z,scheduled,0,0,se_2027_01_05_lecvgen
+serie-a,"Torino","Parma",2027-01-05T18:00:00Z,scheduled,0,0,se_2027_01_05_torvpar
+serie-a,"Roma","Lazio",2027-01-05T20:45:00Z,scheduled,2,0,se_2027_01_05_romvlaz
+serie-a,"Lazio","Como",2027-01-10T20:45:00Z,scheduled,1,1,se_2027_01_10_lazvcom
+serie-a,"Empoli","Lecce",2027-01-11T15:00:00Z,scheduled,1,3,se_2027_01_11_empvlec
+serie-a,"Udinese","Atalanta",2027-01-11T15:00:00Z,scheduled,0,0,se_2027_01_11_udivata
+serie-a,"Torino","Juventus",2027-01-11T18:00:00Z,scheduled,1,1,se_2027_01_11_torvjuv
+serie-a,"AC Milan","Cagliari",2027-01-11T20:45:00Z,scheduled,1,1,se_2027_01_11_milvcag
+serie-a,"Genoa","Parma",2027-01-12T12:30:00Z,scheduled,1,0,se_2027_01_12_genvpar
+serie-a,"Venezia","Inter Milan",2027-01-12T15:00:00Z,scheduled,0,1,se_2027_01_12_venvint
+serie-a,"Bologna","Roma",2027-01-12T18:00:00Z,scheduled,2,2,se_2027_01_12_bolvrom
+serie-a,"Napoli","Verona",2027-01-12T20:45:00Z,scheduled,2,0,se_2027_01_12_napvver
+serie-a,"Monza","Fiorentina",2027-01-13T20:45:00Z,scheduled,2,1,se_2027_01_13_monvfio
+serie-a,"Como","AC Milan",2027-01-14T18:30:00Z,scheduled,1,2,se_2027_01_14_comvmil
+serie-a,"Atalanta","Juventus",2027-01-14T20:45:00Z,scheduled,1,1,se_2027_01_14_atavjuv
+serie-a,"Inter Milan","Bologna",2027-01-15T20:45:00Z,scheduled,2,2,se_2027_01_15_intvbol
+serie-a,"Roma","Genoa",2027-01-17T20:45:00Z,scheduled,3,1,se_2027_01_17_romvgen
+serie-a,"Bologna","Monza",2027-01-18T15:00:00Z,scheduled,3,1,se_2027_01_18_bolvmon
+serie-a,"Juventus","AC Milan",2027-01-18T18:00:00Z,scheduled,2,0,se_2027_01_18_juvvmil
+serie-a,"Atalanta","Napoli",2027-01-18T20:45:00Z,scheduled,2,3,se_2027_01_18_atavnap
+serie-a,"Fiorentina","Torino",2027-01-19T12:30:00Z,scheduled,1,1,se_2027_01_19_fiovtor
+serie-a,"Cagliari","Lecce",2027-01-19T15:00:00Z,scheduled,4,1,se_2027_01_19_cagvlec
+serie-a,"Parma","Venezia",2027-01-19T15:00:00Z,scheduled,1,1,se_2027_01_19_parvven
+serie-a,"Verona","Lazio",2027-01-19T18:00:00Z,scheduled,0,3,se_2027_01_19_vervlaz
+serie-a,"Inter Milan","Empoli",2027-01-19T20:45:00Z,scheduled,3,1,se_2027_01_19_intvemp
+serie-a,"Como","Udinese",2027-01-20T20:45:00Z,scheduled,4,1,se_2027_01_20_comvudi
+serie-a,"Torino","Cagliari",2027-01-24T20:45:00Z,scheduled,2,0,se_2027_01_24_torvcag
+serie-a,"Como","Atalanta",2027-01-25T15:00:00Z,scheduled,1,2,se_2027_01_25_comvata
+serie-a,"Napoli","Juventus",2027-01-25T18:00:00Z,scheduled,2,1,se_2027_01_25_napvjuv
+serie-a,"Empoli","Bologna",2027-01-25T20:45:00Z,scheduled,1,1,se_2027_01_25_empvbol
+serie-a,"AC Milan","Parma",2027-01-26T12:30:00Z,scheduled,3,2,se_2027_01_26_milvpar
+serie-a,"Udinese","Roma",2027-01-26T15:00:00Z,scheduled,1,2,se_2027_01_26_udivrom
+serie-a,"Lecce","Inter Milan",2027-01-26T18:00:00Z,scheduled,0,4,se_2027_01_26_lecvint
+serie-a,"Lazio","Fiorentina",2027-01-26T20:45:00Z,scheduled,1,2,se_2027_01_26_lazvfio
+serie-a,"Venezia","Verona",2027-01-27T18:30:00Z,scheduled,1,1,se_2027_01_27_venvver
+serie-a,"Genoa","Monza",2027-01-27T20:45:00Z,scheduled,2,0,se_2027_01_27_genvmon
+serie-a,"Parma","Lecce",2027-01-31T20:45:00Z,scheduled,1,3,se_2027_01_31_parvlec
+serie-a,"Monza","Verona",2027-02-01T15:00:00Z,scheduled,0,1,se_2027_02_01_monvver
+serie-a,"Udinese","Venezia",2027-02-01T15:00:00Z,scheduled,3,2,se_2027_02_01_udivven
+serie-a,"Atalanta","Torino",2027-02-01T18:00:00Z,scheduled,1,1,se_2027_02_01_atavtor
+serie-a,"Bologna","Como",2027-02-01T20:45:00Z,scheduled,2,0,se_2027_02_01_bolvcom
+serie-a,"Juventus","Empoli",2027-02-02T12:30:00Z,scheduled,4,1,se_2027_02_02_juvvemp
+serie-a,"Fiorentina","Genoa",2027-02-02T15:00:00Z,scheduled,2,1,se_2027_02_02_fiovgen
+serie-a,"AC Milan","Inter Milan",2027-02-02T18:00:00Z,scheduled,1,1,se_2027_02_02_milvint
+serie-a,"Roma","Napoli",2027-02-02T20:45:00Z,scheduled,1,1,se_2027_02_02_romvnap
+serie-a,"Cagliari","Lazio",2027-02-03T20:45:00Z,scheduled,1,2,se_2027_02_03_cagvlaz
+serie-a,"Fiorentina","Inter Milan",2027-02-06T20:45:00Z,scheduled,3,0,se_2027_02_06_fiovint
+serie-a,"Como","Juventus",2027-02-07T20:45:00Z,scheduled,1,2,se_2027_02_07_comvjuv
+serie-a,"Verona","Atalanta",2027-02-08T15:00:00Z,scheduled,0,5,se_2027_02_08_vervata
+serie-a,"Empoli","AC Milan",2027-02-08T18:00:00Z,scheduled,0,2,se_2027_02_08_empvmil
+serie-a,"Torino","Genoa",2027-02-08T20:45:00Z,scheduled,1,1,se_2027_02_08_torvgen
+serie-a,"Venezia","Roma",2027-02-09T12:30:00Z,scheduled,0,1,se_2027_02_09_venvrom
+serie-a,"Cagliari","Parma",2027-02-09T15:00:00Z,scheduled,2,1,se_2027_02_09_cagvpar
+serie-a,"Lazio","Monza",2027-02-09T15:00:00Z,scheduled,5,1,se_2027_02_09_lazvmon
+serie-a,"Lecce","Bologna",2027-02-09T18:00:00Z,scheduled,0,0,se_2027_02_09_lecvbol
+serie-a,"Napoli","Udinese",2027-02-09T20:45:00Z,scheduled,1,1,se_2027_02_09_napvudi
+serie-a,"Inter Milan","Fiorentina",2027-02-10T20:45:00Z,scheduled,2,1,se_2027_02_10_intvfio
+serie-a,"Bologna","Torino",2027-02-14T20:45:00Z,scheduled,3,2,se_2027_02_14_bolvtor
+serie-a,"Atalanta","Cagliari",2027-02-15T15:00:00Z,scheduled,0,0,se_2027_02_15_atavcag
+serie-a,"Lazio","Napoli",2027-02-15T18:00:00Z,scheduled,2,2,se_2027_02_15_lazvnap
+serie-a,"AC Milan","Verona",2027-02-15T20:45:00Z,scheduled,1,0,se_2027_02_15_milvver
+serie-a,"Fiorentina","Como",2027-02-16T12:30:00Z,scheduled,0,2,se_2027_02_16_fiovcom
+serie-a,"Monza","Lecce",2027-02-16T15:00:00Z,scheduled,0,0,se_2027_02_16_monvlec
+serie-a,"Udinese","Empoli",2027-02-16T15:00:00Z,scheduled,3,0,se_2027_02_16_udivemp
+serie-a,"Parma","Roma",2027-02-16T18:00:00Z,scheduled,0,1,se_2027_02_16_parvrom
+serie-a,"Juventus","Inter Milan",2027-02-16T20:45:00Z,scheduled,1,0,se_2027_02_16_juvvint
+serie-a,"Genoa","Venezia",2027-02-17T20:45:00Z,scheduled,2,0,se_2027_02_17_genvven
+serie-a,"Lecce","Udinese",2027-02-21T20:45:00Z,scheduled,0,1,se_2027_02_21_lecvudi
+serie-a,"Parma","Bologna",2027-02-22T15:00:00Z,scheduled,2,0,se_2027_02_22_parvbol
+serie-a,"Venezia","Lazio",2027-02-22T15:00:00Z,scheduled,0,0,se_2027_02_22_venvlaz
+serie-a,"Torino","AC Milan",2027-02-22T18:00:00Z,scheduled,2,1,se_2027_02_22_torvmil
+serie-a,"Inter Milan","Genoa",2027-02-22T20:45:00Z,scheduled,1,0,se_2027_02_22_intvgen
+serie-a,"Como","Napoli",2027-02-23T12:30:00Z,scheduled,2,1,se_2027_02_23_comvnap
+serie-a,"Verona","Fiorentina",2027-02-23T15:00:00Z,scheduled,1,0,se_2027_02_23_vervfio
+serie-a,"Empoli","Atalanta",2027-02-23T18:00:00Z,scheduled,0,5,se_2027_02_23_empvata
+serie-a,"Cagliari","Juventus",2027-02-23T20:45:00Z,scheduled,0,1,se_2027_02_23_cagvjuv
+serie-a,"Roma","Monza",2027-02-24T20:45:00Z,scheduled,4,0,se_2027_02_24_romvmon
+serie-a,"Bologna","AC Milan",2027-02-27T20:45:00Z,scheduled,2,1,se_2027_02_27_bolvmil
+serie-a,"Fiorentina","Lecce",2027-02-28T20:45:00Z,scheduled,1,0,se_2027_02_28_fiovlec
+serie-a,"Atalanta","Venezia",2027-03-01T15:00:00Z,scheduled,0,0,se_2027_03_01_atavven
+serie-a,"Napoli","Inter Milan",2027-03-01T18:00:00Z,scheduled,1,1,se_2027_03_01_napvint
+serie-a,"Udinese","Parma",2027-03-01T20:45:00Z,scheduled,1,0,se_2027_03_01_udivpar
+serie-a,"Monza","Torino",2027-03-02T12:30:00Z,scheduled,0,2,se_2027_03_02_monvtor
+serie-a,"Bologna","Cagliari",2027-03-02T15:00:00Z,scheduled,2,1,se_2027_03_02_bolvcag
+serie-a,"Genoa","Empoli",2027-03-02T15:00:00Z,scheduled,1,1,se_2027_03_02_genvemp
+serie-a,"Roma","Como",2027-03-02T18:00:00Z,scheduled,2,1,se_2027_03_02_romvcom
+serie-a,"AC Milan","Lazio",2027-03-02T20:45:00Z,scheduled,1,2,se_2027_03_02_milvlaz
+serie-a,"Juventus","Verona",2027-03-03T20:45:00Z,scheduled,2,0,se_2027_03_03_juvvver
+serie-a,"Cagliari","Genoa",2027-03-07T20:45:00Z,scheduled,1,1,se_2027_03_07_cagvgen
+serie-a,"Como","Venezia",2027-03-08T15:00:00Z,scheduled,1,1,se_2027_03_08_comvven
+serie-a,"Parma","Torino",2027-03-08T15:00:00Z,scheduled,2,2,se_2027_03_08_parvtor
+serie-a,"Lecce","AC Milan",2027-03-08T18:00:00Z,scheduled,2,3,se_2027_03_08_lecvmil
+serie-a,"Inter Milan","Monza",2027-03-08T20:45:00Z,scheduled,3,2,se_2027_03_08_intvmon
+serie-a,"Verona","Bologna",2027-03-09T12:30:00Z,scheduled,1,2,se_2027_03_09_vervbol
+serie-a,"Napoli","Fiorentina",2027-03-09T15:00:00Z,scheduled,2,1,se_2027_03_09_napvfio
+serie-a,"Empoli","Roma",2027-03-09T18:00:00Z,scheduled,0,1,se_2027_03_09_empvrom
+serie-a,"Juventus","Atalanta",2027-03-09T20:45:00Z,scheduled,0,4,se_2027_03_09_juvvata
+serie-a,"Lazio","Udinese",2027-03-10T20:45:00Z,scheduled,1,1,se_2027_03_10_lazvudi
+serie-a,"Genoa","Lecce",2027-03-14T20:45:00Z,scheduled,2,1,se_2027_03_14_genvlec
+serie-a,"Monza","Parma",2027-03-15T15:00:00Z,scheduled,1,1,se_2027_03_15_monvpar
+serie-a,"Udinese","Verona",2027-03-15T15:00:00Z,scheduled,0,1,se_2027_03_15_udivver
+serie-a,"AC Milan","Como",2027-03-15T18:00:00Z,scheduled,2,1,se_2027_03_15_milvcom
+serie-a,"Torino","Empoli",2027-03-15T20:45:00Z,scheduled,1,0,se_2027_03_15_torvemp
+serie-a,"Venezia","Napoli",2027-03-16T12:30:00Z,scheduled,0,0,se_2027_03_16_venvnap
+serie-a,"Bologna","Lazio",2027-03-16T15:00:00Z,scheduled,5,0,se_2027_03_16_bolvlaz
+serie-a,"Roma","Cagliari",2027-03-16T16:00:00Z,scheduled,1,0,se_2027_03_16_romvcag
+serie-a,"Fiorentina","Juventus",2027-03-16T18:00:00Z,scheduled,3,0,se_2027_03_16_fiovjuv
+serie-a,"Atalanta","Inter Milan",2027-03-16T20:45:00Z,scheduled,0,2,se_2027_03_16_atavint
+serie-a,"Como","Empoli",2027-03-29T15:00:00Z,scheduled,1,1,se_2027_03_29_comvemp
+serie-a,"Venezia","Bologna",2027-03-29T15:00:00Z,scheduled,0,1,se_2027_03_29_venvbol
+serie-a,"Juventus","Genoa",2027-03-29T18:00:00Z,scheduled,1,0,se_2027_03_29_juvvgen
+serie-a,"Lecce","Roma",2027-03-29T20:45:00Z,scheduled,0,1,se_2027_03_29_lecvrom
+serie-a,"Cagliari","Monza",2027-03-30T12:30:00Z,scheduled,3,0,se_2027_03_30_cagvmon
+serie-a,"Fiorentina","Atalanta",2027-03-30T15:00:00Z,scheduled,1,0,se_2027_03_30_fiovata
+serie-a,"Inter Milan","Udinese",2027-03-30T18:00:00Z,scheduled,2,1,se_2027_03_30_intvudi
+serie-a,"Napoli","AC Milan",2027-03-30T20:45:00Z,scheduled,2,1,se_2027_03_30_napvmil
+serie-a,"Verona","Parma",2027-03-31T18:30:00Z,scheduled,0,0,se_2027_03_31_vervpar
+serie-a,"Lazio","Torino",2027-03-31T20:45:00Z,scheduled,1,1,se_2027_03_31_lazvtor
+serie-a,"Genoa","Udinese",2027-04-04T20:45:00Z,scheduled,1,0,se_2027_04_04_genvudi
+serie-a,"Monza","Como",2027-04-05T15:00:00Z,scheduled,1,3,se_2027_04_05_monvcom
+serie-a,"Parma","Inter Milan",2027-04-05T18:00:00Z,scheduled,2,2,se_2027_04_05_parvint
+serie-a,"AC Milan","Fiorentina",2027-04-05T20:45:00Z,scheduled,2,2,se_2027_04_05_milvfio
+serie-a,"Lecce","Venezia",2027-04-06T12:30:00Z,scheduled,1,1,se_2027_04_06_lecvven
+serie-a,"Empoli","Cagliari",2027-04-06T15:00:00Z,scheduled,0,0,se_2027_04_06_empvcag
+serie-a,"Torino","Verona",2027-04-06T15:00:00Z,scheduled,1,1,se_2027_04_06_torvver
+serie-a,"Atalanta","Lazio",2027-04-06T18:00:00Z,scheduled,0,1,se_2027_04_06_atavlaz
+serie-a,"Roma","Juventus",2027-04-06T20:45:00Z,scheduled,1,1,se_2027_04_06_romvjuv
+serie-a,"Bologna","Napoli",2027-04-07T20:45:00Z,scheduled,1,1,se_2027_04_07_bolvnap
+serie-a,"Udinese","AC Milan",2027-04-11T20:45:00Z,scheduled,0,4,se_2027_04_11_udivmil
+serie-a,"Venezia","Monza",2027-04-12T15:00:00Z,scheduled,1,0,se_2027_04_12_venvmon
+serie-a,"Inter Milan","Cagliari",2027-04-12T18:00:00Z,scheduled,3,1,se_2027_04_12_intvcag
+serie-a,"Juventus","Lecce",2027-04-12T20:45:00Z,scheduled,2,1,se_2027_04_12_juvvlec
+serie-a,"Atalanta","Bologna",2027-04-13T12:30:00Z,scheduled,2,0,se_2027_04_13_atavbol
+serie-a,"Fiorentina","Parma",2027-04-13T15:00:00Z,scheduled,0,0,se_2027_04_13_fiovpar
+serie-a,"Verona","Genoa",2027-04-13T15:00:00Z,scheduled,0,0,se_2027_04_13_vervgen
+serie-a,"Como","Torino",2027-04-13T18:00:00Z,scheduled,1,0,se_2027_04_13_comvtor
+serie-a,"Lazio","Roma",2027-04-13T20:45:00Z,scheduled,1,1,se_2027_04_13_lazvrom
+serie-a,"Napoli","Empoli",2027-04-14T20:45:00Z,scheduled,3,0,se_2027_04_14_napvemp
+serie-a,"Lecce","Como",2027-04-19T15:00:00Z,scheduled,0,3,se_2027_04_19_lecvcom
+serie-a,"Monza","Napoli",2027-04-19T18:00:00Z,scheduled,0,1,se_2027_04_19_monvnap
+serie-a,"Roma","Verona",2027-04-19T20:45:00Z,scheduled,1,0,se_2027_04_19_romvver
+serie-a,"Empoli","Venezia",2027-04-20T15:00:00Z,scheduled,2,2,se_2027_04_20_empvven
+serie-a,"Bologna","Inter Milan",2027-04-20T18:00:00Z,scheduled,1,0,se_2027_04_20_bolvint
+serie-a,"AC Milan","Atalanta",2027-04-20T20:45:00Z,scheduled,0,1,se_2027_04_20_milvata
+serie-a,"Cagliari","Fiorentina",2027-04-23T18:30:00Z,scheduled,1,2,se_2027_04_23_cagvfio
+serie-a,"Genoa","Lazio",2027-04-23T18:30:00Z,scheduled,0,2,se_2027_04_23_genvlaz
+serie-a,"Parma","Juventus",2027-04-23T18:30:00Z,scheduled,1,0,se_2027_04_23_parvjuv
+serie-a,"Torino","Udinese",2027-04-23T18:30:00Z,scheduled,2,0,se_2027_04_23_torvudi
+serie-a,"Como","Genoa",2027-04-27T12:30:00Z,scheduled,1,0,se_2027_04_27_comvgen
+serie-a,"Venezia","AC Milan",2027-04-27T12:30:00Z,scheduled,0,2,se_2027_04_27_venvmil
+serie-a,"Fiorentina","Empoli",2027-04-27T15:00:00Z,scheduled,2,1,se_2027_04_27_fiovemp
+serie-a,"Inter Milan","Roma",2027-04-27T15:00:00Z,scheduled,0,1,se_2027_04_27_intvrom
+serie-a,"Juventus","Monza",2027-04-27T18:00:00Z,scheduled,2,0,se_2027_04_27_juvvmon
+serie-a,"Atalanta","Lecce",2027-04-27T20:45:00Z,scheduled,1,1,se_2027_04_27_atavlec
+serie-a,"Napoli","Torino",2027-04-27T20:45:00Z,scheduled,2,0,se_2027_04_27_napvtor
+serie-a,"Udinese","Bologna",2027-04-28T18:30:00Z,scheduled,0,0,se_2027_04_28_udivbol
+serie-a,"Verona","Cagliari",2027-04-28T20:45:00Z,scheduled,0,2,se_2027_04_28_vervcag
+serie-a,"Lazio","Parma",2027-04-28T20:45:00Z,scheduled,2,2,se_2027_04_28_lazvpar
+serie-a,"Torino","Venezia",2027-05-02T20:45:00Z,scheduled,1,1,se_2027_05_02_torvven
+serie-a,"Cagliari","Udinese",2027-05-03T15:00:00Z,scheduled,1,2,se_2027_05_03_cagvudi
+serie-a,"Parma","Como",2027-05-03T15:00:00Z,scheduled,0,1,se_2027_05_03_parvcom
+serie-a,"Lecce","Napoli",2027-05-03T18:00:00Z,scheduled,0,1,se_2027_05_03_lecvnap
+serie-a,"Inter Milan","Verona",2027-05-03T20:45:00Z,scheduled,1,0,se_2027_05_03_intvver
+serie-a,"Empoli","Lazio",2027-05-04T12:30:00Z,scheduled,0,1,se_2027_05_04_empvlaz
+serie-a,"Monza","Atalanta",2027-05-04T15:00:00Z,scheduled,0,4,se_2027_05_04_monvata
+serie-a,"Roma","Fiorentina",2027-05-04T18:00:00Z,scheduled,1,0,se_2027_05_04_romvfio
+serie-a,"Bologna","Juventus",2027-05-04T20:45:00Z,scheduled,1,1,se_2027_05_04_bolvjuv
+serie-a,"Genoa","AC Milan",2027-05-05T20:45:00Z,scheduled,1,2,se_2027_05_05_genvmil
+serie-a,"AC Milan","Bologna",2027-05-09T20:45:00Z,scheduled,3,1,se_2027_05_09_milvbol
+serie-a,"Como","Cagliari",2027-05-10T15:00:00Z,scheduled,3,1,se_2027_05_10_comvcag
+serie-a,"Lazio","Juventus",2027-05-10T18:00:00Z,scheduled,1,1,se_2027_05_10_lazvjuv
+serie-a,"Empoli","Parma",2027-05-10T20:45:00Z,scheduled,2,1,se_2027_05_10_empvpar
+serie-a,"Udinese","Monza",2027-05-11T12:30:00Z,scheduled,1,2,se_2027_05_11_udivmon
+serie-a,"Verona","Lecce",2027-05-11T15:00:00Z,scheduled,1,1,se_2027_05_11_vervlec
+serie-a,"Torino","Inter Milan",2027-05-11T18:00:00Z,scheduled,0,2,se_2027_05_11_torvint
+serie-a,"Napoli","Genoa",2027-05-11T20:45:00Z,scheduled,2,2,se_2027_05_11_napvgen
+serie-a,"Venezia","Fiorentina",2027-05-12T18:30:00Z,scheduled,2,1,se_2027_05_12_venvfio
+serie-a,"Atalanta","Roma",2027-05-12T20:45:00Z,scheduled,2,1,se_2027_05_12_atavrom
+serie-a,"Genoa","Atalanta",2027-05-17T20:45:00Z,scheduled,2,3,se_2027_05_17_genvata
+serie-a,"Cagliari","Venezia",2027-05-18T20:45:00Z,scheduled,3,0,se_2027_05_18_cagvven
+serie-a,"Fiorentina","Bologna",2027-05-18T20:45:00Z,scheduled,3,2,se_2027_05_18_fiovbol
+serie-a,"Verona","Como",2027-05-18T20:45:00Z,scheduled,1,1,se_2027_05_18_vervcom
+serie-a,"Inter Milan","Lazio",2027-05-18T20:45:00Z,scheduled,2,2,se_2027_05_18_intvlaz
+serie-a,"Juventus","Udinese",2027-05-18T20:45:00Z,scheduled,2,0,se_2027_05_18_juvvudi
+serie-a,"Lecce","Torino",2027-05-18T20:45:00Z,scheduled,1,0,se_2027_05_18_lecvtor
+serie-a,"Monza","Empoli",2027-05-18T20:45:00Z,scheduled,1,3,se_2027_05_18_monvemp
+serie-a,"Parma","Napoli",2027-05-18T20:45:00Z,scheduled,0,0,se_2027_05_18_parvnap
+serie-a,"Roma","AC Milan",2027-05-18T20:45:00Z,scheduled,3,1,se_2027_05_18_romvmil
+serie-a,"Como","Inter Milan",2027-05-23T20:45:00Z,scheduled,0,0,se_2027_05_23_comvint
+serie-a,"Napoli","Cagliari",2027-05-23T20:45:00Z,scheduled,0,0,se_2027_05_23_napvcag
+serie-a,"Bologna","Genoa",2027-05-24T18:00:00Z,scheduled,0,0,se_2027_05_24_bolvgen
+serie-a,"AC Milan","Monza",2027-05-24T20:45:00Z,scheduled,0,0,se_2027_05_24_milvmon
+serie-a,"Atalanta","Parma",2027-05-25T20:45:00Z,scheduled,0,0,se_2027_05_25_atavpar
+serie-a,"Empoli","Verona",2027-05-25T20:45:00Z,scheduled,0,0,se_2027_05_25_empvver
+serie-a,"Lazio","Lecce",2027-05-25T20:45:00Z,scheduled,0,0,se_2027_05_25_lazvlec
+serie-a,"Torino","Roma",2027-05-25T20:45:00Z,scheduled,0,0,se_2027_05_25_torvrom
+serie-a,"Udinese","Fiorentina",2027-05-25T20:45:00Z,scheduled,0,0,se_2027_05_25_udivfio
+serie-a,"Venezia","Juventus",2027-05-25T20:45:00Z,scheduled,0,0,se_2027_05_25_venvjuv

@@ -1,0 +1,61 @@
+league_slug,team_name,short_name,logo_url,external_team_id
+premier-league,"Arsenal",ARS,,pl_arsenal
+premier-league,"Aston Villa",AVL,,pl_avl
+premier-league,"Bournemouth",BOU,,pl_bou
+premier-league,"Brentford",BRE,,pl_bre
+premier-league,"Brighton & Hove Albion",BHA,,pl_bha
+premier-league,"Chelsea",CHE,,pl_che
+premier-league,"Crystal Palace",CRY,,pl_cry
+premier-league,"Everton",EVE,,pl_eve
+premier-league,"Fulham",FUL,,pl_ful
+premier-league,"Ipswich Town",IPS,,pl_ips
+premier-league,"Leicester City",LEI,,pl_lei
+premier-league,"Liverpool",LIV,,pl_liv
+premier-league,"Manchester City",MCI,,pl_mci
+premier-league,"Manchester United",MUN,,pl_mun
+premier-league,"Newcastle United",NEW,,pl_new
+premier-league,"Nottingham Forest",NFO,,pl_nfo
+premier-league,"Southampton",SOU,,pl_sou
+premier-league,"Tottenham Hotspur",TOT,,pl_tot
+premier-league,"West Ham United",WHU,,pl_whu
+premier-league,"Wolverhampton Wanderers",WOL,,pl_wol
+la-liga,"Alavés",ALA,,ll_ala
+la-liga,"Athletic Bilbao",ATH,,ll_ath
+la-liga,"Atlético Madrid",ATM,,ll_atm
+la-liga,"Barcelona",BAR,,ll_bar
+la-liga,"Celta Vigo",CEL,,ll_cel
+la-liga,"Espanyol",ESP,,ll_esp
+la-liga,"Getafe",GET,,ll_get
+la-liga,"Girona",GIR,,ll_gir
+la-liga,"Las Palmas",LPA,,ll_lpa
+la-liga,"Mallorca",MAL,,ll_mal
+la-liga,"Osasuna",OSA,,ll_osa
+la-liga,"Rayo Vallecano",RAY,,ll_ray
+la-liga,"Real Betis",BET,,ll_bet
+la-liga,"Real Madrid",RMA,,ll_rma
+la-liga,"Real Sociedad",RSO,,ll_rso
+la-liga,"Sevilla",SEV,,ll_sev
+la-liga,"Valencia",VAL,,ll_val
+la-liga,"Valladolid",VLD,,ll_vld
+la-liga,"Villarreal",VIL,,ll_vil
+la-liga,"Leganés",LEG,,ll_leg
+serie-a,"Atalanta",ATA,,sa_ata
+serie-a,"Bologna",BOL,,sa_bol
+serie-a,"Cagliari",CAG,,sa_cag
+serie-a,"Como",COM,,sa_com
+serie-a,"Empoli",EMP,,sa_emp
+serie-a,"Fiorentina",FIO,,sa_fio
+serie-a,"Genoa",GEN,,sa_gen
+serie-a,"Inter Milan",INT,,sa_int
+serie-a,"Juventus",JUV,,sa_juv
+serie-a,"Lazio",LAZ,,sa_laz
+serie-a,"Lecce",LEC,,sa_lec
+serie-a,"AC Milan",MIL,,sa_mil
+serie-a,"Monza",MON,,sa_mon
+serie-a,"Napoli",NAP,,sa_nap
+serie-a,"Parma",PAR,,sa_par
+serie-a,"Roma",ROM,,sa_rom
+serie-a,"Torino",TOR,,sa_tor
+serie-a,"Udinese",UDI,,sa_udi
+serie-a,"Venezia",VEN,,sa_ven
+serie-a,"Verona",VER,,sa_ver
