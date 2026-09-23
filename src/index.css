@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sora: 'Sora', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+  
+  --color-abay-bg: #FFFFFF;
+  --color-abay-surface: #F0F6FC;
+  --color-abay-surface-alt: #E3EEFA;
+  --color-abay-border: rgba(11, 79, 158, 0.12);
+  --color-abay-text: #0E1A2B;
+  --color-abay-text-secondary: #66758A;
+  --color-abay-skyblue: #2E9BFF;
+  --color-abay-deepblue: #0B4F9E;
+  --color-abay-ludo: #2E9BFF;
+  --color-abay-fantasy: #0B4F9E;
+  --color-abay-unchase: #17B8D6;
+  --color-abay-danger: #FF5A6E;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #F8FAFD;
+  color: #0E1A2B;
+  overflow-x: hidden;
+}
+
+.font-sora {
+  font-family: 'Sora', sans-serif;
+}
+
+/* Custom smooth scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(11, 79, 158, 0.2);
+  border-radius: 9999px;
+}
+
+@keyframes pulse-subtle {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.6;
+    transform: scale(1.08);
+  }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 2s infinite ease-in-out;
+}
+
+@keyframes glow-soft {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(46, 155, 255, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(46, 155, 255, 0.7);
+  }
+}
+
+.animate-glow-soft {
+  animation: glow-soft 2s infinite ease-in-out;
+}
+
